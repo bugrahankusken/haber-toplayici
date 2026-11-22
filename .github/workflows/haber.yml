@@ -1,10 +1,13 @@
 name: Haftalik haber toplama
 on:
   schedule:
-    - cron: "0 12 * * 0"   # Her Pazar 12:00 UTC = 15:00 Türkiye saati
+    - cron: "0 12 * * 0"
   workflow_dispatch: {}
 permissions:
   contents: write
+concurrency:
+  group: haber
+  cancel-in-progress: false
 jobs:
   topla:
     runs-on: ubuntu-latest
@@ -23,4 +26,8 @@ jobs:
           git config user.email "haber-bot@users.noreply.github.com"
           git add haberler.json arsiv
           git commit -m "Haftalik haber verisi" || echo "degisiklik yok"
-          git push
+          for i in 1 2 3 4 5; do
+            git pull --rebase -X theirs origin main && git push origin main && exit 0
+            sleep 5
+          done
+          exit 1
