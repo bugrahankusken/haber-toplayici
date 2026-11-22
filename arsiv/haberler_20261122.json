@@ -1,0 +1,3911 @@
+{
+ "hafta_baslangic": "2026-11-16",
+ "hafta_bitis": "2026-11-22",
+ "uretim_zamani": "2026-11-22T20:39:42+03:00",
+ "not": "Yalnızca tarihi doğrulanan haberler 'haberler' listesindedir; tarihi bulunamayanlar 'tarihsiz'dedir ve doğrulanmadan kullanılmamalıdır.",
+ "ulusal": {
+  "AA": {
+   "haberler": [
+    {
+     "baslik": "NYT: Çin'in casusları Nvidia skandalından yıllar önce yapay zeka çiplerini hedef aldı",
+     "link": "https://www.aa.com.tr/tr/bilim-teknoloji/nyt-cinin-casuslari-nvidia-skandalindan-yillar-once-yapay-zeka-ciplerini-hedef-aldi/4133763",
+     "tarih": "2026-11-22",
+     "ozet": "Çin'in istihbarat teşkilatı olarak tanınan Devlet Güvenlik Bakanlığının (MSS) yetkililerinin ABD'de yaşanan Nvidia skandalından yıllar önce yapay zeka çipleri ve tedarik zincirlerini hedef aldığı iddia edildi."
+    },
+    {
+     "baslik": "Yemen'de İran destekli Husiler ile hükümet güçleri arasındaki çatışmalar sürüyor",
+     "link": "https://www.aa.com.tr/tr/dunya/yemende-iran-destekli-husiler-ile-hukumet-gucleri-arasindaki-catismalar-suruyor/4133761",
+     "tarih": "2026-11-22",
+     "ozet": "Yemen'de İran destekli Husiler ile hükümet güçleri arasında Taiz ve Marib'deki cephelerde çatışmalar yaşandı."
+    },
+    {
+     "baslik": "BM Genel Sekreteri Guterres'ten COP31 kararları için gelişmiş ülkelere çağrı",
+     "link": "https://www.aa.com.tr/tr/dunya/bm-genel-sekreteri-guterresten-cop31-kararlari-icin-gelismis-ulkelere-cagri/4133722",
+     "tarih": "2026-11-22",
+     "ozet": "Birleşmiş Milletler Genel Sekreteri Antonio Guterres, gelişmiş ülkelere, iklim hedefleri için ihtiyaç duyulan uyum finansmanını 3 katına çıkarma ve sağlanan desteği en çok ihtiyaç duyan ülkelere ulaştırma taahhütlerini yerine getirme çağrısı yaptı."
+    },
+    {
+     "baslik": "Hürmüz Boğazı'nda 4 petrol tankeri mayına çarptı",
+     "link": "https://www.aa.com.tr/tr/dunya/hurmuz-bogazinda-4-petrol-tankeri-mayina-carpti/4133721",
+     "tarih": "2026-11-22",
+     "ozet": "Hürmüz Boğazı'nın doğusunda izin verilmeyen bölgeye girdiği belirtilen 4 petrol tankerinin deniz mayınına çarparak alev aldığı duyuruldu."
+    },
+    {
+     "baslik": "İran, ABD ve 4 Avrupa ülkesinde, savaş suçları iddiasıyla hukuki süreç başlattı",
+     "link": "https://www.aa.com.tr/tr/dunya/iran-abd-ve-4-avrupa-ulkesinde-savas-suclari-iddiasiyla-hukuki-surec-baslatti/4133680",
+     "tarih": "2026-11-22",
+     "ozet": "İran'da Hukuk İşlerinden Sorumlu Cumhurbaşkanı Yardımcısı Mecid Ensari, ülkesine karşı savaş suçları işlendiği gerekçesiyle ABD ve 4 Avrupa ülkesinin mahkemelerinde hukuki süreç başlattıklarını bildirdi."
+    },
+    {
+     "baslik": "Lübnan'daki Yukarı Nebatiye halkı, İsrail saldırılarına rağmen evlerine dönecekleri günü bekliyor",
+     "link": "https://www.aa.com.tr/tr/dunya/lubnandaki-yukari-nebatiye-halki-israil-saldirilarina-ragmen-evlerine-donecekleri-gunu-bekliyor/4133662",
+     "tarih": "2026-11-22",
+     "ozet": "İsrail saldırıları nedeniyle Lübnan'ın güneyindeki Yukarı Nebatiye beldesinden ayrılmak zorunda kalan aileler, ülkenin 83. bağımsızlık yıl dönümünde aylar sonra kısa süreliğine de olsa döndükleri evlerinin enkazında geçmişlerinden izler aradı."
+    },
+    {
+     "baslik": "Çin'den ABD'nin Çinli telekomünikasyon operatörlerinin erişimini engellemesine tepki",
+     "link": "https://www.aa.com.tr/tr/dunya/cinden-abdnin-cinli-telekomunikasyon-operatorlerinin-erisimini-engellemesine-tepki/4133700",
+     "tarih": "2026-11-22",
+     "ozet": "Pekin yönetimi, ABD Federal İletişim Komisyonunun (FCC) Çinli telekomünikasyon operatörlerinin ülkedeki telefon numaralarına doğrudan erişimini yasaklayan düzenlemesine tepki gösterdi."
+    },
+    {
+     "baslik": "Trump, Senato Çoğunluk Lideri olması halinde Demokrat Senatör Schumer ile çalışmasının zor olacağını belirtti",
+     "link": "https://www.aa.com.tr/tr/dunya/trump-senato-cogunluk-lideri-olmasi-halinde-demokrat-senator-schumer-ile-calismasinin-zor-olacagini-belirtti/4133692",
+     "tarih": "2026-11-22",
+     "ozet": "ABD Başkanı Donald Trump, Demokrat Senatör Chuck Schumer'ın Senato Çoğunluk Lideri olması halinde kendisiyle çalışmasının \"çok zor\" olacağını belirtti."
+    },
+    {
+     "baslik": "İran Cumhurbaşkanı Pezeşkiyan: Savaş halindeki hiçbir ülkede kalkınma gerçekleşmez",
+     "link": "https://www.aa.com.tr/tr/dunya/iran-cumhurbaskani-pezeskiyan-savas-halindeki-hicbir-ulkede-kalkinma-gerceklesmez/4133664",
+     "tarih": "2026-11-22",
+     "ozet": "İran Cumhurbaşkanı Mesud Pezeşkiyan, savaş koşullarında hiçbir ülkede kalkınmanın mümkün olmadığını belirterek çatışmaların ekonomik kısıtlamaları artırdığını söyledi."
+    },
+    {
+     "baslik": "Libya'nın doğusundaki yönetim, Bingazi’deki patlamanın Rus gemisinde meydana geldiğini doğruladı",
+     "link": "https://www.aa.com.tr/tr/dunya/libyanin-dogusundaki-yonetim-bingazi-deki-patlamanin-rus-gemisinde-meydana-geldigini-dogruladi/4133678",
+     "tarih": "2026-11-22",
+     "ozet": "Libya Temsilciler Meclisinin atadığı ülkenin doğusundaki hükümet, Bingazi Limanı'nda meydana gelen patlamanın limana demirli bir Rus gemisinde meydana geldiğini duyurdu."
+    },
+    {
+     "baslik": "Adalet Bakanı Gürlek: Fon soruşturmalarında 85 kişiden toplam 44,58 milyar lira tahsil edildi",
+     "link": "https://www.aa.com.tr/tr/gundem/adalet-bakani-gurlek-fon-sorusturmalarinda-85-kisiden-toplam-44-58-milyar-lira-tahsil-edildi/4133673",
+     "tarih": "2026-11-22",
+     "ozet": "Adalet Bakanı Akın Gürlek, fon soruşturmalarında şimdiye kadar 632 şüphelinin bulunduğunu, gönüllü iade ve geri kazanım kapsamında 85 kişiden toplam 44,58 milyar lira tahsil edildiğini bildirdi."
+    },
+    {
+     "baslik": "Kasımpaşa, konuk ettiği Alanyaspor'u yendi",
+     "link": "https://www.aa.com.tr/tr/spor/kasimpasa-konuk-ettigi-alanyasporu-yendi/4133622",
+     "tarih": "2026-11-22",
+     "ozet": "Trendyol Süper Lig'in 12. haftasında Kasımpaşa, konuk ettiği Corendon Alanyaspor'u 2-1 yendi."
+    },
+    {
+     "baslik": "Beşiktaş, Konyaspor'u 4-2 mağlup etti",
+     "link": "https://www.aa.com.tr/tr/spor/besiktas-konyasporu-4-2-maglup-etti/4133621",
+     "tarih": "2026-11-22",
+     "ozet": "Trendyol Süper Lig'in 12. haftasında Beşiktaş, konuk olduğu TÜMOSAN Konyaspor'u 4-2 mağlup etti."
+    },
+    {
+     "baslik": "Shakhtar Donetsk'te 8 oyuncu, Fenerbahçe maçı öncesi takımla Londra'ya gidemedi",
+     "link": "https://www.aa.com.tr/tr/spor/shakhtar-donetskte-8-oyuncu-fenerbahce-maci-oncesi-takimla-londraya-gidemedi/4133661",
+     "tarih": "2026-11-22",
+     "ozet": "Ukrayna ekibi Shakhtar Donetsk'in 8 oyuncusu, UEFA Şampiyonlar Ligi'nde 25 Kasım Çarşamba günü Fenerbahçe ile oynanacak maç öncesi takımla Londra'ya gidemedi."
+    },
+    {
+     "baslik": "Zengezur Koridoru ve İpek Yolu'nun geleceği Iğdır'daki uluslararası kongrede görüşülecek",
+     "link": "https://www.aa.com.tr/tr/gundem/zengezur-koridoru-ve-ipek-yolunun-gelecegi-igdirdaki-uluslararasi-kongrede-gorusulecek/4133647",
+     "tarih": "2026-11-22",
+     "ozet": "Iğdır Üniversitesi Rektörü Prof. Dr. Ekrem Gürel, \"Avrupa'dan başlayıp Anadolu'yu boydan boya geçip Pekin'e kadar giden uzun bir yolun hikayesini, İpek Yolu'nun ana merkezlerinden biri olan Iğdır'da konuşmaya başlayacağız.\" dedi."
+    },
+    {
+     "baslik": "MotoGP'de Marc Marquez şampiyon oldu",
+     "link": "https://www.aa.com.tr/tr/spor/motogpde-marc-marquez-sampiyon-oldu/4133642",
+     "tarih": "2026-11-22",
+     "ozet": "MotoGP'de 2026 sezonunda, İspanyol pilot Marc Marquez şampiyonluğa ulaştı."
+    },
+    {
+     "baslik": "Muş'ta sağanak ve rüzgar hasara yol açtı",
+     "link": "https://www.aa.com.tr/tr/gundem/musta-saganak-ve-ruzgar-hasara-yol-acti/4133627",
+     "tarih": "2026-11-22",
+     "ozet": "Muş'ta etkili olan sağanak ve şiddetli rüzgar nedeniyle bazı köy yolları ile ev ve iş yerlerinin çatıları hasar gördü."
+    },
+    {
+     "baslik": "60 saniyede bugün (22 Kasım 2026)",
+     "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-22-kasim-2026/4133596",
+     "tarih": "2026-11-22",
+     "ozet": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet’in katkılarıyla..."
+    },
+    {
+     "baslik": "\"Türkiye Yüzyılı'nda Maziden Atiye\" kamp programı Şırnak'ta düzenlendi",
+     "link": "https://www.aa.com.tr/tr/gundem/turkiye-yuzyilinda-maziden-atiye-kamp-programi-sirnakta-duzenlendi/4132084",
+     "tarih": "2026-11-20",
+     "ozet": "\"Türkiye Yüzyılı'nda Maziden Atiye\" kamp programı Şırnak'ta gerçekleştirildi."
+    },
+    {
+     "baslik": "Avrasya Pencere ve Kapı Fuarı ile Avrasya Cam Fuarı İstanbul'da kapılarını açtı",
+     "link": "https://www.aa.com.tr/tr/ekonomi/avrasya-pencere-ve-kapi-fuari-ile-avrasya-cam-fuari-istanbulda-kapilarini-acti/4133610",
+     "tarih": "2026-11-22",
+     "ozet": "Yapı sektörünün uluslararası buluşmaları arasında yer alan Avrasya Pencere ve Kapı Fuarı ile Avrasya Cam Fuarı, 34 ülkeden 750'nin üzerinde katılımcıyla eş zamanlı olarak Tüyap Fuar ve Kongre Merkezi'nde kapılarını açtı."
+    },
+    {
+     "baslik": "İstanbul Cumhuriyet Başsavcılığı, HGS hakkındaki iddialar ve şikayetler üzerine soruşturma başlattı",
+     "link": "https://www.aa.com.tr/tr/gundem/istanbul-cumhuriyet-bassavciligi-hgs-hakkindaki-iddialar-ve-sikayetler-uzerine-sorusturma-baslatti/4133599",
+     "tarih": "2026-11-22",
+     "ozet": "Bakan Gürlek, HGS icra takiplerinde icra mekanizmalarının hileli veya hukuka aykırı yöntemlerle haksız kazanç aracına dönüştürüldüğüne ilişkin iddialar ve şikayetler üzerine İstanbul Cumhuriyet Başsavcılığınca soruşturma başlatıldığını açıkladı."
+    },
+    {
+     "baslik": "Gençlerbirliği’nin yeni başkanı Ali Osman Avşar oldu",
+     "link": "https://www.aa.com.tr/tr/spor/genclerbirligi-nin-yeni-baskani-ali-osman-avsar-oldu/4133539",
+     "tarih": "2026-11-22",
+     "ozet": "Kırmızı-siyahlı kulübün tüzük değişikliği yaptığı olağanüstü seçimli genel kurulunda başkan seçilen Ali Osman Avşar, \"Gençlerbirliği'ne iki evladıma nasıl bakmışsam öyle bakacağım.\" dedi."
+    },
+    {
+     "baslik": "Binnur Ersay'ın üç temalı kişisel sergisi Galataport'ta sanatseverlerle buluştu",
+     "link": "https://www.aa.com.tr/tr/kultur/binnur-ersayin-uc-temali-kisisel-sergisi-galataportta-sanatseverlerle-bulustu/4133182",
+     "tarih": "2026-11-21",
+     "ozet": "Sanatçı Binnur Ersay'ın \"Zamansız Nallar\", \"Renklerin Hafızası\" ve \"Yedi Tepe Bir Bakış\" başlıklı üç bölümden oluşan kişisel resim sergisi, Galataport İstanbul Paket Postanesi'nde sanatseverlerle buluştu."
+    },
+    {
+     "baslik": "Göztepe deplasmandan 3 puanla ayrıldı",
+     "link": "https://www.aa.com.tr/tr/spor/goztepe-deplasmandan-3-puanla-ayrildi/4133530",
+     "tarih": "2026-11-22",
+     "ozet": "Trendyol Süper Lig'in 12. haftasında Göztepe, deplasmanda Erzurumspor FK'yi 1-0 mağlup etti."
+    },
+    {
+     "baslik": "A Milli Erkek Basketbol Takımı'nda Yavuz ve Yiğitcan kadrodan çıkarıldı",
+     "link": "https://www.aa.com.tr/tr/spor/a-milli-erkek-basketbol-takiminda-yavuz-ve-yigitcan-kadrodan-cikarildi/4133567",
+     "tarih": "2026-11-22",
+     "ozet": "FIBA 2027 Basketbol Dünya Kupası Elemeleri İkinci Tur J Grubu'nda İtalya ve İzlanda ile karşılaşacak A Milli Erkek Basketbol Takımı'nda Yavuz Gültekin ve Yiğitcan Saybir'in kadrodan çıkarıldığı duyuruldu."
+    },
+    {
+     "baslik": "Yusufeli Barajı'ndan Türkiye ekonomisine 16,7 milyar lirayı aşan katkı",
+     "link": "https://www.aa.com.tr/tr/ekonomi/yusufeli-barajindan-turkiye-ekonomisine-16-7-milyar-lirayi-asan-katki/4133562",
+     "tarih": "2026-11-22",
+     "ozet": "Tarım ve Orman Bakanı Yumaklı, \"Yusufeli, 275 metre gövde yüksekliği, ürettiği 5,6 milyar kilovatsaat elektrik ve ekonomimize sağladığı 16,7 milyar lirayı aşan katkıyla ülkemizin gururu olmaya devam ediyor.\" ifadesini kullandı."
+    },
+    {
+     "baslik": "Rusya: Almanya ve İngiltere savunma bakanlarının \"aklı yerinde değil\"",
+     "link": "https://www.aa.com.tr/tr/dunya/rusya-almanya-ve-ingiltere-savunma-bakanlarinin-akli-yerinde-degil/4133563",
+     "tarih": "2026-11-22",
+     "ozet": "Lavrov, Almanya Savunma Bakanı Boris Pistorius ve İngiltere Savunma Bakanı Wes Streeting'in, Ukrayna'nın Rus topraklarına yönelik saldırılarını destekleyen açıklamalarını eleştirerek, söz konusu isimlerin \"akıllarının yerinde olmadığını\" söyledi."
+    },
+    {
+     "baslik": "KKTC Başbakanı Üstel: Hedefimiz, KKTC'yi daha ileriye taşımak",
+     "link": "https://www.aa.com.tr/tr/dunya/kktc-basbakani-ustel-hedefimiz-kktcyi-daha-ileriye-tasimak/4133542",
+     "tarih": "2026-11-22",
+     "ozet": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Başbakanı ve Ulusal Birlik Partisi (UBP) Genel Başkanı Ünal Üstel, Kıbrıs'ta birbirlerine komşu iki ayrı devlet olduğunu vurgulayarak, \"Hedefimiz, KKTC'yi daha ileriye taşımak.\" dedi."
+    },
+    {
+     "baslik": "İran'da kasım sonundan itibaren planlı elektrik kesintileri uygulanacak",
+     "link": "https://www.aa.com.tr/tr/dunya/iranda-kasim-sonundan-itibaren-planli-elektrik-kesintileri-uygulanacak/4133528",
+     "tarih": "2026-11-22",
+     "ozet": "İran genelinde elektrik santrallerinde yaşanan yakıt temini sorunları ve artan elektrik tüketimi nedeniyle kasım ayının son günlerinden itibaren planlı elektrik kesintileri uygulanacağı bildirildi."
+    },
+    {
+     "baslik": "İletişim Başkanlığından \"Türkiye'nin Diplomasi Rotası: Dört Zirvede Lider Diplomasisi\" belgeseli",
+     "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskanligindan-turkiyenin-diplomasi-rotasi-dort-zirvede-lider-diplomasisi-belgeseli/4133475",
+     "tarih": "2026-11-22",
+     "ozet": "İletişim Başkanlığı, Cumhurbaşkanı Erdoğan'ın NATO, BM, TDT ve COP31 zirvelerindeki yoğun diplomasi trafiğini, liderlerle kritik görüşmelerini içeren \"Türkiye'nin Diplomasi Rotası: Dört Zirvede Lider Diplomasisi\" belgeselini hazırladı."
+    }
+   ],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "hata": null
+  },
+  "ANKA": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "hata": null
+  },
+  "Sözcü": {
+   "haberler": [
+    {
+     "baslik": "Sel baskınlarına karşı şehri bataklıklarla çevirecekler",
+     "link": "https://www.sozcu.com.tr/sel-baskinlarina-karsi-sehri-batakliklarla-cevirecekler-p383519",
+     "tarih": "2026-11-22",
+     "ozet": "Sel baskınlarına karşı şehri bataklıklarla çevirecekler"
+    },
+    {
+     "baslik": "Şeyma Subaşı'nın menemenine yorum yağdı",
+     "link": "https://www.sozcu.com.tr/seyma-subasi-nin-menemenine-yorum-yagdi-p383518",
+     "tarih": "2026-11-22",
+     "ozet": "Şeyma Subaşı'nın menemenine yorum yağdı"
+    },
+    {
+     "baslik": "Hull City son anda kazandı, Acun Ilıcalı ve Ali Koç çılgınlar gibi sevindi",
+     "link": "https://www.sozcu.com.tr/hull-city-son-anda-kazandi-acun-ilicali-ve-ali-koc-cilginlar-gibi-sevindi-p383516",
+     "tarih": "2026-11-22",
+     "ozet": "Hull City son anda kazandı, Acun Ilıcalı ve Ali Koç çılgınlar gibi sevindi"
+    },
+    {
+     "baslik": "Diyetle zayıfladığını söylemişti! Onur Büyüktopçu gerçeği itiraf etti",
+     "link": "https://www.sozcu.com.tr/diyetle-zayifladigini-soylemisti-onur-buyuktopcu-gercegi-itiraf-etti-p383514",
+     "tarih": "2026-11-22",
+     "ozet": "Diyetle zayıfladığını söylemişti! Onur Büyüktopçu gerçeği itiraf etti"
+    },
+    {
+     "baslik": "Kasımpaşa 3 puanı 90+1'de kaptı",
+     "link": "https://www.sozcu.com.tr/kasimpasa-3-puani-901de-kapti-p383513",
+     "tarih": "2026-11-22",
+     "ozet": "Kasımpaşa 3 puanı 90+1'de kaptı"
+    },
+    {
+     "baslik": "Italiano maç sonu itiraf etti: Biraz korktum",
+     "link": "https://www.sozcu.com.tr/italiano-mac-sonu-itiraf-etti-biraz-korktum-p383512",
+     "tarih": "2026-11-22",
+     "ozet": "Italiano maç sonu itiraf etti: Biraz korktum"
+    },
+    {
+     "baslik": "Acun Ilıcalı'nın galibiyet hasreti bitti!",
+     "link": "https://www.sozcu.com.tr/acun-ilicalinin-galibiyet-hasreti-bitti-p383511",
+     "tarih": "2026-11-22",
+     "ozet": "Acun Ilıcalı'nın galibiyet hasreti bitti!"
+    },
+    {
+     "baslik": "Müthiş bir gol atmıştı! Trossard'tan öz eleştiri",
+     "link": "https://www.sozcu.com.tr/muthis-bir-gol-atmisti-trossarddan-oz-elestiri-p383509",
+     "tarih": "2026-11-22",
+     "ozet": "Müthiş bir gol atmıştı! Trossard'tan öz eleştiri"
+    },
+    {
+     "baslik": "Servet harcayıp satın aldığı hayalet kasabada yıllardır tek başına yaşıyor",
+     "link": "https://www.sozcu.com.tr/servet-harcayip-satin-aldigi-hayalet-kasabada-yillardir-tek-basina-yasiyor-p383506",
+     "tarih": "2026-11-22",
+     "ozet": "Servet harcayıp satın aldığı hayalet kasabada yıllardır tek başına yaşıyor"
+    },
+    {
+     "baslik": "Mahmut Uslu’dan '11 puan' sözlerine yalanlama",
+     "link": "https://www.sozcu.com.tr/mahmut-usludan-11-puan-sozlerine-yalanlama-p383505",
+     "tarih": "2026-11-22",
+     "ozet": "Mahmut Uslu’dan '11 puan' sözlerine yalanlama"
+    },
+    {
+     "baslik": "Anadolu Efes, Trabzonspor'u deplasmanda devirdi",
+     "link": "https://www.sozcu.com.tr/anadolu-efes-trabzonspor-u-deplasmanda-devirdi-p383504",
+     "tarih": "2026-11-22",
+     "ozet": "Anadolu Efes, Trabzonspor'u deplasmanda devirdi"
+    },
+    {
+     "baslik": "Beşiktaş Başkanı Serdal Adalı, MHK'deki iki kişiyi hedef aldı: 'Yapmasınlar'",
+     "link": "https://www.sozcu.com.tr/besiktas-baskani-serdal-adali-mhkdeki-iki-kisiyi-hedef-aldi-yapmasinlar-p383503",
+     "tarih": "2026-11-22",
+     "ozet": "Beşiktaş Başkanı Serdal Adalı, MHK'deki iki kişiyi hedef aldı: 'Yapmasınlar'"
+    },
+    {
+     "baslik": "22 Euroluk bağışın bedeli 3,5 yıl hapis! Ünlü kuşbilimci cezaevinde",
+     "link": "https://www.sozcu.com.tr/22-euroluk-bagisin-bedeli-3-5-yil-hapis-unlu-kusbilimci-cezaevinde-p383501",
+     "tarih": "2026-11-22",
+     "ozet": "22 Euroluk bağışın bedeli 3,5 yıl hapis! Ünlü kuşbilimci cezaevinde"
+    },
+    {
+     "baslik": "Genç hemşireye kapıcı şoku! Evine geldiğinde karşısında buldu",
+     "link": "https://www.sozcu.com.tr/genc-hemsireye-kapici-soku-evine-geldiginde-karsisinda-buldu-p383499",
+     "tarih": "2026-11-22",
+     "ozet": "Genç hemşireye kapıcı şoku! Evine geldiğinde karşısında buldu"
+    },
+    {
+     "baslik": "145'ten fazla yerleşim yerine yayıldılar, şimdi evleri sarıyorlar",
+     "link": "https://www.sozcu.com.tr/145-ten-fazla-yerlesim-yerine-yayildilar-simdi-evleri-sariyorlar-p383498",
+     "tarih": "2026-11-22",
+     "ozet": "145'ten fazla yerleşim yerine yayıldılar, şimdi evleri sarıyorlar"
+    },
+    {
+     "baslik": "Barcelona 10 dakikada 3 golle muhteşem döndü",
+     "link": "https://www.sozcu.com.tr/barcelona-10-dakikada-3-golle-muhtesem-dondu-p383497",
+     "tarih": "2026-11-22",
+     "ozet": "Barcelona 10 dakikada 3 golle muhteşem döndü"
+    },
+    {
+     "baslik": "Bakan Gürlek'ten fon soruşturması açıklaması! 44,58 milyar TL geri alındı",
+     "link": "https://www.sozcu.com.tr/akin-gurlek-fon-sorusturmasi-aciklamasi-p383495",
+     "tarih": "2026-11-22",
+     "ozet": "Bakan Gürlek'ten fon soruşturması açıklaması! 44,58 milyar TL geri alındı"
+    },
+    {
+     "baslik": "Fenerbahçe maçı öncesi kriz! Arda Turan'ın futbolcuları sınırda mahsur kaldı",
+     "link": "https://www.sozcu.com.tr/fenerbahce-maci-oncesi-kriz-arda-turanin-futbolculari-sinirda-mahsur-kaldi-p383494",
+     "tarih": "2026-11-22",
+     "ozet": "Fenerbahçe maçı öncesi kriz! Arda Turan'ın futbolcuları sınırda mahsur kaldı"
+    },
+    {
+     "baslik": "Denizin ortasına 19 milyon metreküp kum döktüler: Şimdi üzerine şehir kuracaklar",
+     "link": "https://www.sozcu.com.tr/denizin-ortasina-19-milyon-metrekup-kum-doktuler-simdi-uzerine-sehir-kuracaklar-p383492",
+     "tarih": "2026-11-22",
+     "ozet": "Denizin ortasına 19 milyon metreküp kum döktüler: Şimdi üzerine şehir kuracaklar"
+    },
+    {
+     "baslik": "Beşiktaş kulübesi gole sevinirken Italiano'nun hareketi dikkat çekti",
+     "link": "https://www.sozcu.com.tr/besiktas-kulubesi-gole-sevinirken-italianonun-hareketi-dikkat-cekti-p383491",
+     "tarih": "2026-11-22",
+     "ozet": "Beşiktaş kulübesi gole sevinirken Italiano'nun hareketi dikkat çekti"
+    },
+    {
+     "baslik": "Ortaokuldan sonra evlendirildi, iğne oyası satıp sınava girdi! 13 yıl okuldan uzak kalan Hatice Güneş profesör oldu",
+     "link": "https://www.sozcu.com.tr/ortaokuldan-sonra-evlendirildi-igne-oyasi-satip-sinava-girdi-13-yil-okuldan-uzak-kalan-hatice-gunes-p383489",
+     "tarih": "2026-11-22",
+     "ozet": "Ortaokuldan sonra evlendirildi, iğne oyası satıp sınava girdi! 13 yıl okuldan uzak kalan Hatice Güneş profesör oldu"
+    },
+    {
+     "baslik": "Canlı | Trabzonspor - Eyüpspor maçı canlı anlatımı (Süper Lig 12. hafta)",
+     "link": "https://www.sozcu.com.tr/canli-veya-trabzonspor-eyupspor-maci-canli-anlatimi-super-lig-12-hafta-p383488",
+     "tarih": "2026-11-22",
+     "ozet": "Canlı | Trabzonspor - Eyüpspor maçı canlı anlatımı (Süper Lig 12. hafta)"
+    },
+    {
+     "baslik": "Galatasaray'da gözler Aston Villa maçına çevrildi",
+     "link": "https://www.sozcu.com.tr/galatasarayda-gozler-aston-villa-macina-cevrildi-p383482",
+     "tarih": "2026-11-22",
+     "ozet": "Galatasaray'da gözler Aston Villa maçına çevrildi"
+    },
+    {
+     "baslik": "Galatasaray'da karar verildi: Ocakta iki imza birden",
+     "link": "https://www.sozcu.com.tr/galatasarayda-karar-verildi-ocakta-iki-imza-birden-p383481",
+     "tarih": "2026-11-22",
+     "ozet": "Galatasaray'da karar verildi: Ocakta iki imza birden"
+    },
+    {
+     "baslik": "Milli Takım'da sakatlık şoku! İki oyuncu kadrodan çıkarıldı",
+     "link": "https://www.sozcu.com.tr/milli-takimda-sakatlik-soku-iki-oyuncu-kadrodan-cikarildi-p383480",
+     "tarih": "2026-11-22",
+     "ozet": "Milli Takım'da sakatlık şoku! İki oyuncu kadrodan çıkarıldı"
+    },
+    {
+     "baslik": "Vlahovic durdurulamıyor! Şimdiden Beşiktaş tarihine geçti",
+     "link": "https://www.sozcu.com.tr/vlahovic-durdurulamiyor-simdiden-besiktas-tarihine-gecti-p383477",
+     "tarih": "2026-11-22",
+     "ozet": "Vlahovic durdurulamıyor! Şimdiden Beşiktaş tarihine geçti"
+    },
+    {
+     "baslik": "Aziz Yıldırım'ın beraberlik sonrası sözleri gündem oldu",
+     "link": "https://www.sozcu.com.tr/aziz-yildirimin-beraberlik-sonrasi-sozleri-gundem-oldu-p383474",
+     "tarih": "2026-11-22",
+     "ozet": "Aziz Yıldırım'ın beraberlik sonrası sözleri gündem oldu"
+    },
+    {
+     "baslik": "Son dakika... Fon soruşturmasında yeni gelişme: İzak Bilmen gözaltına alındı",
+     "link": "https://www.sozcu.com.tr/son-dakika-fon-sorusturmasinda-yeni-gelisme-izak-bilmen-gozaltina-alindi-p383468",
+     "tarih": "2026-11-22",
+     "ozet": "Son dakika... Fon soruşturmasında yeni gelişme: İzak Bilmen gözaltına alındı"
+    },
+    {
+     "baslik": "Sıla sahnede şarkılarıyla değil kaslarıyla da şov yaptı",
+     "link": "https://www.sozcu.com.tr/sila-sahnede-sarkilariyla-degil-kaslariyla-da-sov-yapti-p383465",
+     "tarih": "2026-11-22",
+     "ozet": "Sıla sahnede şarkılarıyla değil kaslarıyla da şov yaptı"
+    },
+    {
+     "baslik": "Son dakika... HGS icra takiplerine soruşturma başlatıldı",
+     "link": "https://www.sozcu.com.tr/son-dakika-hgs-icra-takiplerine-sorusturma-baslatildi-p383463",
+     "tarih": "2026-11-22",
+     "ozet": "Son dakika... HGS icra takiplerine soruşturma başlatıldı"
+    },
+    {
+     "baslik": "PSG'de sakatlık şoku! Yıldız futbolcunun çapraz bağları yırtıldı",
+     "link": "https://www.sozcu.com.tr/psgde-sakatlik-soku-yildiz-futbolcunun-capraz-baglari-yirtildi-p383462",
+     "tarih": "2026-11-22",
+     "ozet": "PSG'de sakatlık şoku! Yıldız futbolcunun çapraz bağları yırtıldı"
+    },
+    {
+     "baslik": "Okan Buruk'tan kırmızı kart isyanı! Şok oldum",
+     "link": "https://www.sozcu.com.tr/okan-buruktan-kirmizi-kart-isyani-sok-oldum-p383461",
+     "tarih": "2026-11-22",
+     "ozet": "Okan Buruk'tan kırmızı kart isyanı! Şok oldum"
+    },
+    {
+     "baslik": "Dokunulmazlığının kaldırılması talep edildi: Sarıgül fezlekesindeki detaylar ortaya çıktı",
+     "link": "https://www.sozcu.com.tr/dokunulmazliginin-kaldirilmasi-talep-edildi-sarigul-fezlekesindeki-detaylar-ortaya-cikti-p383457",
+     "tarih": "2026-11-22",
+     "ozet": "Dokunulmazlığının kaldırılması talep edildi: Sarıgül fezlekesindeki detaylar ortaya çıktı"
+    },
+    {
+     "baslik": "Yeşilçam'ın unutulmaz oyuncusundan 87. yaşına özel paylaşım! \"Bugün 86 yıl geride kaldı…\"",
+     "link": "https://www.sozcu.com.tr/yesilcam-in-unutulmaz-oyuncusundan-87-yasina-ozel-paylasim-bugun-86-yil-geride-kaldi-p383456",
+     "tarih": "2026-11-22",
+     "ozet": "Yeşilçam'ın unutulmaz oyuncusundan 87. yaşına özel paylaşım! \"Bugün 86 yıl geride kaldı…\""
+    },
+    {
+     "baslik": "Ünlü iş insanı Levent Tahmisoğlu Köprüden atlayarak yaşamına son verdi",
+     "link": "https://www.sozcu.com.tr/unlu-is-insani-levent-tahmisoglu-kopruden-atlayarak-yasamina-son-verdi-p383455",
+     "tarih": "2026-11-22",
+     "ozet": "Ünlü iş insanı Levent Tahmisoğlu Köprüden atlayarak yaşamına son verdi"
+    },
+    {
+     "baslik": "Ajda Pekkan'dan 373 şarkı için tarihi zafer: Mahkeme son noktayı koydu",
+     "link": "https://www.sozcu.com.tr/ajda-pekkan-dan-373-sarki-icin-tarihi-zafer-mahkeme-son-noktayi-koydu-p383451",
+     "tarih": "2026-11-22",
+     "ozet": "Ajda Pekkan'dan 373 şarkı için tarihi zafer: Mahkeme son noktayı koydu"
+    },
+    {
+     "baslik": "Altın için evini, arabasını satanlara kuyumcudan kötü haber!",
+     "link": "https://www.sozcu.com.tr/altin-icin-evini-arabasini-satanlara-kuyumcudan-kotu-haber-p383448",
+     "tarih": "2026-11-22",
+     "ozet": "Altın için evini, arabasını satanlara kuyumcudan kötü haber!"
+    },
+    {
+     "baslik": "ABD'de kriz hazırlığı alışverişleri patladı: Satışlar 5 katına çıktı",
+     "link": "https://www.sozcu.com.tr/abd-de-kriz-hazirligi-alisverisleri-patladi-satislar-5-katina-cikti-p383446",
+     "tarih": "2026-11-22",
+     "ozet": "ABD'de kriz hazırlığı alışverişleri patladı: Satışlar 5 katına çıktı"
+    },
+    {
+     "baslik": "17 milyon emekliyi ilgilendiriyor! Gözler yarınki Kabine toplantısında",
+     "link": "https://www.sozcu.com.tr/17-milyon-emekliyi-ilgilendiriyor-gozler-yarinki-kabine-toplantisinda-p383445",
+     "tarih": "2026-11-22",
+     "ozet": "17 milyon emekliyi ilgilendiriyor! Gözler yarınki Kabine toplantısında"
+    },
+    {
+     "baslik": "Rıdvan Dilmen 'Kim ne derse desin' diyerek Fenerbahçe'de yapılması gerekeni açıkladı",
+     "link": "https://www.sozcu.com.tr/ridvan-dilmen-kim-ne-derse-desin-diyerek-fenerbahcede-yapilmasi-gerekeni-acikladi-p383439",
+     "tarih": "2026-11-22",
+     "ozet": "Rıdvan Dilmen 'Kim ne derse desin' diyerek Fenerbahçe'de yapılması gerekeni açıkladı"
+    },
+    {
+     "baslik": "Üç yıllık aşk sona erdi",
+     "link": "https://www.sozcu.com.tr/uc-yillik-ask-sona-erdi-p383436",
+     "tarih": "2026-11-22",
+     "ozet": "Üç yıllık aşk sona erdi"
+    },
+    {
+     "baslik": "İstanbul'da gece yarısı mide bulandıran midye operasyonu",
+     "link": "https://www.sozcu.com.tr/istanbul-da-gece-yarisi-mide-bulandiran-midye-operasyonu-p383431",
+     "tarih": "2026-11-22",
+     "ozet": "İstanbul'da gece yarısı mide bulandıran midye operasyonu"
+    },
+    {
+     "baslik": "Almila Ada anne oldu: Kızına verdiği isim merak uyandırdı",
+     "link": "https://www.sozcu.com.tr/almila-ada-anne-oldu-kizina-verdigi-isim-merak-uyandirdi-p383426",
+     "tarih": "2026-11-22",
+     "ozet": "Almila Ada anne oldu: Kızına verdiği isim merak uyandırdı"
+    },
+    {
+     "baslik": "Beşiktaş’ın deplasman fobisi Konya’da sona erdi",
+     "link": "https://www.sozcu.com.tr/canli-veya-konyaspor-besiktas-maci-canli-anlatim-p383418",
+     "tarih": "2026-11-22",
+     "ozet": "Beşiktaş’ın deplasman fobisi Konya’da sona erdi"
+    },
+    {
+     "baslik": "Okulun ilk yılında başına talih kuşu kondu: Kazarken servet buldu",
+     "link": "https://www.sozcu.com.tr/okulun-ilk-yilinda-basina-talih-kusu-kondu-kazarken-servet-buldu-p383416",
+     "tarih": "2026-11-22",
+     "ozet": "Okulun ilk yılında başına talih kuşu kondu: Kazarken servet buldu"
+    },
+    {
+     "baslik": "1,5 metrelik pasta: Seda Önder'in doğum günü pastası masayı kapladı",
+     "link": "https://www.sozcu.com.tr/1-5-metrelik-pasta-seda-onder-in-dogum-gunu-pastasi-masayi-kapladi-p383412",
+     "tarih": "2026-11-22",
+     "ozet": "1,5 metrelik pasta: Seda Önder'in doğum günü pastası masayı kapladı"
+    },
+    {
+     "baslik": "Yol verme kavgasında bıçaklanan öğretmen hayatını kaybetti",
+     "link": "https://www.sozcu.com.tr/yol-verme-kavgasinda-bicaklanan-ogretmen-hayatini-kaybetti-p383408",
+     "tarih": "2026-11-22",
+     "ozet": "Yol verme kavgasında bıçaklanan öğretmen hayatını kaybetti"
+    },
+    {
+     "baslik": "Türkiye'nin en iyi üniversitesi açıklandı: ODTÜ veya Boğaziçi değil",
+     "link": "https://www.sozcu.com.tr/turkiye-nin-en-iyi-universitesi-aciklandi-odtu-veya-bogazici-degil-p383407",
+     "tarih": "2026-11-22",
+     "ozet": "Türkiye'nin en iyi üniversitesi açıklandı: ODTÜ veya Boğaziçi değil"
+    },
+    {
+     "baslik": "Nil Karaibrahimgil binlerce kişiye seslendi: Ters smokiniyle sahneye çıktı",
+     "link": "https://www.sozcu.com.tr/nil-karaibrahimgil-binlerce-kisiye-seslendi-ters-smokiniyle-sahneye-cikti-p383405",
+     "tarih": "2026-11-22",
+     "ozet": "Nil Karaibrahimgil binlerce kişiye seslendi: Ters smokiniyle sahneye çıktı"
+    },
+    {
+     "baslik": "Güçlü dolar ve yüksek faiz ihtimali piyasaları vurdu",
+     "link": "https://www.sozcu.com.tr/guclu-dolar-ve-yuksek-faiz-ihtimali-piyasalari-vurdu-p383404",
+     "tarih": "2026-11-22",
+     "ozet": "Güçlü dolar ve yüksek faiz ihtimali piyasaları vurdu"
+    }
+   ],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "hata": null
+  },
+  "Halk TV": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "hata": null
+  },
+  "CNN Türk": {
+   "haberler": [
+    {
+     "baslik": "Vincenzo Italiano: Ön tarafta gayet iyi işler çıkartıyoruz",
+     "link": "https://www.cnnturk.com/spor/futbol/vincenzo-italiano-on-tarafta-gayet-iyi-isler-cikartiyoruz-3496648",
+     "tarih": "2026-11-22",
+     "ozet": "Vincenzo Italiano, takımı Beşiktaş’ın Konyaspor ile oynadığı maçın ardından açıklamalarda bulundu."
+    },
+    {
+     "baslik": "Hürmüz Boğazı'nda tansiyon yüksek! İki gemi alev alev yandı",
+     "link": "https://www.cnnturk.com/dunya/hurmuz-bogazinda-tansiyon-yuksek-iki-gemi-alev-alev-yandi-3496647",
+     "tarih": "2026-11-22",
+     "ozet": "İran ordusu Deniz Kuvvetleri, Hürmüz Boğazı'nın doğusunda izin verilmeyen bölgeye girdiği belirtilen 2 petrol tankerinin deniz mayınına çarparak alev aldığını duyurdu."
+    },
+    {
+     "baslik": "Estonya Rusya'ya sınırı kapatıyor",
+     "link": "https://www.cnnturk.com/video/dunya/estonya-rusyaya-siniri-kapatiyor-3496646",
+     "tarih": "2026-11-22",
+     "ozet": "Estonya, Rusya'yla kara sınır kapılarını 1 Aralık'tan itibaren en az altı ay süreyle kapatacak. Estonya, karara \"güvenlik gerekçesini\" gösterdi. Moskova ise kararı \"yeni bir demir perde kurma girişimi\" olarak niteledi."
+    },
+    {
+     "baslik": "Kırmızı ışık ihlalinin sebep olduğu kaza kamerada",
+     "link": "https://www.cnnturk.com/video/turkiye/kirmizi-isik-ihlalinin-sebep-oldugu-kaza-kamerada-3496645",
+     "tarih": "2026-11-22",
+     "ozet": "İstanbul Büyükçekmece’de kırmızı ışık ihlali yaptığı öne sürülen sürücü kazaya neden oldu. Güvenlik kameralarına yansıyan kazada 1'i ağır 4 kişi yaralandı."
+    },
+    {
+     "baslik": "DEM Parti heyeti Öcalan ile görüştü",
+     "link": "https://www.cnnturk.com/turkiye/dem-parti-heyeti-ocalan-ile-gorustu-3496644",
+     "tarih": "2026-11-22",
+     "ozet": "DEM Parti İmralı heyeti üyeleri Pervin Buldan, Mithat Sancar ve Faik Özgür Erol, Abdullah Öcalan ile gerçekleştirdikleri görüşmenin ardından İmralı Adası'ndan döndü."
+    },
+    {
+     "baslik": "Sağ Salim 2: Sil Baştan filmi konusu nedir? Sağ Salim 2 oyuncuları kimler?",
+     "link": "https://www.cnnturk.com/magazin/sag-salim-2-sil-bastan-filmi-konusu-nedir-sag-salim-2-oyunculari-kimler-3496643",
+     "tarih": "2026-11-22",
+     "ozet": "Sağ Salim 2: Sil Baştan, yeniden ekranlarda izleyiciyle buluşuyor. Ersoy Güler'in yönetmen koltuğunda oturduğu film, 10 Ocak 2014 tarihinde vizyona girdi. Çekimlerinin Kastamonu'nun Cide ilçesinde gerçekleştirilen film, Salim'in trajikomik macerasını ekranlara taşıyor. Peki Sağ Salim 2: Sil Baştan f"
+    },
+    {
+     "baslik": "ŞANS TOPU SONUÇ EKRANI: 22 Kasım Şans Topu sonuçları açıklandı mı? Ne zaman açıklanır?",
+     "link": "https://www.cnnturk.com/ekonomi/sans-topu-sonuc-ekrani-22-kasim-sans-topu-sonuclari-aciklandi-mi-ne-zaman-aciklanir-3496641",
+     "tarih": "2026-11-22",
+     "ozet": "Şans Topu sonuçları gündemdeki yerini aldı. İkramiye hayali ile kupon dolduran vatandaşlar Şans Topu sonuçlarını sorgulamaya başladı. Şans Topu çekilişi akşam 20.00'da başlıyor. Sonuçlar ise en geç 15 dakika içerisinde belli oluyor. Peki 22 Kasım Şans Topu sonuçları açıklandı mı? Ne zaman açıklanır?"
+    },
+    {
+     "baslik": "SON DAKİKA | Fenerbahçe’de Mahmut Uslu’dan açıklama geldi",
+     "link": "https://www.cnnturk.com/spor/futbol/son-dakika-fenerbahcede-mahmut-usludan-aciklama-geldi-3496640",
+     "tarih": "2026-11-22",
+     "ozet": "Fenerbahçe Yönetim Kurulu Üyesi Mahmut Uslu, gündeme gelen iddialara son noktayı koydu."
+    },
+    {
+     "baslik": "ABD'de havacılık sektörüne uyarı: \"Şükran Günü öncesi 11 Eylül denemesi olabilir\"",
+     "link": "https://www.cnnturk.com/video/dunya/abdde-havacilik-sektorune-uyari-sukran-gunu-oncesi-11-eylul-denemesi-olabilir-3496639",
+     "tarih": "2026-11-22",
+     "ozet": "ABD'de güvenlik kurumları, El Kaide bağlantılı saldırı çağrıları üzerine havacılık sektörünü uyardı. CNN International’ın ulaştığı raporda, eylülde Tel Aviv’e giden uçağı kaçırma girişiminin ardından benzer saldırılar için çağrı yapıldığı belirtildi."
+    },
+    {
+     "baslik": "Yeni Parti'de MYK çarşamba günü belirlenecek",
+     "link": "https://www.cnnturk.com/video/turkiye/yeni-partide-myk-carsamba-gunu-belirlenecek-3496638",
+     "tarih": "2026-11-22",
+     "ozet": "Yeni Parti'de kurultayın ardından gözler yeni yönetime çevrildi. Genel Başkan Özgür Özel, çarşamba günü 160 kişilik Parti Meclisi'ni ilk kez toplayacak. Toplantının ardından partinin yeni Merkez Yönetim Kurulu da belli olacak. İddianamelerde isimleri geçen bazı siyasetçilerin yeniden yönetime alınma"
+    },
+    {
+     "baslik": "TRABZONSPOR EYÜPSPOR MAÇI NEREDEN İZLENİR? Trabzonspor Eyüpspor Maçı Saat Kaçta, Hangi Kanalda? Şifreli Mi Şifresiz Mi?",
+     "link": "https://www.cnnturk.com/spor/futbol/trabzonspor-eyupspor-maci-nereden-izlenir-trabzonspor-eyupspor-maci-saat-kacta-hangi-kanalda-sifreli-mi-sifresiz-mi-3496625",
+     "tarih": "2026-11-22",
+     "ozet": "Süper Lig'in 12. haftasında Trabzonspor ile Eyüpspor kozlarını paylaşacak. Futbol tutkunları heyecan dolu maçın saat kaçta başlayacağını ve nereden izleneceğini sorgulamaya başladı. Thomas Reis'in takımı seriyi 7 maça çıkarıp zirve takibini sürdürmek istiyor. Son sıradaki Eyüpspor ise 8 maçlık yenil"
+    },
+    {
+     "baslik": "Trabzonspor - Eyüpspor Maçı Canlı Anlatım | Fırtına, 3 puan istiyor",
+     "link": "https://www.cnnturk.com/spor/futbol/live-trabzonspor-eyupspor-maci-canli-anlatim-firtina-3-puan-istiyor-3496494",
+     "tarih": "2026-11-22",
+     "ozet": "Trabzonspor, Süper Lig’in 12’nci haftasında sahasında Eyüpspor ile karşı karşıya geliyor. beIN Sports 1, beIN Connect ve TOD ekranlarından naklen yayınlanan bu müsabakanın canlı anlatımı burada."
+    },
+    {
+     "baslik": "TRABZONSPOR EYÜPSPOR CANLI İZLE ŞİFRESİZ| Trabzonspor Eyüpspor maçı nereden izlenir? TS Eyüp maçı hangi kanalda, saat kaçta? Muhtemel 11'ler",
+     "link": "https://www.cnnturk.com/spor/futbol/trabzonspor-eyupspor-canli-izle-sifresiz-trabzonspor-eyupspor-maci-nereden-izlenir-ts-eyup-maci-hangi-kanalda-saat-kacta-3496549",
+     "tarih": "2026-11-22",
+     "ozet": "Trabzonspor Eyüpspor canlı izle, TS Eyüp maçı nereden izlenir, Trabzonspor puan durumu aramaları maç öncesinde yoğunlaştı. Thomas Reis yönetimindeki Trabzonspor, Süper Lig'de topladığı 25 puanla ikinci sırada yer alırken lider Galatasaray'ı yakından takip ediyor. Öte yandan Trabzonspor 18 ile en yük"
+    },
+    {
+     "baslik": "Bozcaada ve Gökçeada'da bazı feribot seferlerine hava engeli",
+     "link": "https://www.cnnturk.com/turkiye/bozcaada-ve-gokceadada-bazi-feribot-seferlerine-hava-engeli-3496636",
+     "tarih": "2026-11-22",
+     "ozet": "Çanakkale’nin Bozcaada ve Gökçeada ilçelerine yarın yapılması planlanan bazı feribot seferleri, olumsuz hava şartları nedeniyle iptal edildi."
+    },
+    {
+     "baslik": "Ankara'da iki bozayının vurulmasıyla ilgili soruşturma başlatıldı",
+     "link": "https://www.cnnturk.com/turkiye/ankarada-iki-bozayinin-vurulmasiyla-ilgili-sorusturma-baslatildi-3496635",
+     "tarih": "2026-11-22",
+     "ozet": "Tarım Tarım ve Orman Bakanlığı, Ankara'nın Kızılcahamam ilçesinde bulunan Soğuksu Milli Parkı'nda iki bozayının vurulmasına ilişkin idari soruşturma başlatıldığını duyurdu."
+    },
+    {
+     "baslik": "Hatay sahilinde bulunan el bombası imha edildi",
+     "link": "https://www.cnnturk.com/turkiye/hatay-sahilinde-bulunan-el-bombasi-imha-edildi-3496634",
+     "tarih": "2026-11-22",
+     "ozet": "Hatay'ın Samandağ ilçesinde sahilde vatandaş tarafından bulunan el bombası, bomba imha ekiplerince kontrollü şekilde patlatılarak imha edildi. Patlama anı, cep telefonu kamerasıyla görüntülendi."
+    },
+    {
+     "baslik": "Ev sahiplerine kira güvencesi",
+     "link": "https://www.cnnturk.com/video/turkiye/ev-sahiplerine-kira-guvencesi-3496633",
+     "tarih": "2026-11-22",
+     "ozet": "Kiracıların kira ödemelerini aksatması nedeniyle yaşanan mağduriyetlere karşı geliştirilen kira güvence sigortasına ilgi artıyor. Ev sahiplerinin kira gelirini güvence altına almayı amaçlayan uygulamada, poliçe kapsamına göre farklı teminatlar sunuluyor. Peki sigortanın kapsamı, maliyeti ve başvuru "
+    },
+    {
+     "baslik": "Bakan Gürlek'ten fon soruşturması açıklaması: 44,58 milyar TL geri iade tahsil edildi",
+     "link": "https://www.cnnturk.com/turkiye/bakan-gurlekten-fon-sorusturmasi-aciklamasi-44-58-milyar-tl-geri-iade-tahsil-edildi-3496632",
+     "tarih": "2026-11-22",
+     "ozet": "Adalet Bakanı Akın Gürlek, fon soruşturması ile ilgili açıklamalarda bulundu. Bakan Gürlek, \"İstanbul Cumhuriyet Başsavcılığımızca örgütlü nitelikli dolandırıcılık, Sermaye Piyasası Kanunu'na muhalefet ve suçtan kaynaklanan mal varlığı değerlerini aklama iddialarına ilişkin yürütülen fon soruşturmal"
+    },
+    {
+     "baslik": "Trump'tan İran'a nükleer anlaşma mesajı",
+     "link": "https://www.cnnturk.com/video/dunya/trumptan-irana-nukleer-anlasma-mesaji-3496631",
+     "tarih": "2026-11-22",
+     "ozet": "ABD Başkanı Donald Trump'tan İran'a nükleer anlaşma mesajı. Trump, Tahran'ın gelecekte nükleer silah edinmesini engelleyecek kalıcı bir anlaşma hedeflediğini söyledi. ABD'yi 2018'de İran'la yapılan nükleer anlaşmadan çeken Trump, olası yeni anlaşmanın şartlarına ilişkin ayrıntı vermedi."
+    },
+    {
+     "baslik": "Hırvatistan’ı ayağa kaldıran görüntüler: Binlerce kişi beyaz yastıklarla meydanlara indi",
+     "link": "https://www.cnnturk.com/dunya/hirvatistani-ayaga-kaldiran-goruntuler-binlerce-kisi-beyaz-yastiklarla-meydanlara-indi-3496599",
+     "tarih": "2026-11-22",
+     "ozet": "Hırvatistan'da 32 yaşındaki Kristian Josip Peris, tedavi gördüğü psikiyatri kliniğinde hayatını kaybetti. Basına sızan güvenlik kameraları görüntülerinde Peris’in klinik personeli tarafından darp edildiği ve yüzüne yastıkla bastırıldığı görüldü. Görüntüler ülkede infiale neden olurken, başkent Zagre"
+    },
+    {
+     "baslik": "TÜRKİYE’NİN VURUCU GÜCÜ | ROKETSAN füzeleri gelişiyor",
+     "link": "https://www.cnnturk.com/video/turkiye/turkiyenin-vurucu-gucu-roketsan-fuzeleri-gelisiyor-3496624",
+     "tarih": "2026-11-22",
+     "ozet": "Türkiye'nin vurucu güçleri test atışlarını başarıyla gerçekleştiriyor. Bu kapsamda geçtiğimiz günlerde alçak irtifada görevli HİSAR-A, insansız tek başına hedef takibi ve ateşleme testini başarıyla geçti. Çelik Kubbe'nin uzun menzilli hava ve füze savunma sistemi SİPER-2 ise uçuşu sırasında güncelle"
+    },
+    {
+     "baslik": "Konyaspor 2-4 Beşiktaş | Maç Özeti | Kartal, zorlu deplasmanda 3 puana uzandı",
+     "link": "https://www.cnnturk.com/spor/futbol/live-konyaspor-2-4-besiktas-mac-ozeti-kartal-zorlandi-ama-3-puani-aldi-3496449",
+     "tarih": "2026-11-22",
+     "ozet": "Beşiktaş, Trendyol Süper Lig'in 12. haftasında bugün deplasmanda TÜMOSAN Konyaspor'u 4-2 mağlup etti. Beşiktaş'ın gollerini Vlahovic (2), Trossard ve Cerny attı. Ev sahibi ekibin gollerini ise Dompe ve Enis Destan kaydetti. Bu karşılaşmanın maç özeti burada."
+    },
+    {
+     "baslik": "AB’nin çözümsüz tavrı, COP31’in elektrifikasyon devriminin önünü kapattı",
+     "link": "https://www.cnnturk.com/turkiye/abnin-cozumsuz-tavri-cop31in-elektrifikasyon-devriminin-onunu-kapatti-3496623",
+     "tarih": "2026-11-22",
+     "ozet": "COP31, CMP21 ve CMA8’in kapanış oturumu Anadolu Genel Kurul Salonu’nda uzlaşmazlıkla sonuçlandı. COP31 Başkanlığı’nın 1,5 derece kararlılığını, Türkiye’nin 35’e 35 elektrifikasyon hedefini, karbon yakalama, kullanma ve depolama teknolojileri ile uyum finansmanının 2035 yılına kadar en az 3 katına çı"
+    },
+    {
+     "baslik": "Giyimine tepki gösterdiği iddiasıyla babasını bıçakla yaraladı; tutuklandı",
+     "link": "https://www.cnnturk.com/yerel-haberler/kocaeli/gebze/giyimine-tepki-gosterdigi-iddiasiyla-babasini-bicakla-yaraladi-tutuklandi-3496630",
+     "tarih": "2026-11-22",
+     "ozet": "Giyimine tepki gösterdiği iddiasıyla babasını bıçakla yaraladı; tutuklandı"
+    },
+    {
+     "baslik": "Trabzon'da \"Artakalan\" sinema filminin özel gösterimi yapıldı",
+     "link": "https://www.cnnturk.com/yerel-haberler/trabzon/trabzonda-artakalan-sinema-filminin-ozel-gosterimi-yapildi-3496629",
+     "tarih": "2026-11-22",
+     "ozet": "Trabzon'da \"Artakalan\" sinema filminin özel gösterimi yapıldı"
+    },
+    {
+     "baslik": "Ardahan'da kar ve buzlanma ulaşımı aksatıyor",
+     "link": "https://www.cnnturk.com/yerel-haberler/ardahan/ardahanda-kar-ve-buzlanma-ulasimi-aksatiyor-3496627",
+     "tarih": "2026-11-22",
+     "ozet": "Ardahan'da kar ve buzlanma ulaşımı aksatıyor"
+    },
+    {
+     "baslik": "YARIN OKUL VAR MI? 23 Kasım Pazartesi Okullar Açılıyor Mu? Ara Tatil Uzatıldı Mı?",
+     "link": "https://www.cnnturk.com/egitim/yarin-okul-var-mi-23-kasim-pazartesi-okullar-aciliyor-mu-ara-tatil-uzatildi-mi-3496580",
+     "tarih": "2026-11-22",
+     "ozet": "23 Kasım Pazartesi okul var mı, ara tatil bitti mi, kasım ara tatili ne zaman sona eriyor, MEB çalışma takvimi 2026-2027, okullar ne zaman açılıyor, yarın ders var mı soruları öğrenci ve velilerin gündeminde ilk sıralarda yer alıyor. Kasım ayında uygulanan birinci dönem ara tatilinin sonuna yaklaşıl"
+    },
+    {
+     "baslik": "İSTANBUL'DA YARIN OKULLAR TATİL Mİ? 23 Kasım Pazartesi Okul Var Mı? İstanbul Valiliği'nden Tatil Açıklaması Geldi Mi?",
+     "link": "https://www.cnnturk.com/egitim/istanbulda-yarin-okullar-tatil-mi-23-kasim-pazartesi-okul-var-mi-istanbul-valiliginden-tatil-aciklamasi-geldi-mi-3496600",
+     "tarih": "2026-11-22",
+     "ozet": "İstanbul'da yarın okul var mı, 23 Kasım Pazartesi okullar tatil mi, İstanbul Valiliği son dakika açıklaması, Meteoroloji İstanbul uyarısı, okullar tatil edilir mi, yarın ders var mı soruları öğrenci ve velilerin gündeminde yer alıyor. Meteoroloji Genel Müdürlüğü'nün İstanbul için yaptığı sarı kodlu "
+    },
+    {
+     "baslik": "KONYASPOR BEŞİKTAŞ CANLI İZLE ŞİFRESİZ| Konyaspor Beşiktaş maçı nereden izlenir? Canlı yayın ekranı ve KNY BJK maç kadroları",
+     "link": "https://www.cnnturk.com/spor/futbol/konyaspor-besiktas-canli-izle-sifresiz-konyaspor-besiktas-maci-nereden-izlenir-canli-yayin-ekrani-ve-kny-bjk-mac-kadrolari-3496546",
+     "tarih": "2026-11-22",
+     "ozet": "Konyaspor Beşiktaş canlı izle, KNY BJK maçı saat kaçta, hangi kanalda, Beşiktaş maçı nereden izlenir soruları karşılaşmada yoğun ilgi görüyor. Trendyol Süper Lig'de oynanacak Konyaspor-Beşiktaş mücadelesi bugün saat 16.00'da başlayacak ve beIN SPORTS 1 ekranlarından canlı yayınlanıyor. Siyah-beyazlı"
+    },
+    {
+     "baslik": "BARCELONA VILLARREAL MAÇI CANLI İZLE| Barcelona-Villarreal maçı nereden izlenir, hangi kanalda?",
+     "link": "https://www.cnnturk.com/spor/futbol/barcelona-villarreal-maci-canli-izle-barcelona-villarreal-maci-nereden-izlenir-hangi-kanalda-3496575",
+     "tarih": "2026-11-22",
+     "ozet": "Barcelona Villarreal maçı canlı izle, Barcelona Villarreal maçı hangi kanalda, Barcelona maçı nereden izlenir, Villarreal Barcelona maçı, La Liga canlı yayın, Barcelona maç yayını aramaları İspanya La Liga'da haftanın öne çıkan karşılaşmalarından biri öncesinde futbolseverlerin gündeminde yer alıyor"
+    },
+    {
+     "baslik": "ALTIN FİYATLARI 22 KASIM 2026: Bugün Gram, Çeyrek, Cumhuriyet Ne Kadar? Kapalıçarşı Altın Fiyatları Ne Durumda?",
+     "link": "https://www.cnnturk.com/ekonomi/altin-fiyatlari-22-kasim-2026-bugun-gram-ceyrek-cumhuriyet-ne-kadar-kapalicarsi-altin-fiyatlari-ne-durumda-3496432",
+     "tarih": "2026-11-22",
+     "ozet": "22 Kasım 2026 altın fiyatları, canlı altın fiyatları, anlık altın fiyatları, altın fiyatı, altın kuru, Kapalı Çarşı altın fiyatları, anlık altın, canlı altın verileri yatırımcıların ve vatandaşların gündemindeki yerini koruyor. Küresel piyasalarda yaşanan gelişmeler, merkez bankalarının faiz kararla"
+    },
+    {
+     "baslik": "GÜNÜN MAÇLARI 22 KASIM 2026: Bugünkü Maçlar Neler? Bugün Kimlerin Maçı Var? 22 Kasım Pazar Günün Maçları",
+     "link": "https://www.cnnturk.com/spor/gunun-maclari-22-kasim-2026-bugunku-maclar-neler-bugun-kimlerin-maci-var-22-kasim-pazar-gunun-maclari-3496479",
+     "tarih": "2026-11-22",
+     "ozet": "22 Kasım günün maçları, Avrupa maçları takvimi araştırılıyor. Milli aranın sona ermesinin ardından gözler lig fikstürlerine çevrildi. 22 Kasım Pazar günü Trendyol Süper Lig, 1. Lig, Premier Lig, La Liga, Bundesliga, Serie A ve Fransa Liuge 1 maçları oynanacak. Öte yandan Basketbol Süper Ligi,  NBA, "
+    },
+    {
+     "baslik": "KAMU BANKALARI EMEKLİ PROMOSYONU KASIM 2026 |Ziraat Bankası, Halkbank, Vakıfbank Emekli Maaşını Taşıyana Ne Kadar Promosyon Veriliyor? Kamu Bankalarında SGK, Bağ-Kur ve Emekli Sandığı Promosyon Kampanyaları",
+     "link": "https://www.cnnturk.com/ekonomi/ziraat-bankasi-halkbank-vakifbank-emekli-promosyonu-kasim-2026-emekli-maasini-tasiyana-ne-kadar-promosyon-veriliyor-kamu-3494232",
+     "tarih": "2026-11-22",
+     "ozet": "Ziraat Bankası emekli promosyonu 2026, Halkbank emekli promosyonu ne kadar, VakıfBank emekli promosyonu kaç TL, kamu bankaları emekli promosyonu, SGK emekli promosyonu, emekli maaşı taşıma kampanyaları emeklilerin gündemindeki yerini koruyor. Kasım 2026 itibarıyla maaşını kamu bankalarına taşımayı p"
+    },
+    {
+     "baslik": "YAŞAR ÇAĞLAK KİMDİR? Ezgi Mola'nın Yeni Sevgilisi Yaşar Çağlak Kaç Yaşında, Ne İş Yapıyor?",
+     "link": "https://www.cnnturk.com/magazin/yasar-caglak-kimdir-ezgi-molanin-yeni-sevgilisi-yasar-caglak-kac-yasinda-ne-is-yapiyor-3494316",
+     "tarih": "2026-11-22",
+     "ozet": "Yaşar Çağlak kimdir, Yaşar Çağlak kaç yaşında, Yaşar Çağlak ne iş yapıyor, Ezgi Mola'nın sevgilisi Yaşar Çağlak, Yaşar Çağlak mesleği soruları magazin gündemindeki son gelişmelerin ardından araştırılmaya başlandı. Ünlü oyuncu Ezgi Mola, boşanma sonrası özel hayatıyla yeniden gündeme gelirken, Yaşar "
+    },
+    {
+     "baslik": "EN DÜŞÜK EMEKLİ MAAŞI SON DAKİKA: Erdoğan'dan Emekli Müjdesi! 2027 En Düşük Emekli Maaşı Ne Kadar Olacak? Emekliye Enflasyon + Yüzde 15 Formülü! Emekliye Seyyanen Zam Olacak Mı?",
+     "link": "https://www.cnnturk.com/ekonomi/en-dusuk-emekli-maasi-ne-kadar-olacak-2027-emekliye-enflasyon-yuzde-15-formulu-maaslar-kac-tlye-cikacak-emekliye-seyyanen-zam-3493878",
+     "tarih": "2026-11-22",
+     "ozet": "En düşük emekli maaşı ne kadar olacak, Ocak 2027 emekli zammı, emekli maaşı zam oranı, SSK Bağ-Kur emekli zammı, emeklilere refah payı, seyyanen zam, emekli maaşı son dakika milyonlarca emeklinin gündemindeki yerini koruyor. Türkiye İstatistik Kurumu'nun açıkladığı dört aylık enflasyon verileri sonr"
+    }
+   ],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "hata": null
+  },
+  "Habertürk": {
+   "haberler": [
+    {
+     "baslik": "Memur zammı ne zaman açıklanacak?",
+     "link": "https://www.haberturk.com/bilgi/foto/memur-zammi-ne-zaman-aciklanacak-2027-ocak-zammina-gore-polis-hemsire-ogretmen-maasi-ne-kadar-olacak-memur-maas-zammi-hesaplama-tablosu-3929240",
+     "tarih": "2026-11-22",
+     "ozet": "Ocak ayı yaklaşırken gözler memur zammı son dakika gelişmelerine çevrildi. TÜİK tarafından açıklanacak kasım ve aralık ayı enflasyon rakamlarının ardından zam oranı netlik kazanırken, polis, öğretmen ve hemşire maaşlarında da değişiklik yaşanacak. Dört aylık enflasyon verilerinin açıklanmasının ardı"
+    },
+    {
+     "baslik": "Barcelona geriden gelerek kazandı!",
+     "link": "https://www.haberturk.com/spor/barcelona-villarreal-mac-sonucu-ozeti-ve-golleri-ispanya-la-liga-3929247",
+     "tarih": "2026-11-22",
+     "ozet": "İspanya La Liga'nın 13. haftasında Barcelona, sahasında konuk ettiği Villarreal'i 3-2 mağlup etti."
+    },
+    {
+     "baslik": "Uzun yaşam için egzersizden önce bunu yapın!",
+     "link": "https://www.haberturk.com/bilgi/foto/uzun-yasam-icin-egzersizden-once-bunu-yapin-mavi-bolgeler-uzmani-dan-buettner-uyardi-3929245",
+     "tarih": "2026-11-22",
+     "ozet": "Sağlık yaşam için yürüyüşün ve beslenmenin önemli olduğunu biliriz. Uzun ve sağlıklı bir yaşam için yalnızca düzenli spor yapmak yeterli olmayabilir. Mavi Bölgeler üzerine araştırmalarıyla tanınan Dan Buettner, gün içinde yapılan yürüyüşlerin, ev işlerinin ve bahçe bakımının uzun ömürlü yaşamın önem"
+    },
+    {
+     "baslik": "Şans Topu sonuçları açıklandı!",
+     "link": "https://www.haberturk.com/bilgi/foto/sans-topu-sonuclari-aciklandi-mi-22-kasim-2026-milli-piyango-online-sans-topu-cekilis-sonuclari-bilet-sorgula-ekrani-3929235",
+     "tarih": "2026-11-22",
+     "ozet": "Şans Topu heyecanında gözler yeni çekiliş sonucunda. Sisal Şans tarafından Çarşamba ve Pazar günleri olmak üzere haftada 2 kez gerçekleştirilen Şans Topu çekilişinde kazandıran numaralar canlı yayında belli oluyor. En son yapılan çekilişte 5+1 bilen 1 kişi 11.827.565 TL kazandı. Ayrıca 5 bilenler, 4"
+    },
+    {
+     "baslik": "Heyecan sürüyor!",
+     "link": "https://www.haberturk.com/spor/trabzonspor-eyupspor-maci-canli-anlatim-ts-eyup-trendyol-super-lig-maci-kac-kac-mac-skoru-ve-onemli-3929116",
+     "tarih": "2026-11-22",
+     "ozet": "Trendyol Süper Lig'in 12. haftasında Trabzonspor sahasında ikas Eyüpspor'la kozlarını paylaşıyor. Teknik direktör Thomas Reis'la birlikte ligde hiç puan kaybetmeyen bordo-mavililer, bu seriyi ve zirve yarışını sürdürmek istiyor. Karadeniz ekibi ayrıca, Eyüpspor mücadelesini de kazanması halinde 41 y"
+    },
+    {
+     "baslik": "O sözleri yalanladı: Algıya izin vermem",
+     "link": "https://www.haberturk.com/spor/fenerbahce-de-yonetici-mahmut-uslu-konyaspor-maci-sonrasi-kendisine-atfedilen-11-puanlik-fark-kapanmaz-sozlerini-yalanladi-3929244",
+     "tarih": "2026-11-22",
+     "ozet": "Trendyol Süper Lig'in 12. haftasında Fenerbahçe, deplasmanda Kocaelispor ile 2-2 berabere kaldı. Sarı-lacivertlilerde yönetici Mahmut Uslu, maçın ardından kendisine atfedilen \"11 puanlık fark kapanmaz\" sözlerini yalanladı."
+    },
+    {
+     "baslik": "\"Milli aradan sonraki maçlar zor oluyor\"",
+     "link": "https://www.haberturk.com/spor/konyaspor-galibiyeti-sonrasi-besiktas-ta-vincenzo-italiano-milli-aradan-sonraki-maclar-hep-cok-zor-oluyor-3929243",
+     "tarih": "2026-11-22",
+     "ozet": "Beşiktaş Teknik Direktörü Vincenzo Italiano, Konyaspor karşısında hücumda iyi işler yaptıklarını belirterek, \"Bugünkü maçtan gerçekten korktuğumu birazcık söyleyebilirim. Çok zor olacağını biliyordum çünkü milli aradan sonraki maçlar hep çok zor oluyor\" dedi."
+    },
+    {
+     "baslik": "Guterres'ten COP31 kararları için çağrı",
+     "link": "https://www.haberturk.com/dunya/guterres-ten-cop31-kararlari-icin-cagri-3929242",
+     "tarih": "2026-11-22",
+     "ozet": "Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres, gelişmiş ülkelere, iklim hedeflerinin hayata geçirilmesi için ihtiyaç duyulan uyum finansmanının 3 katına çıkarılması konusunda öncülük etmeleri ve sağlanan desteğin en çok ihtiyaç duyan ülkelere ulaştırılmasına yönelik taahhütlerini yerine "
+    },
+    {
+     "baslik": "Serdal Adalı'dan MHK'ye eleştiri!",
+     "link": "https://www.haberturk.com/spor/foto/konyaspor-galibiyeti-sonrasi-serdal-adali-dan-mhk-hapoel-beer-sheva-ve-galatasaray-derbisi-sozleri-3929241",
+     "tarih": "2026-11-22",
+     "ozet": "Trendyol Süper Lig'in 12. haftasında Beşiktaş, deplasmanda konuk olduğu Konyaspor'u 4-2 mağlup etti. Mücadelenin ardından siyah-beyazlıların Başkanı Serdal Adalı açıklamalarda bulundu. Adalı, MHK'daki 2 isme sitem ederken, Hapoel Beer Sheva ve Galatasaray derbisi hakkında da konuştu."
+    },
+    {
+     "baslik": "Salah için Mısır'dan Trabzon'a geldiler!",
+     "link": "https://www.haberturk.com/spor/mohamed-salah-icin-misir-dan-trabzon-a-geldiler-tribunde-yerlerini-aldilar-3929239",
+     "tarih": "2026-11-22",
+     "ozet": "Trendyol Süper Lig'in 12. haftasında Trabzonspor sahasında Eyüpspor'u konuk etti. Tribünlerde ise bazı sürpriz konuklar yer aldı. Mısır Milli Eğitim Bakanlığı, Mohamed Salah'ı yerinden izlemeleri için 50 öğrenciyi Trabzonspor - Eyüpspor maçıda gönderdi. Öğrenciler, yıldız futbolcuyu Akyazı Stadyumu'"
+    },
+    {
+     "baslik": "Hatay sahilinde bulunan el bombası imha edildi",
+     "link": "https://www.haberturk.com/gundem/hatay-sahilinde-bulunan-el-bombasi-imha-edildi-3929237",
+     "tarih": "2026-11-22",
+     "ozet": "Hatay’ın Samandağ ilçesinde sahilde vatandaş tarafından bulunan el bombası, bomba imha ekiplerince kontrollü şekilde patlatılarak imha edildi. Patlama anı, cep telefonu kamerasıyla görüntülendi."
+    },
+    {
+     "baslik": "Esenler Erokspor evinde kazandı",
+     "link": "https://www.haberturk.com/spor/esenler-erokspor-antalyaspor-mac-sonucu-ve-ozeti-trendyol-1-lig-3929236",
+     "tarih": "2026-11-22",
+     "ozet": "Trendyol 1. Lig'in 15. haftasında Turka Esenler Erokspor, evinde ağırladığı Antalyaspor'u 2-1 mağlup etti."
+    },
+    {
+     "baslik": "Bakan Gürlek'ten fon soruşturması açıklaması",
+     "link": "https://www.haberturk.com/gundem/son-dakika-bakan-gurlek-ten-fon-sorusturmasi-aciklamasi-3929226",
+     "tarih": "2026-11-22",
+     "ozet": "Adalet Bakanı Akın Gürlek fon soruşturması ile ilgili açıklamada bulundu. Bakan Gürlek \"85 kişiden toplam 44,58 milyar TL geri iade tahsil edildi.\" dedi."
+    },
+    {
+     "baslik": "Manisa FK sahasında Pendikspor'u yendi!",
+     "link": "https://www.haberturk.com/spor/manisa-fk-pendikspor-mac-sonucu-ve-ozeti-trendyol-1-lig-3929234",
+     "tarih": "2026-11-22",
+     "ozet": "Trendyol 1. Lig'in 15. haftasında Manisa FK, evinde ağırladığı Pendikspor'u 2-0 mağlup etti."
+    },
+    {
+     "baslik": "Vlahovic: Kolay gol yiyoruz",
+     "link": "https://www.haberturk.com/spor/besiktas-ta-dusan-vlahovic-takim-olarak-kolay-gol-yiyoruz-3929232",
+     "tarih": "2026-11-22",
+     "ozet": "Trendyol Süper Lig'in 12. haftasında Konyaspor'u deplasmanda 4-2 mağlup eden Beşiktaş'ta 2 gol kaydeden Dusan Vlahovic, maçın ardından açıklamalarda bulundu."
+    },
+    {
+     "baslik": "Bozayıların vurulmasına ilişkin açıklama",
+     "link": "https://www.haberturk.com/gundem/bozayilarin-vurulmasina-iliskin-aciklama-3929230",
+     "tarih": "2026-11-22",
+     "ozet": "Tarım Tarım ve Orman Bakanlığı, Ankara'nın Kızılcahamam ilçesinde bulunan Soğuksu Milli Parkı'nda iki bozayının vurulmasına ilişkin idari soruşturma başlatıldığını duyurdu."
+    },
+    {
+     "baslik": "Trossard: Reaksiyonumuz çok iyiydi",
+     "link": "https://www.haberturk.com/spor/besiktas-ta-leandro-trossard-reaksiyonumuz-cok-iyiydi-3929231",
+     "tarih": "2026-11-22",
+     "ozet": "Trendyol Süper Lig'in 12. haftasında Beşiktaş, Konyaspor'u deplasmanda 4-2 mağlup etti. Siyah-beyazlıların 3. golünü kaydeden Leandro Trossard, maçın ardından açıklamalarda bulundu."
+    },
+    {
+     "baslik": "Emekli promosyon kasım ayı kampanyaları!",
+     "link": "https://www.haberturk.com/bilgi/foto/emekli-promosyon-kasim-ayi-kampanyasi-2026-garanti-is-bankasi-yapi-kredi-en-yuksek-emekli-promosyon-veren-banka-hangisi-ve-ne-kadar-3929229",
+     "tarih": "2026-11-22",
+     "ozet": "Kasım ayında emekli promosyon kampanyası devam ediyor. Maaşını en yüksek promosyon veren bankaya taşımak isteyenler kamu ve özel bankaların promosyon tutarını ve şartını araştırıyor. Garanti, İş Bankası, Yapı Kredi, Ziraat, Vakıfbank ve diğer bankaların promosyonu ve ek ödülleri belli oldu. Kampanya"
+    },
+    {
+     "baslik": "Kasımpaşa evinde Alanyaspor'u mağlup etti",
+     "link": "https://www.haberturk.com/spor/kasimpasa-alanyaspor-mac-sonucu-ozeti-ve-golleri-trendyol-super-lig-3929228",
+     "tarih": "2026-11-22",
+     "ozet": "Trendyol Süper Lig’in 12. haftasında Kasımpaşa, evinde ağırladığı Corendon Alanyaspor’u 2-1 mağlup etti. Bu sonuçla Kasımpaşa puanını 23’e yükseltirken, Corendon Alanyaspor ise 12 puanda kaldı."
+    },
+    {
+     "baslik": "Liverpool - Manchester United maçı hangi kanalda?",
+     "link": "https://www.haberturk.com/bilgi/foto/liverpool-manchester-united-maci-canli-izle-liverpool-manchester-united-maci-ne-zaman-saat-kacta-hangi-kanalda-yayinlanacak-3929227",
+     "tarih": "2026-11-22",
+     "ozet": "Futbol tutkunları Liverpool - Manchester United maçını canlı yayında takip etmek istiyor. İngiltere Premier League’de Liverpool – Manchester United karşılaşması bugün oynanıyor. Anfield’da karşı karşıya gelecek iki ezeli rakibin mücadelesi büyük heyecana sahne oluyor. Maçı canlı yayın üzerinden taki"
+    },
+    {
+     "baslik": "Beşiktaş Konya'da hata yapmadı!",
+     "link": "https://www.haberturk.com/spor/konyaspor-besiktas-mac-sonucu-iste-konya-bjk-maci-ozeti-ve-golleri-trendyol-super-lig-3929113",
+     "tarih": "2026-11-22",
+     "ozet": "Trendyol Süper Lig'in 12. haftasında Beşiktaş, deplasmanda konuk olduğu Konyaspor'u ile 4-2 mağlup etti. Beşiktaş'a galibiyeti getiren golleri Dusan Vlahovic, Leandro Trossard ve Vaclav Cerny kaydederken, siyah-beyazlılar puan kaybettiği son 3 deplasman maçının ardından 4. karşılaşmasında kazandı ve"
+    },
+    {
+     "baslik": "Yarın okul var mı?",
+     "link": "https://www.haberturk.com/bilgi/foto/yarin-okul-var-mi-23-kasim-2026-pazartesi-okullar-aciliyor-mu-ara-tatil-bitti-mi-uzatildi-mi-3929225",
+     "tarih": "2026-11-22",
+     "ozet": "Kasım ara tatilinin sona ermesiyle birlikte milyonlarca öğrenci ve veli, 23 Kasım 2026 Pazartesi günü okulların açılıp açılmayacağını araştırmaya başladı. MEB'in 2026-2027 eğitim öğretim yılı takviminde yer alan ara tatil ve ders başlangıç tarihleri merak ediliyor. Peki, yarın okul var mı, 23 Kasım "
+    },
+    {
+     "baslik": "İkinci kez evlendi",
+     "link": "https://www.haberturk.com/magazin/sarkici-miley-cyrus-ikinci-evliligini-maxx-morando-ile-yapti-3929209",
+     "tarih": "2026-11-22",
+     "ozet": "Daha önce Liam Hemsworth ile bir yıldan kısa bir süre evli kalan ünlü şarkıcı Miley Cyrus, meslektaşı Maxx Morando ile ikinci evliliğini yaptı"
+    },
+    {
+     "baslik": "Öğretmenler Günü ne zaman?",
+     "link": "https://www.haberturk.com/bilgi/foto/ogretmenler-gunu-2026-ne-zaman-24-kasim-hangi-gune-denk-geliyor-3929224",
+     "tarih": "2026-11-22",
+     "ozet": "Öğretmenler Günü için geri sayım başladı. Her yıl 24 Kasım'da kutlanan bu özel gün yaklaşırken öğrenciler ve veliler, 2026 Öğretmenler Günü tarihini, haftanın hangi gününe denk geldiğini ve okulların tatil olup olmadığını araştırıyor. Peki, 24 Kasım Öğretmenler Günü'nde eğitim öğretime ara verilecek"
+    },
+    {
+     "baslik": "Spotify Wrapped ne zaman çıkacak?",
+     "link": "https://www.haberturk.com/bilgi/foto/spotify-wrapped-2026-ne-zaman-cikacak-spotify-yil-sonu-muzik-ozeti-hangi-tarihte-yayinlanacak-3929220",
+     "tarih": "2026-11-22",
+     "ozet": "Spotify Wrapped 2026 için geri sayım başladı. Her yıl aralık ayının ilk günlerinde yayınlanan kişisel müzik özeti, kullanıcıların en çok dinlediği şarkıları, sanatçıları ve podcast'leri bir araya getiriyor. Peki, Spotify Wrapped 2026 ne zaman çıkacak, müzik özeti nereden görüntülenecek? İşte 2026 Sp"
+    },
+    {
+     "baslik": "Eve yıldırım düştü! Anne ve 2 çocuğu yaralandı!",
+     "link": "https://www.haberturk.com/gundem/son-dakika-eve-yildirim-dustu-anne-ve-2-cocugu-yaralandi-3929222",
+     "tarih": "2026-11-22",
+     "ozet": "Diyarbakır'ın Ergani ilçesinde bir eve yıldırım düştü. Feci olayda anne ile 2 çocuğu yaralandı"
+    },
+    {
+     "baslik": "Juventus evinde Venezia'yı farklı yendi",
+     "link": "https://www.haberturk.com/spor/juventus-venezia-mac-sonucu-ozeti-ve-golleri-italya-serie-a-3929223",
+     "tarih": "2026-11-22",
+     "ozet": "İtalya Serie A'nın 12. haftasında Juventus, evinde ağırladığı Venezia'yı 4-0 mağlup etti."
+    },
+    {
+     "baslik": "\"Çok değerli bir galibiyet aldık\"",
+     "link": "https://www.haberturk.com/spor/stanimir-stoilov-cok-degerli-bir-galibiyet-aldik-3929221",
+     "tarih": "2026-11-22",
+     "ozet": "Süper Lig'in 12’nci haftasında deplasmanda Erzurumspor'u 1-0 mağlup eden Göztepe’nin teknik direktörü Stanimir Stoilov, karşılaşmayı değerlendirdi. Galibiyete dair mutluluğunu dile getiren Stoilov, \"Bizim adımıza gerçekten çok değerli bir galibiyet oldu. Erzurum evinde güçlü bir takım. Saha şartları"
+    },
+    {
+     "baslik": "\"Evlenmekle ilgili fikrim yok\"",
+     "link": "https://www.haberturk.com/magazin/foto/busra-develi-evlenmekle-ilgili-fikrim-yok-3929213",
+     "tarih": "2026-11-22",
+     "ozet": "Ünlü oyuncu Büşra Develi, evliliğe bakış açısını anlattı. Develi, \"Evlenmekle ilgili fikrim yok, hayat partneri istediğim bir yerdeyim\" dedi"
+    },
+    {
+     "baslik": "Sömestr tarihi belli oldu!",
+     "link": "https://www.haberturk.com/bilgi/foto/somestr-tatili-tarihi-2027-yariyil-tatili-ne-zaman-baslayacak-15-tatil-kac-gun-surecek-3929203",
+     "tarih": "2026-11-22",
+     "ozet": "2026-2027 eğitim öğretim yılı takviminde 2027 sömestr tatili tarihleri belli oldu. Birinci dönemin sona ermesiyle milyonlarca öğrenci karnelerini alarak yarıyıl tatiline çıkacak. Peki, 15 tatil ne zaman başlayacak, okullar hangi tarihte açılacak? İşte MEB'in açıkladığı yarıyıl tatili takvimi..."
+    },
+    {
+     "baslik": "\"Türk hakemlerine saygısızlık yapmam\"",
+     "link": "https://www.haberturk.com/spor/foto/okan-buruk-benden-turk-hakemlerine-saygisizlik-olmaz-3929218",
+     "tarih": "2026-11-22",
+     "ozet": "Galatasaray Teknik Direktörü Okan Buruk, Süper Lig'in 12. haftasındaki Samsunspor maçının ardından gördüğü kırmızı kartla ilgili açıklamalarda bulundu. Yanlış bir kart uygulamasının olduğunu savunan Buruk, \"Futbolda kurallar var. Orta hakemin elini sıkmadın diye sarı kart görme yok! Bu Avrupa basını"
+    },
+    {
+     "baslik": "Yusufeli Barajı'ndan ekonomiye 16,7 milyar lira katkı",
+     "link": "https://www.haberturk.com/ekonomi/yusufeli-baraji-ndan-ekonomiye-16-7-milyar-lira-katki-3929219",
+     "tarih": "2026-11-22",
+     "ozet": "Tarım ve Orman Bakanı Yumaklı, \"Yusufeli, 275 metre gövde yüksekliği, ürettiği 5,6 milyar kilovatsaat elektrik ve ekonomimize sağladığı 16,7 milyar lirayı aşan katkıyla ülkemizin gururu olmaya devam ediyor.\" ifadesini kullandı."
+    },
+    {
+     "baslik": "Bakan Gürlek’ten HGS açıklaması",
+     "link": "https://www.haberturk.com/ekonomi/son-dakika-bakan-gurlekten-hgs-aciklamasi-3929216",
+     "tarih": "2026-11-22",
+     "ozet": "Adalet Bakanı Akın Gürlek, Hızlı Geçiş Sistemi (HGS) kapsamında başlatılan icra takiplerinde icra mekanizmalarının hileli veya hukuka aykırı yöntemlerle haksız kazanç aracına dönüştürüldüğüne ilişkin iddialar ve şikayetler üzerine İstanbul Cumhuriyet Başsavcılığınca soruşturma başlatıldığını açıklad"
+    },
+    {
+     "baslik": "PSG'ye Doue şoku!",
+     "link": "https://www.haberturk.com/spor/psg-de-desire-doue-capraz-bag-yirtigi-nedeniyle-ameliyat-edilecek-3929215",
+     "tarih": "2026-11-22",
+     "ozet": "Fransa ekibi Paris Saint-Germain (PSG), genç kanat oyuncusu Desire Doue'nin \"çapraz bağ yırtığı\" nedeniyle ameliyat edileceğini duyurdu."
+    },
+    {
+     "baslik": "12 yaşındaki çocuktan acı haber!",
+     "link": "https://www.haberturk.com/gundem/istanbul-daki-faciada-12-yasindaki-cocuktan-aci-haber-3929153",
+     "tarih": "2026-11-22",
+     "ozet": "İstanbul Gaziosmanpaşa'da, 5 katlı binada çıkan yangında dumandan etkilenerek hastaneye kaldırılan 12 yaşındaki çocuktan acı haber geldi. Polis ekiplerinin çalışmasında yangının açık unutulan ısıtıcıdan çıktığı öğrenilirken, dairede oturan Günay F. çıkarıldığı mahkemece tutuklandı"
+    },
+    {
+     "baslik": "Batman Petrolspor ilk yarıda fişi çekti!",
+     "link": "https://www.haberturk.com/spor/batman-petrolspor-muglaspor-mac-sonucu-iste-batman-petrolspor-muglaspor-maci-ozeti-ve-golleri-1-lig-3929211",
+     "tarih": "2026-11-22",
+     "ozet": "Trendyol 1. Lig'in 15. haftasında Batman Petrolspor, sahasında Muğlaspor'u 2-0 mağlup etti. İlk yarıda Gökhan Altıparmak ve Pedrinho'nun (p) golleriyle ligde iki maç sonra kazanan Batman Petrolspor, puanını 27'ye çıkardı. Muğlaspor ise 18 puanda kaldı."
+    },
+    {
+     "baslik": "Her gün kullanıyoruz ama kimse bilmiyor",
+     "link": "https://www.haberturk.com/bilgi/her-gun-kullaniyoruz-ama-kimse-bilmiyor-telefon-klavyesinin-isinizi-hizlandiracak-7-gizli-ozelligi-3928783",
+     "tarih": "2026-11-22",
+     "ozet": "Telefon kullanırken bilgisayardaki gibi bazen kısayollara ihtiyaç duyarız. Akıllı telefon klavyeleri, yalnızca mesaj yazmak veya not almak için kullanılmıyor. iPhone ve Android cihazlarda bulunan gizli klavye kısayolları, yazma işlemini çok daha hızlı ve kolay hale getiriyor. Tek elle yazma, hızlı n"
+    },
+    {
+     "baslik": "Herkesin çöp dediklerini biriktirdi: Ortaya bu mucize çıktı!",
+     "link": "https://www.haberturk.com/bilgi/issiz-kalinca-atiklari-biriktirmeye-basladi-icini-gorenler-gozlerine-inanamiyor-3928821",
+     "tarih": "2026-11-22",
+     "ozet": "Arjantin'de ekonomik krizle işini kaybeden elektrikçi Alfredo Alberto Santa Cruz, kızına oyuncak ev alabilmek için başladığı geri dönüşüm serüveninde binlerce plastik şişe, CD kutusu ve meyve suyu kartonundan gerçek bir ev inşa etti. Parası yetmeyince sokaktan topladığı plastik şişelerle kendi evini"
+    },
+    {
+     "baslik": "Siyah, sarı ve kırmızı et tepsileri ne anlama geliyor?",
+     "link": "https://www.haberturk.com/bilgi/siyah-sari-ve-kirmizi-et-tepsileri-ne-anlama-geliyor-et-alirken-bu-detaya-dikkat-3928849",
+     "tarih": "2026-11-22",
+     "ozet": "Marketlerin et reyonlarında karşımıza çıkan siyah, sarı ve kırmızı tepsiler çoğu zaman vatandaşta kalite, tazelik ya da lezzet farkı varmış gibi bir izlenim bırakıyor. Ancak evrensel bir kural bulunmuyor. Peki etlerin farklı renklerdeki ambalajlarda sunulmasının nedeni ne? Tepsi rengi etin kalitesin"
+    },
+    {
+     "baslik": "Çamaşır makinesinde deterjanı doğru yere koyuyor musunuz?",
+     "link": "https://www.haberturk.com/bilgi/camasir-makinesinde-bu-hata-her-evde-yapiliyor-deterjani-yanlis-yere-koyuyor-olabilirsiniz-3928853",
+     "tarih": "2026-11-22",
+     "ozet": "Çamaşır makineleri doğru kullanıldığında hem zamandan hem de enerjiden tasarruf sağlıyor. Ancak deterjanın yanlış göze konulması, çamaşırların iyi temizlenmemesine ve makinede kalıntı oluşmasına neden olabiliyor. Çamaşır makinesinin deterjan çekmecesinde bulunan üç bölmenin her biri farklı bir amaçl"
+    },
+    {
+     "baslik": "111 Yaşındaki Rojas uzun yaşamın sırrını açıkladı!",
+     "link": "https://www.haberturk.com/bilgi/111-yasina-basti-perulu-antonia-cruz-rojas-in-yasam-hikayesi-sasirtiyor-3928766",
+     "tarih": "2026-11-22",
+     "ozet": "Kimi insan çok yaşamak için sağlıklı beslenir kimi insan genç kalmak için estetiğe yönelir. Hastalıklardan uzak, kaliteli ve uzun bir ömür sürmek hemen herkesin ortak hayali. Fakat bu hayale ulaşmak, yıllar boyu istikrarla sürdürülen doğru alışkanlıklardan geçiyor. Şubat 1915 doğumlu Perulu Antonia "
+    },
+    {
+     "baslik": "Sarıgül fezlekesindeki detaylar ortaya çıktı",
+     "link": "https://www.haberturk.com/gundem/dokunulmazliginin-kaldirilmasi-talep-edildi-sarigul-fezlekesindeki-detaylar-ortaya-cikti-son-dakika-haberleri-3929208",
+     "tarih": "2026-11-22",
+     "ozet": "Mustafa Sarıgül hakkında dokunulmazlığının kaldırılması talebiyle hazırlanıp Adalet Bakanlığı'na gönderilen fezlekenin detayları ortaya çıktı"
+    },
+    {
+     "baslik": "Göztepe tek attı üç aldı!",
+     "link": "https://www.haberturk.com/spor/erzurumspor-fk-goztepe-mac-sonucu-iste-erzurumspor-fk-goztepe-maci-ozeti-ve-golleri-super-lig-3929206",
+     "tarih": "2026-11-22",
+     "ozet": "Trendyol Süper Lig'in 12. haftasında Göztepe, deplasmanda Erzurumspor FK'yı 1-0 mağlup etti. 2. yarıda Efkan Bekiroğlu'nun kaydettiği golle galibiyete ulaşan Göztepe, haftayı 18 puanla tamamladı. Ligdeki galibiyet hasreti üç maça çıkan Erzurumspor FK ise 14 puanda kaldı."
+    },
+    {
+     "baslik": "Öğretmen yol kavgasında öldürüldü",
+     "link": "https://www.haberturk.com/gundem/son-dakika-haberler-antalya-da-yol-verme-kavgasinda-bicaklanan-ogretmen-yasin-demir-hayatini-kaybetti-3929177",
+     "tarih": "2026-11-22",
+     "ozet": "Antalya’nın Alanya ilçesinde yol verme tartışması nedeniyle çıkan kavgada, 42 yaşındaki öğretmen Yasin Demir, üniversite öğrencisi H.Ö. tarafından bıçaklanarak öldürüldü. Olayın ardından gözaltına alınan iki şüpheliden Hamit Ökten tutuklanırken, K.G. adli kontrol şartıyla serbest bırakıldı"
+    },
+    {
+     "baslik": "Meteoroloji'den İstanbul için kritik fırtına uyarısı!",
+     "link": "https://www.haberturk.com/gundem/son-dakika-haberi-meteoroloji-den-istanbul-icin-kritik-firtina-uyarisi-3929205",
+     "tarih": "2026-11-22",
+     "ozet": "Meteoroloji'den yarın için İstanbul'a fırtına uyarısı yapıldı. Uyarıya göre rüzgarın saatteki hızı 50-70 kilometreye, yer yer 80-90 kilometreye ulaşacak. Açıklamada, ağaç ve direk devrilmesi, çatı uçması, soba ve baca gazı zehirlenmeleri ile ulaşımda aksamalar gibi olumsuzluklara karşı dikkatli ve t"
+    },
+    {
+     "baslik": "G.Birliği'nde yeni başkan Ali Osman Avşar!",
+     "link": "https://www.haberturk.com/spor/genclerbirliginin-yeni-baskani-ali-osman-avsar-oldu-3929204",
+     "tarih": "2026-11-22",
+     "ozet": "Gençlerbirliği Kulübünün olağanüstü seçimli genel kurulunda başkanlığa Ali Osman Avşar seçildi."
+    },
+    {
+     "baslik": "Sıla'dan kas şov!",
+     "link": "https://www.haberturk.com/magazin/sila-kaslandi-3929199",
+     "tarih": "2026-11-22",
+     "ozet": "Ünlü şarkıcı Sıla, sahne aldığı mekanda karın kaslarını gözler önüne seren tarzıyla dikkat çekti"
+    },
+    {
+     "baslik": "Cip karşı şeride geçti! Feci kaza!",
+     "link": "https://www.haberturk.com/gundem/cip-karsi-seride-gecti-feci-kaza-3929202",
+     "tarih": "2026-11-22",
+     "ozet": "Adana'da otoyolda seyir halindeyken sürücüsünün direksiyon hakimiyetini yitirdiği cip, karşı şeride geçerek otomobille çarpıştı. Kaza, başka bir otomobilin araç içi kamerasına yansıdı"
+    },
+    {
+     "baslik": "First Lady'den flört tavsiyesi",
+     "link": "https://www.haberturk.com/magazin/melania-trump-tan-oglu-barron-a-flort-tavsiyesi-3929201",
+     "tarih": "2026-11-22",
+     "ozet": "Melania Trump, kendi adına çekilen belgeselde, pek çok hayranı olan oğlu Barron Trump'a verdiği flört tavsiyesini açıkladı"
+    },
+    {
+     "baslik": "Öğretmenlere yüzde 25 kargo indirimi!",
+     "link": "https://www.haberturk.com/bilgi/foto/ogretmenlere-yuzde-25-kargo-indirimi-ptt-ogretmen-indirimi-ne-kadar-nasil-alinir-3929198",
+     "tarih": "2026-11-22",
+     "ozet": "PTT öğretmenlere indirim kampanyasıyla çalışan ve emekli öğretmenlere yurt içi kargo ve kurye gönderilerinde yüzde 25 indirim sağlıyor. Öğretmen kimlik kartıyla yararlanılabilen kampanyada aylık gönderi limiti de bulunuyor. Peki, PTT öğretmen indirimi kimleri kapsıyor, nasıl alınır ve ayda kaç gönde"
+    },
+    {
+     "baslik": "Kupayı kazanan Boca'da Paredes bayıldı!",
+     "link": "https://www.haberturk.com/spor/boca-juniors-sudamericana-kupasini-kazandi-paredes-canli-yayinda-bayildi-3929200",
+     "tarih": "2026-11-22",
+     "ozet": "Copa Sudamericana finalinde Atletico Mineiro'yu 2-0 yenerek şampiyonluğa ulaşan Boca Juniors'ın tecrübeli oyuncusu Leandro Paredes, şampiyonluk kutlaması için gerçekleştirilen canlı yayında bayıldı."
+    },
+    {
+     "baslik": "\"Dört Zirvede Lider Diplomasisi\" belgeseli",
+     "link": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskanligi-iletisim-baskanligindan-turkiye-nin-diplomasi-rotasi-dort-zirvede-lider-diplomasisi-belgeseli-3929197",
+     "tarih": "2026-11-22",
+     "ozet": "Cumhurbaşkanlığı İletişim Başkanlığı, Cumhurbaşkanı Recep Tayyip Erdoğan’ın NATO, BM, Türk Devletleri Teşkilatı ve COP31 zirvelerindeki diplomasi trafiğini konu alan \"Türkiye'nin Diplomasi Rotası: Dört Zirvede Lider Diplomasisi\" adlı belgeseli hazırladı"
+    },
+    {
+     "baslik": "İstanbul TOKİ kiralık konut kurası ne zaman yapılacak?",
+     "link": "https://www.haberturk.com/bilgi/foto/istanbul-toki-kiralik-konut-kurasi-ne-zaman-yapilacak-toki-1-071-konut-icin-kura-tarihi-belli-oldu-mu-3929195",
+     "tarih": "2026-11-22",
+     "ozet": "İstanbul TOKİ kiralık konut kurası için geri sayım sürüyor. İlk etapta kiraya verilecek 1.071 konut için 201 bin 480 başvuru alınırken gözler kura takvimine çevrildi. Ekim ayında yapılması planlanan çekilişin ertelenmesinin ardından başvuru sahipleri, TOKİ kiralık konut kurasının hangi tarihte gerçe"
+    },
+    {
+     "baslik": "İstanbul'da yangın! 1 ölü, 7 yaralı",
+     "link": "https://www.haberturk.com/gundem/son-dakika-istanbul-da-yangin-olu-ve-yaralilar-var-3929145",
+     "tarih": "2026-11-22",
+     "ozet": "İstanbul Küçükçekmece’de 5 katlı bir binanın bodrum katında çıkan yangında hastaneye kaldırılan 8 kişiden 1’i hayatını kaybetti. Tedavileri devam eden 7 kişiden 3’ünün durumunun ağır olduğu öğrenilirken, yangının çıkış nedenine ilişkin inceleme başlatıldı."
+    },
+    {
+     "baslik": "Kabine yarın toplanıyor",
+     "link": "https://www.haberturk.com/gundem/kabine-toplaniyor-emeklilere-yonelik-maas-duzenlemesi-fon-sorusturmasi-masada-3929196",
+     "tarih": "2026-11-22",
+     "ozet": "Cumhurbaşkanlığı Kabinesi yarın Beştepe'de toplanacak. Toplantıda emeklilere yönelik maaş düzenlemesi masada olacak. Fon soruşturması ve Terörsüz Türkiye sürecindeki son durum da ele alınacak"
+    },
+    {
+     "baslik": "Doğalgaz sızıntısı iddiası: 16 kişi tedaviye alındı",
+     "link": "https://www.haberturk.com/gundem/dogalgaz-sizintisi-iddiasi-16-kisi-tedaviye-alindi-3929186",
+     "tarih": "2026-11-22",
+     "ozet": "İstanbul Pendik'te 9 katlı apartmanda doğalgaz sızıntısı olduğu iddiası üzerine bina sakinleri tahliye edildi. Olayda 16 kişi tedaviye alındı"
+    },
+    {
+     "baslik": "Le Pen aleyhine yarıştan çekildi",
+     "link": "https://www.haberturk.com/dunya/fransa-da-cumhurbaskani-adayi-ruffin-le-pen-aleyhine-yaristan-cekildigini-duyurdu-3929194",
+     "tarih": "2026-11-22",
+     "ozet": "Fransa’da 2027 cumhurbaşkanı seçimleri öncesi siyasi partiler arasında yarış kızışırken, sol eğilimli adaylardan François Ruffin, seçimin favori isimleri arasında gösterilen Ulusal Birlik (RN) partisi adayı Marine Le Pen karşısında daha güçlü bir blok oluşturmak için adaylığını geri çektiğini açıkla"
+    },
+    {
+     "baslik": "Kvaratskhelia'dan Osimhen'e övgü!",
+     "link": "https://www.haberturk.com/spor/khvicha-kvaratskhelia-dan-victor-osimhen-e-ovgu-dolu-sozler-3929192",
+     "tarih": "2026-11-22",
+     "ozet": "Fransız devi PSG'nin yıldız futbolcusu Khvicha Kvaratskhelia, Galatasaray'ın Nijeryalı golcüsü Victor Osimhen'le ilgili övgü dolu sözler sarfetti."
+    },
+    {
+     "baslik": "Trabzonspor - Eyüpspor muhtemel 11'ler belli oldu!",
+     "link": "https://www.haberturk.com/bilgi/foto/canli-izle-trabzonspor-eyupspor-maci-ne-zaman-saat-kacta-hangi-kanalda-trabzonspor-eyupspor-muhtemel-11-ler-belli-oldu-3929185",
+     "tarih": "2026-11-22",
+     "ozet": "Trabzonspor, Trendyol Süper Lig'in 12. haftasında 22 Kasım Pazar günü Eyüpspor'u Papara Park'ta konuk ediyor. Ligde üst üste 6 maç kazanan bordo-mavililer, son sıradaki rakibi karşısında galibiyet serisini sürdürmeyi hedefliyor. Peki, Trabzonspor - Eyüpspor maçı saat kaçta başlayacak, hangi kanalda "
+    },
+    {
+     "baslik": "Las Vegas'ta kazanan Max Verstappen!",
+     "link": "https://www.haberturk.com/spor/formula-1-las-vegas-grand-prix-sini-max-verstappen-kazandi-3929191",
+     "tarih": "2026-11-22",
+     "ozet": "Formula 1 Dünya Şampiyonası'nda sezonun 21. yarışı Las Vegas Grand Prix'sini, Red Bull takımından Hollandalı pilot Max Verstappen kazandı."
+    }
+   ],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "hata": null
+  },
+  "BBC Türkçe": {
+   "haberler": [
+    {
+     "baslik": "COP31 sona erdi, 'Antalya Paktı' kabul edilmedi",
+     "link": "https://www.bbc.com/turkce/articles/c5rmg31g88glo?at_medium=RSS&at_campaign=rss",
+     "tarih": "2026-11-22",
+     "ozet": "Birleşmiş Milletler (BM) iklim konferansı COP31'de uzayan görüşmelerin ardından Antalya Paktı adı verilen bir karar taslağı yayımlandı. Avrupa Birliği, Panama ve Norveç dahil ülkelerin teklife itiraz etmesiyle anlaşma sağlanamadı. Konferans sona eriyor."
+    },
+    {
+     "baslik": "Ankara'da Soğuksu Milli Parkı'nda iki bozayının vurulmasıyla ilgili neler biliniyor?",
+     "link": "https://www.bbc.com/turkce/articles/cm3wgxjn1e20o?at_medium=RSS&at_campaign=rss",
+     "tarih": "2026-11-22",
+     "ozet": "Ankara'nın Kızılcahamam ilçesindeki Soğuksu Milli Parkı'nda yaşayan iki bozayı silahla vurularak öldürüldü. Tarım ve Orman Bakanlığı olayla ilgili soruşturma başlatıldığını açıkladı."
+    },
+    {
+     "baslik": "Antalya Kepez Belediyesi'ne soruşturma: 20 kişi gözaltına alındı",
+     "link": "https://www.bbc.com/turkce/articles/c6y0xy47q4wpo?at_medium=RSS&at_campaign=rss",
+     "tarih": "2026-11-22",
+     "ozet": "Antalya Cumhuriyet Başsavcılığı tarafından Antalya Kepez Belediyesi'ne karşı yürütülen soruşturma kapsamında 20 kişinin gözaltına alındığı bildirildi."
+    },
+    {
+     "baslik": "Kapadokya'daki antik yeraltı şehrinden iklim dersleri",
+     "link": "https://www.bbc.com/turkce/articles/cm702e55rp84o?at_medium=RSS&at_campaign=rss",
+     "tarih": "2026-11-22",
+     "ozet": "Yüzyıllar önce Kapadokyalılar düşmanlarından kaçmak için yer altına sığınmış ve aşırı hava koşullarından da korunmuşlardı. Bugün ise yer altı mağaraları iklim krizinde yeniden bir çözüm sunabilir."
+    },
+    {
+     "baslik": "'Çağımızın en büyük mücevheratçısı': Paolo Bulgari 89 yaşında hayatını kaybetti",
+     "link": "https://www.bbc.com/turkce/articles/c9ly41k071r2o?at_medium=RSS&at_campaign=rss",
+     "tarih": "2026-11-22",
+     "ozet": "İtalyan medyasına yapılan açıklamada ailesi onu \"çağımızın en büyük mücevheratçısı\" olarak anıyor."
+    },
+    {
+     "baslik": "'İnsanlar konuşmaktan çekiniyor': Altı erkekten birinde görülen varikosel hastalığı nedir?",
+     "link": "https://www.bbc.com/turkce/articles/cm2l5jn0r8q8o?at_medium=RSS&at_campaign=rss",
+     "tarih": "2026-11-22",
+     "ozet": "Dünyanın tedavi edilebilir en yaygın erkek kısırlığı hastalığı olan varikosel, her altı erkekten birini etkiliyor. Ancak çoğu erkeğin teşhis alana kadar hastalıktan haberi bile olmuyor. Peki bu hastalık teşhis ve tedavi süreci nasıl ilerliyor? Ameliyat olanlar ne diyor?"
+    },
+    {
+     "baslik": "Son dönemde yaşanan teknolojik kesinti, saldırı ve güvenlik açıklarının sebebi ne?",
+     "link": "https://www.bbc.com/turkce/articles/cw7728xx70z5o?at_medium=RSS&at_campaign=rss",
+     "tarih": "2026-11-22",
+     "ozet": "Kesintiler ve bilgi ile teknoloji arızaları yaygın olsa da bu ölçekte yaşanması alışılmadık bir durum. Bunların birbiriyle bağlantılı olduğuna dair hiçbir kanıt yok ame sürekli yaşanan kesintiler endişe verici olabiliyor."
+    },
+    {
+     "baslik": "Galler Prensesi Kate yeni belgeselde kanser yolculuğunu anlatıyor",
+     "link": "https://www.bbc.com/turkce/articles/c6z7490p3l8no?at_medium=RSS&at_campaign=rss",
+     "tarih": "2026-11-22",
+     "ozet": "BBC'nin yeni belgeseli Galler Prensesi Catherine'in kanser sürecini anlatıyor. Prenses, \"Kanser teşhisinin sizde değiştirdiği şeylerin çok daha derin bir boyutu var\" diyor."
+    },
+    {
+     "baslik": "Can Atalay'dan AİHM kararı sonrası tahliye çağrısı",
+     "link": "https://www.bbc.com/turkce/articles/c3y0xnx8vk5ko?at_medium=RSS&at_campaign=rss",
+     "tarih": "2026-11-21",
+     "ozet": "Milletvekilliği düşürülmüş tutuklu avukat Can Atalay, Avrupa İnsan Hakları Mahkemesi'nin (AİHM) hakkındaki kararının ardından derhal tahliye edilmesini ve seçildiği Hatay milletvekili olarak Meclis çalışmalarına katılmasının sağlanmasını istedi"
+    },
+    {
+     "baslik": "Yeni 'Bond kızı' kim olacak?",
+     "link": "https://www.bbc.com/turkce/articles/cqr7g82mg2llo?at_medium=RSS&at_campaign=rss",
+     "tarih": "2026-11-21",
+     "ozet": "Pattinson'ın 007 olarak açıklanmasının ardından yorumcular, başrol kadın oyuncusunun kim olacağını tahmin etmeye çalışıyor. Ancak \"Bond kızı\" ile ilgili daha büyük bir soru daha var: Bu rol artık değişmeli mi?"
+    },
+    {
+     "baslik": "Kırmızı et yemeden demir alımını artırmanız için beş yöntem",
+     "link": "https://www.bbc.com/turkce/articles/cx24e1g1el4ro?at_medium=RSS&at_campaign=rss",
+     "tarih": "2026-11-21",
+     "ozet": "Fermente edin, haşlayın ya da limon sıkın. Demir emilimi söz konusu olduğunda önemli olan sadece ne yediğiniz değil aynı zamanda nasıl yediğiniz."
+    },
+    {
+     "baslik": "Anthropic'in yükselişiyle dolar milyarderi olan yedi kişi kim?",
+     "link": "https://www.bbc.com/turkce/articles/ck987ypp95ddo?at_medium=RSS&at_campaign=rss",
+     "tarih": "2026-11-21",
+     "ozet": "Bir zamanların bilinmeyen girişimi Anthropic, yalnızca beş yıl içinde bir teknoloji devine dönüşerek değeri 1 trilyon doların üzerine çıkan bir şirket haline geldi. Şirketin yedi kurucusu, bugün kağıt üzerinde milyarderler kulübüne katılmış durumda"
+    },
+    {
+     "baslik": "AKP hangi partiden kaç belediye başkanı transfer etti?",
+     "link": "https://www.bbc.com/turkce/articles/c20y9v012v2o?at_medium=RSS&at_campaign=rss",
+     "tarih": "2026-11-20",
+     "ozet": "2023'teki genel seçimde Meclis'te çoğunluk elde edemeyen ve 2024 yerel seçimlerinde de ilk defa Türkiye genelinde ikinci sıraya düşen AKP, o tarihten bu yana çok sayıda belediye başkanını saflarına kattı."
+    },
+    {
+     "baslik": "BBC araştırması: Londra'da cinsel suçları araştıran dedektif, mağdurlara tecavüz etti",
+     "link": "https://www.bbc.com/turkce/articles/c8e39lrep7vro?at_medium=RSS&at_campaign=rss",
+     "tarih": "2026-11-21",
+     "ozet": "Londra'da cinsel suçları soruşturan bir polis dedektifinin, soruşturmasını yürüttüğü kadınları cinsel istismara uğrattığı ve polis teşkilatının bu dedektifi durdurmak adına çok sayıda fırsatı kaçırdığı ortaya çıktı."
+    },
+    {
+     "baslik": "Elektrifikasyon neden tartışılıyor, Türkiye yüzde 35 hedefini tutturabilir mi?",
+     "link": "https://www.bbc.com/turkce/articles/credq8yj8wz0o?at_medium=RSS&at_campaign=rss",
+     "tarih": "2026-11-20",
+     "ozet": "Antalya'da düzenlenen Birleşmiş Milletler (BM) iklim konferansı COP31'in başkanlığının bu yılki en önemli gündem maddelerinden biri de elektrifikasyon taahhüdü. \n16 Kasım'da yayımlanan taslak karar metninde, 2035 yılına kadar nihai enerji tüketiminin %35'inin elektrikten karşılanması hedefi de yer a"
+    }
+   ],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 1,
+   "hata": null
+  },
+  "Al Jazeera TR": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "hata": null
+  },
+  "Reuters TR": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "hata": null
+  }
+ },
+ "iller": {
+  "ADANA": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Çukurova Press",
+     "url": "https://www.cukurovapress.com.tr",
+     "hata": "HTTPSConnectionPool(host='www.cukurovapress.com.tr', port=443): Max retries exceeded with url: / (Caused by NameResoluti"
+    },
+    {
+     "gazete": "Toros Gazetesi",
+     "url": "https://www.torosgazetesi.com",
+     "hata": "haber bulunamadı"
+    },
+    {
+     "gazete": "Adana Haber",
+     "url": "https://www.adanahaber.com.tr",
+     "hata": "haber bulunamadı"
+    }
+   ]
+  },
+  "ADIYAMAN": {
+   "haberler": [],
+   "tarihsiz": [
+    {
+     "baslik": "Bets10 Bonanza oyunu",
+     "link": "https://golbasigazetesi.com/home/",
+     "tarih": null,
+     "kaynak": "Gölbaşı Gazetesi"
+    }
+   ],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Adıyaman Haber",
+     "url": "https://www.adiyamanhaber.net",
+     "hata": "HTTPSConnectionPool(host='www.adiyamanhaber.net', port=443): Max retries exceeded with url: / (Caused by NameResolutionE"
+    },
+    {
+     "gazete": "Adıyaman Güne Bakış",
+     "url": "https://www.adiyamangb.com",
+     "hata": "HTTPSConnectionPool(host='www.adiyamangb.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionErro"
+    }
+   ]
+  },
+  "AFYONKARAHİSAR": {
+   "haberler": [
+    {
+     "baslik": "Afyon'daki 629 yıllık bu tarihi mescidi bir çoğumuz bilmiyor!..",
+     "link": "https://www.afyonhaber.com/afyondaki-629-yillik-bu-tarihi-mescidi-bir-cogumuz-bilmiyor",
+     "tarih": "2026-11-18",
+     "kaynak": "Afyon Haber"
+    }
+   ],
+   "tarihsiz": [
+    {
+     "baslik": "Değişimle büyüyen, birlikte güçlenen Afyonkarahisar",
+     "link": "https://www.afyonhaber.com/degisimle-buyuyen-birlikte-guclenen-afyonkarahisar",
+     "tarih": null,
+     "kaynak": "Afyon Haber"
+    }
+   ],
+   "hafta_disi_sayisi": 6,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Zafer Gazetesi",
+     "url": "https://www.zafergazetesi.com.tr",
+     "hata": "HTTPSConnectionPool(host='www.zafergazetesi.com.tr', port=443): Max retries exceeded with url: / (Caused by NameResoluti"
+    },
+    {
+     "gazete": "Kocatepe Gazetesi",
+     "url": "https://www.kocatepegazetesi.com.tr",
+     "hata": "HTTPSConnectionPool(host='www.kocatepegazetesi.com.tr', port=443): Max retries exceeded with url: / (Caused by NameResol"
+    }
+   ]
+  },
+  "AĞRI": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Ağrı Hürses",
+     "url": "https://www.agrihurses.com",
+     "hata": "HTTPSConnectionPool(host='www.agrihurses.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFErr"
+    },
+    {
+     "gazete": "Doğubeyazıt Gazetesi",
+     "url": "https://www.dogubeyazitgazetesi.com",
+     "hata": "HTTPSConnectionPool(host='www.dogubeyazitgazetesi.com', port=443): Max retries exceeded with url: / (Caused by NameResol"
+    },
+    {
+     "gazete": "Ağrı Haber",
+     "url": "https://www.agrihaber.com",
+     "hata": "HTTPSConnectionPool(host='www.agrihaber.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError"
+    }
+   ]
+  },
+  "AKSARAY": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Aksaray Haber",
+     "url": "https://www.aksarayhaber.com",
+     "hata": "HTTPSConnectionPool(host='www.aksarayhaber.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutEr"
+    },
+    {
+     "gazete": "Egemen Gazetesi",
+     "url": "https://www.egemenhaber.com",
+     "hata": "haber bulunamadı"
+    },
+    {
+     "gazete": "Ortaköy Haber",
+     "url": "https://www.ortakoyhaber.com",
+     "hata": "HTTPSConnectionPool(host='www.ortakoyhaber.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionEr"
+    }
+   ]
+  },
+  "AMASYA": {
+   "haberler": [
+    {
+     "baslik": "Merzifonspor Galibiyeti Kaçırdı! Penaltı Kaçtı, Puanlar Paylaşıldı – Merzifon Bilgi Gazetesi",
+     "link": "https://www.merzifonhaber.com/merzifonspor-galibiyeti-kacirdi-penalti-kacti-puanlar-paylasildi-merzifon-bilgi-gazetesi-2/",
+     "tarih": "2026-11-22",
+     "kaynak": "Merzifon Haber"
+    },
+    {
+     "baslik": "Başkan Kargı’ya İki Önemli Ziyaret! – Merzifon Bilgi Gazetesi",
+     "link": "https://www.merzifonhaber.com/baskan-kargiya-iki-onemli-ziyaret-merzifon-bilgi-gazetesi/",
+     "tarih": "2026-11-22",
+     "kaynak": "Merzifon Haber"
+    },
+    {
+     "baslik": "Merzifon’da MHP İlçe Başkanlığına ziyaretler sürüyor – Objektif Amasya",
+     "link": "https://www.merzifonhaber.com/merzifonda-mhp-ilce-baskanligina-ziyaretler-suruyor-objektif-amasya/",
+     "tarih": "2026-11-22",
+     "kaynak": "Merzifon Haber"
+    },
+    {
+     "baslik": "Amasya Delegelerinden Özgür Özel’e Tam Destek! – Merzifon Bilgi Gazetesi",
+     "link": "https://www.merzifonhaber.com/amasya-delegelerinden-ozgur-ozele-tam-destek-merzifon-bilgi-gazetesi-2/",
+     "tarih": "2026-11-22",
+     "kaynak": "Merzifon Haber"
+    },
+    {
+     "baslik": "Valilik Önünde Şüpheli Paket Paniği! – Merzifon Bilgi Gazetesi",
+     "link": "https://www.merzifonhaber.com/valilik-onunde-supheli-paket-panigi-merzifon-bilgi-gazetesi-2/",
+     "tarih": "2026-11-22",
+     "kaynak": "Merzifon Haber"
+    },
+    {
+     "baslik": "Amasyalı Şehit Kaplan Dualarla Anıldı! – Merzifon Bilgi Gazetesi",
+     "link": "https://www.merzifonhaber.com/amasyali-sehit-kaplan-dualarla-anildi-merzifon-bilgi-gazetesi-2/",
+     "tarih": "2026-11-22",
+     "kaynak": "Merzifon Haber"
+    },
+    {
+     "baslik": "Merzifonlu Şehit Arslan Kulaksız’ın Katil Zanlısı 11 Yıl Sonra Yakalandı! – Merzifon Bilgi Gazetesi",
+     "link": "https://www.merzifonhaber.com/merzifonlu-sehit-arslan-kulaksizin-katil-zanlisi-11-yil-sonra-yakalandi-merzifon-bilgi-gazetesi-2/",
+     "tarih": "2026-11-22",
+     "kaynak": "Merzifon Haber"
+    },
+    {
+     "baslik": "Vali Bakan Gümüşhacıköy’de Halkla Buluştu! – Merzifon Bilgi Gazetesi",
+     "link": "https://www.merzifonhaber.com/vali-bakan-gumushacikoyde-halkla-bulustu-merzifon-bilgi-gazetesi-2/",
+     "tarih": "2026-11-22",
+     "kaynak": "Merzifon Haber"
+    }
+   ],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Amasya Gazetesi",
+     "url": "https://www.amasyagazetesi.com",
+     "hata": "500 Server Error: Internal Server Error for url: https://amasyagazetesi.com/"
+    },
+    {
+     "gazete": "Yeşilırmak Gazetesi",
+     "url": "https://www.yesilirmakgazetesi.com",
+     "hata": "HTTPSConnectionPool(host='chalik.net', port=443): Max retries exceeded with url: /product/ (Caused by NameResolutionErro"
+    }
+   ]
+  },
+  "ANKARA": {
+   "haberler": [
+    {
+     "baslik": "TBMM Plan ve Bütçe Komisyonunda Sınır Kapıları, Tır Şoförlerinin Sorunları ve Bölgesel Taşımacılık Gündeme Taşındı",
+     "link": "https://baskentpostasi.com/tbmm-plan-ve-butce-komisyonunda-sinir-kapilari-tir-sofoerlerinin-sorunlari-ve-boelgesel-tasimacilik-gundeme-tasindi",
+     "tarih": "2026-11-22",
+     "kaynak": "Başkent Postası"
+    },
+    {
+     "baslik": "Çankaya Belediyesinin 2027 Yılı Bütçesi ABB Meclisinde 20 Milyar 162 Milyon TL ile Oy Birliğiyle Kabul Edildi",
+     "link": "https://baskentpostasi.com/cankaya-belediyesinin-2027-yili-butcesi-abb-meclisinde-20-milyar-162-milyon-tl-ile-oy-birligiyle-kabul-edildi",
+     "tarih": "2026-11-22",
+     "kaynak": "Başkent Postası"
+    },
+    {
+     "baslik": "CHP Bartın Milletvekili Aysu Bankoğlu: “TÜRGEV’e 614 Bin, TÜGVA’ya 576 Bin Avro, Bu Fonlar Hangi Ölçütlerle Dağıtılıyor?”",
+     "link": "https://baskentpostasi.com/chp-bartin-milletvekili-aysu-bankoglu-turgeve-614-bin-tugvaya-576-bin-avro-bu-fonlar-hangi-olcutlerle-dagitiliyor",
+     "tarih": "2026-11-22",
+     "kaynak": "Başkent Postası"
+    },
+    {
+     "baslik": "Altındağ Belediye Başkanı Dr. Veysel Tiryaki Yıldıztepe’de Vatandaşlarla Buluştu, Sağlık Taramalarını Ziyaret Etti",
+     "link": "https://baskentpostasi.com/altindag-belediye-baskani-dr-veysel-tiryaki-yildiztepede-vatandaslarla-bulustu-saglik-taramalarini-ziyaret-etti",
+     "tarih": "2026-11-22",
+     "kaynak": "Başkent Postası"
+    },
+    {
+     "baslik": "CHP Koordinatörü Gürsel Tekin: “Siyasette Milyarderlerin Servetlerinin Kaynağı Araştırılıp Hesabı Sorulmalı”",
+     "link": "https://baskentpostasi.com/chp-koordinatoeru-gursel-tekin-siyasette-milyarderlerin-servetlerinin-kaynagi-arastirilip-hesabi-sorulmali",
+     "tarih": "2026-11-22",
+     "kaynak": "Başkent Postası"
+    },
+    {
+     "baslik": "Cumhurbaşkanlığı İletişim Başkanlığı Koordinasyonunda İslamabad’da STRATCOM Forumu Düzenlendi: Türkiye-Pakistan Strateji...",
+     "link": "https://baskentpostasi.com/cumhurbaskanligi-iletisim-baskanligi-koordinasyonunda-islamabadda-stratcom-forumu-duzenlendi-turkiye-pakistan-stratejik-ortakligi-masaya-yatirildi",
+     "tarih": "2026-11-22",
+     "kaynak": "Başkent Postası"
+    },
+    {
+     "baslik": "MHP Genel Başkan Başdanışmanı Eyyup Yıldız'dan Özgür Özel'e: “Gelin, İzleme Komisyonunda yerinizi alın”",
+     "link": "https://baskentpostasi.com/mhp-genel-baskan-basdanismani-eyyup-yildizdan-ozgur-ozele-gelin-izleme-komisyonunda-yerinizi-alin",
+     "tarih": "2026-11-22",
+     "kaynak": "Başkent Postası"
+    },
+    {
+     "baslik": "CHP Niğde Milletvekili Ömer Fethi Gürer: “Ekim ayında 103 traktör icradan satışa çıkarıldı”",
+     "link": "https://baskentpostasi.com/chp-nigde-milletvekili-omer-fethi-gurer-ekim-ayinda-103-traktoer-icradan-satisa-cikarildi",
+     "tarih": "2026-11-22",
+     "kaynak": "Başkent Postası"
+    }
+   ],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Ankara Havadis",
+     "url": "https://www.ankarahavadis.com.tr",
+     "hata": "HTTPSConnectionPool(host='www.ankarahavadis.com.tr', port=443): Max retries exceeded with url: / (Caused by NameResoluti"
+    },
+    {
+     "gazete": "Güncel Ankara",
+     "url": "https://www.guncelankara.com",
+     "hata": "haber bulunamadı"
+    }
+   ]
+  },
+  "ANTALYA": {
+   "haberler": [
+    {
+     "baslik": "Antalya yaylalarından sofralara iniyor! Tarlada 20 TL’den alıcı buluyor",
+     "link": "https://www.antalyakorfez.com/antalya-yaylalarindan-sofralara-iniyor-tarlada-20-tlden-alici-buluyor",
+     "tarih": "2026-11-21",
+     "kaynak": "Antalya Körfez"
+    },
+    {
+     "baslik": "Alanya’da apartman yangını korkuttu!",
+     "link": "https://www.antalyakorfez.com/alanyada-apartman-yangini-korkuttu",
+     "tarih": "2026-11-21",
+     "kaynak": "Antalya Körfez"
+    },
+    {
+     "baslik": "Antalya’dan Sagalassos’a fotoğraf yolculuğu!",
+     "link": "https://www.antalyakorfez.com/antalyadan-sagalassosa-fotograf-yolculugu",
+     "tarih": "2026-11-21",
+     "kaynak": "Antalya Körfez"
+    },
+    {
+     "baslik": "Alanya'da korku dolu dakikalar! Ekipler zamanla yarıştı",
+     "link": "https://www.antalyakorfez.com/alanyada-korku-dolu-dakikalar-ekipler-zamanla-yaristi",
+     "tarih": "2026-11-21",
+     "kaynak": "Antalya Körfez"
+    },
+    {
+     "baslik": "Antalya'da COP31 için gece mesaisi! Çalışma saatleri uzatıldı",
+     "link": "https://www.antalyakorfez.com/antalyada-cop31-icin-gece-mesaisi-calisma-saatleri-uzatildi",
+     "tarih": "2026-11-20",
+     "kaynak": "Antalya Körfez"
+    },
+    {
+     "baslik": "Alanya'da Moldovalı kadın evinde, eski eşi ise ağaçta ölü bulundu",
+     "link": "https://www.antalyakorfez.com/alanyada-moldovali-kadin-evinde-eski-esi-ise-agacta-olu-bulundu",
+     "tarih": "2026-11-20",
+     "kaynak": "Antalya Körfez"
+    },
+    {
+     "baslik": "Antalya'da okul kantinleri için kritik uyarı!",
+     "link": "https://www.antalyakorfez.com/antalyada-okul-kantinleri-icin-kritik-uyari",
+     "tarih": "2026-11-20",
+     "kaynak": "Antalya Körfez"
+    },
+    {
+     "baslik": "Osmaniye'de kadınlar yetiştiriyor, Antalya'da satılıyor!",
+     "link": "https://www.antalyakorfez.com/osmaniyede-kadinlar-yetistiriyor-antalyada-satiliyor",
+     "tarih": "2026-11-20",
+     "kaynak": "Antalya Körfez"
+    }
+   ],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 6,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Akdeniz Gerçek",
+     "url": "https://www.akdenizgercek.com",
+     "hata": "500 Server Error: Internal Server Error for url: https://www.akdenizgercek.com/"
+    }
+   ]
+  },
+  "ARDAHAN": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 8,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Ardahan Haber",
+     "url": "https://www.ardahanhaber.com",
+     "hata": "HTTPSConnectionPool(host='www.ardahanhaber.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutEr"
+    },
+    {
+     "gazete": "Kuzey Anadolu",
+     "url": "https://www.kuzeyanadolu.com",
+     "hata": "HTTPSConnectionPool(host='www.kuzeyanadolu.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutEr"
+    }
+   ]
+  },
+  "ARTVİN": {
+   "haberler": [],
+   "tarihsiz": [
+    {
+     "baslik": "Gazeteciler Resepsiyonu ve Tolga Gül’ü Anma Programı",
+     "link": "https://www.coruhpostasi.com/haber/gazeteciler-resepsiyonu-ve-tolga-gul-u-anma-programi-883.html",
+     "tarih": null,
+     "kaynak": "Çoruh Postası"
+    },
+    {
+     "baslik": "AGC Tolga Gül’ü Unutmadı!",
+     "link": "https://www.coruhpostasi.com/haber/agc-tolga-gul-u-unutmadi-882.html",
+     "tarih": null,
+     "kaynak": "Çoruh Postası"
+    },
+    {
+     "baslik": "10 Ocak Çalışan Gazeteciler Günü Gazeteciler Resepsiyonu ve Merhum Gazeteci Tolga Gül'ü Anma Programı",
+     "link": "https://www.coruhpostasi.com/haber/10-ocak-calisan-gazeteciler-gunu-gazeteciler-resepsiyonu-ve-merhum-gazeteci-tolga-gul-u-anma-programi-881.html",
+     "tarih": null,
+     "kaynak": "Çoruh Postası"
+    },
+    {
+     "baslik": "ARTVİN’İ YASA BOĞAN ÖLÜM",
+     "link": "https://www.coruhpostasi.com/haber/artvin-i-yasa-bogan-olum-878.html",
+     "tarih": null,
+     "kaynak": "Çoruh Postası"
+    },
+    {
+     "baslik": "Bakan Uraloğlu, Kocatepe’ye Destek Verdi, Destek İstedi",
+     "link": "https://www.coruhpostasi.com/haber/bakan-uraloglu-kocatepe-ye-destek-verdi-destek-istedi-870.html",
+     "tarih": null,
+     "kaynak": "Çoruh Postası"
+    },
+    {
+     "baslik": "Ulaştırma Bakanından Artvin’in Ulaşım Sorunlarına Çözüm Sözü",
+     "link": "https://www.coruhpostasi.com/haber/ulastirma-bakanindan-artvin-in-ulasim-sorunlarina-cozum-sozu-869.html",
+     "tarih": null,
+     "kaynak": "Çoruh Postası"
+    },
+    {
+     "baslik": "Macahel Tüneli’ne Bu Yıl Başlıyoruz",
+     "link": "https://www.coruhpostasi.com/haber/macahel-tuneli-ne-bu-yil-basliyoruz-866.html",
+     "tarih": null,
+     "kaynak": "Çoruh Postası"
+    },
+    {
+     "baslik": "Orta Mahalle Muhtar Adayı Ali Yıldırım, Hizmet İçin Aday Olduğunu Açıkladı",
+     "link": "https://www.coruhpostasi.com/haber/orta-mahalle-muhtar-adayi-ali-yildirim-hizmet-icin-aday-oldugunu-acikladi-863.html",
+     "tarih": null,
+     "kaynak": "Çoruh Postası"
+    }
+   ],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Artvin'in Sesi",
+     "url": "https://www.artvininsesi.com",
+     "hata": "HTTPSConnectionPool(host='www.artvininsesi.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionEr"
+    },
+    {
+     "gazete": "Hopa Haber",
+     "url": "https://www.hopahaber.com",
+     "hata": "HTTPSConnectionPool(host='www.hopahaber.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError"
+    }
+   ]
+  },
+  "AYDIN": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Aydın Ses",
+     "url": "https://www.aydinses.com.tr",
+     "hata": "HTTPSConnectionPool(host='www.aydinses.com.tr', port=443): Max retries exceeded with url: / (Caused by NameResolutionErr"
+    },
+    {
+     "gazete": "Yeni Kıroba",
+     "url": "https://www.yenikroba.com",
+     "hata": "HTTPSConnectionPool(host='www.yenikroba.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError"
+    },
+    {
+     "gazete": "Aydın Denge",
+     "url": "https://www.aydindenge.com.tr",
+     "hata": "haber bulunamadı"
+    }
+   ]
+  },
+  "BALIKESİR": {
+   "haberler": [
+    {
+     "baslik": "İvrindi'de Maden Projesine Yargı Freni!",
+     "link": "https://www.balikesirsondakika.com/ivrindide-maden-projesine-yargi-freni",
+     "tarih": "2026-11-22",
+     "kaynak": "Balıkesir'de Son Haber"
+    },
+    {
+     "baslik": "Bal-Kes Ayvalık’ta fırtına gibi esti, zirve yarışı kızıştı",
+     "link": "https://www.balikesirsondakika.com/bal-kes-ayvalikta-firtina-gibi-esti-zirve-yarisi-kizisti",
+     "tarih": "2026-11-22",
+     "kaynak": "Balıkesir'de Son Haber"
+    },
+    {
+     "baslik": "CHP'de erken Kurultay çağrılarına Balıkesir'den yanıt",
+     "link": "https://www.balikesirsondakika.com/chpde-erken-kurultay-cagrilarina-balikesirden-yanit",
+     "tarih": "2026-11-22",
+     "kaynak": "Balıkesir'de Son Haber"
+    },
+    {
+     "baslik": "Balıkesir Ulaşımında 'Çayırhisar–Paşaalanı' Çıkmazı",
+     "link": "https://www.balikesirsondakika.com/balikesir-ulasiminda-cayirhisar-pasaalani-cikmazi",
+     "tarih": "2026-11-21",
+     "kaynak": "Balıkesir'de Son Haber"
+    },
+    {
+     "baslik": "Bastonla vurduğu kediyi kör eden kişi tutuklandı",
+     "link": "https://www.balikesirsondakika.com/bastonla-vurdugu-kediyi-kor-eden-kisi-tutuklandi",
+     "tarih": "2026-11-21",
+     "kaynak": "Balıkesir'de Son Haber"
+    },
+    {
+     "baslik": "BAÜN Kardiyoloji ekibi, Eyüp Avcı için saçlarını kazıttı!",
+     "link": "https://www.balikesirsondakika.com/baun-kardiyoloji-ekibi-eyup-avci-icin-saclarini-kazitti",
+     "tarih": "2026-11-21",
+     "kaynak": "Balıkesir'de Son Haber"
+    },
+    {
+     "baslik": "Balıkesir hayat pahalılığında zirveye oynuyor",
+     "link": "https://www.balikesirsondakika.com/balikesir-hayat-pahaliliginda-zirveye-oynuyor",
+     "tarih": "2026-11-21",
+     "kaynak": "Balıkesir'de Son Haber"
+    },
+    {
+     "baslik": "Altıeylül ‘Gamsız Belediyecilik’ ile tarih yazıyor!",
+     "link": "https://www.balikesirsondakika.com/altieylul-gamsiz-belediyecilik-ile-tarih-yaziyor",
+     "tarih": "2026-11-22",
+     "kaynak": "Balıkesir'de Son Haber"
+    }
+   ],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Körfez'in Sesi",
+     "url": "https://www.korfezinsesi.com",
+     "hata": "403 Client Error: Forbidden for url: https://www.korfezinsesi.com/"
+    },
+    {
+     "gazete": "Demokrat Gazetesi",
+     "url": "https://www.demokratgazete.com",
+     "hata": "haber bulunamadı"
+    }
+   ]
+  },
+  "BARTIN": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Bartın Haber",
+     "url": "https://www.bartinhaber.com",
+     "hata": "HTTPSConnectionPool(host='www.bartinhaber.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionErr"
+    },
+    {
+     "gazete": "Pusula Gazetesi",
+     "url": "https://www.bartinpusula.com",
+     "hata": "HTTPSConnectionPool(host='www.bartinpusula.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionEr"
+    },
+    {
+     "gazete": "Halkın Sesi",
+     "url": "https://www.halkinsesi.com.tr",
+     "hata": "haber bulunamadı"
+    }
+   ]
+  },
+  "BATMAN": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 6,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Batman Doğuş",
+     "url": "https://www.batmandogus.com",
+     "hata": "HTTPSConnectionPool(host='www.batmandogus.com', port=443): Read timed out. (read timeout=12)"
+    },
+    {
+     "gazete": "Batman Postası",
+     "url": "https://www.batmanpostasi.com",
+     "hata": "HTTPSConnectionPool(host='www.batmanpostasi.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionEr"
+    }
+   ]
+  },
+  "BAYBURT": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Bayburt Postası",
+     "url": "https://www.bayburtpostasi.com",
+     "hata": "HTTPSConnectionPool(host='www.bayburtpostasi.com', port=443): Max retries exceeded with url: / (Caused by NameResolution"
+    },
+    {
+     "gazete": "Bayburt Haber",
+     "url": "https://www.bayburthaber.com",
+     "hata": "haber bulunamadı"
+    },
+    {
+     "gazete": "Gündem Bayburt",
+     "url": "https://www.gundembayburt.com",
+     "hata": "HTTPSConnectionPool(host='www.gundembayburt.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionE"
+    }
+   ]
+  },
+  "BİLECİK": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Bilecik Haber",
+     "url": "https://www.bilecikhaber.com",
+     "hata": "HTTPSConnectionPool(host='www.bilecikhaber.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutEr"
+    },
+    {
+     "gazete": "Sakarya Gazetesi",
+     "url": "https://www.sakaryagazetesi.com.tr",
+     "hata": "haber bulunamadı"
+    },
+    {
+     "gazete": "Bozüyük Haber",
+     "url": "https://www.bozuyukhaber.com",
+     "hata": "HTTPSConnectionPool(host='www.bozuyukhaber.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionEr"
+    }
+   ]
+  },
+  "BİNGÖL": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Bingöl Haber",
+     "url": "https://www.bingolhaber.com",
+     "hata": "HTTPSConnectionPool(host='www.bingolhaber.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionErr"
+    },
+    {
+     "gazete": "Günışığı Gazetesi",
+     "url": "https://www.gunisigigazete.com",
+     "hata": "HTTPSConnectionPool(host='www.gunisigigazete.com', port=443): Max retries exceeded with url: / (Caused by NameResolution"
+    },
+    {
+     "gazete": "Bingöl Gündem",
+     "url": "https://www.bingolgundem.com",
+     "hata": "haber bulunamadı"
+    }
+   ]
+  },
+  "BİTLİS": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Bitlis Haber",
+     "url": "https://www.bitlishaber.com",
+     "hata": "HTTPSConnectionPool(host='www.bitlishaber.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutErr"
+    },
+    {
+     "gazete": "Tatvan Sesi",
+     "url": "https://www.tatvansesi.com",
+     "hata": "haber bulunamadı"
+    },
+    {
+     "gazete": "Güroymak Haber",
+     "url": "https://www.guroymakhaber.com",
+     "hata": "haber bulunamadı"
+    }
+   ]
+  },
+  "BOLU": {
+   "haberler": [
+    {
+     "baslik": "Kongrede 67’si yurt dışından, 59’u yurt içinden olmak üzere 126 bildiri",
+     "link": "https://www.bolutakip.com/kongrede-67si-yurt-disindan-59u-yurt-icinden-olmak-uzere-126-bildiri",
+     "tarih": "2026-11-20",
+     "kaynak": "Bolu Takip"
+    },
+    {
+     "baslik": "COP31’de tütün üretiminin çevresel etkilerini anlattı",
+     "link": "https://www.bolutakip.com/cop31de-tutun-uretiminin-cevresel-etkilerini-anlatti",
+     "tarih": "2026-11-20",
+     "kaynak": "Bolu Takip"
+    },
+    {
+     "baslik": "TASKK BÖLGE BAŞKANLARI KÜTAHYA’DA BULUŞTU! AMATÖR SPORUN SORUNLARI MASAYA YATIRILDI",
+     "link": "https://www.bolutakip.com/taskk-bolge-baskanlari-kutahyada-bulustu-amator-sporun-sorunlari-masaya-yatirildi",
+     "tarih": "2026-11-20",
+     "kaynak": "Bolu Takip"
+    },
+    {
+     "baslik": "14 FUTBOL KULÜBÜ'NDEN GELİŞİM LİGLERİNDE MUHTEŞEM HAFTA! 4'TE 4 YAPTILAR",
+     "link": "https://www.bolutakip.com/14-futbol-kulubunden-gelisim-liglerinde-muhtesem-hafta-4te-4-yaptilar",
+     "tarih": "2026-11-20",
+     "kaynak": "Bolu Takip"
+    },
+    {
+     "baslik": "U19 GELİŞİM LİGİ'NDE GOL SESİ ÇIKMADI! KIBRISCIKSPOR İLE KDZ. EREĞLİ 1980 PUANLARI PAYLAŞTI",
+     "link": "https://www.bolutakip.com/u19-gelisim-liginde-gol-sesi-cikmadi-kibriscikspor-ile-kdz-eregli-1980-puanlari-paylasti",
+     "tarih": "2026-11-20",
+     "kaynak": "Bolu Takip"
+    },
+    {
+     "baslik": "U14 LİGİNDE KRİTİK MAÇTA PUANLAR PAYLAŞILDI! BOLU GENÇLERBİRLİĞİ İLE KÖROĞLUSPOR YENİŞEMEDİ",
+     "link": "https://www.bolutakip.com/u14-liginde-kritik-macta-puanlar-paylasildi-bolu-genclerbirligi-ile-korogluspor-yenisemedi",
+     "tarih": "2026-11-19",
+     "kaynak": "Bolu Takip"
+    },
+    {
+     "baslik": "BOLUSPOR İLE SOYSALSPOR ARASINDA PUANLAR PAYLAŞILDI!",
+     "link": "https://www.bolutakip.com/boluspor-ile-soysalspor-arasinda-puanlar-paylasildi",
+     "tarih": "2026-11-19",
+     "kaynak": "Bolu Takip"
+    },
+    {
+     "baslik": "14 FK’DAN YAĞMUR ALTINDA GOL ŞOV! ÖMER ASAF AKMAN 4 GOLLE YILDIZLAŞTI",
+     "link": "https://www.bolutakip.com/14-fkdan-yagmur-altinda-gol-sov-omer-asaf-akman-4-golle-yildizlasti",
+     "tarih": "2026-11-18",
+     "kaynak": "Bolu Takip"
+    }
+   ],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Bolu Gündem",
+     "url": "https://www.bolugundem.com",
+     "hata": "403 Client Error: Forbidden for url: https://www.bolugundem.com/"
+    },
+    {
+     "gazete": "Bolu'nun Sesi",
+     "url": "https://www.bolununsesi.com",
+     "hata": "haber bulunamadı"
+    }
+   ]
+  },
+  "BURDUR": {
+   "haberler": [],
+   "tarihsiz": [
+    {
+     "baslik": "Burdurun Gücü Gazetesi",
+     "link": "https://www.cagdasburdur.com/gazete/burdurun-gucu-gazetesi-2026-11-20",
+     "tarih": null,
+     "kaynak": "Çağdaş Burdur"
+    },
+    {
+     "baslik": "Çağdaş Burdur Gazetesi",
+     "link": "https://www.cagdasburdur.com/gazete/2026-11-20",
+     "tarih": null,
+     "kaynak": "Çağdaş Burdur"
+    }
+   ],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Burdur Gazetesi",
+     "url": "https://www.burdurgazetesi.com.tr",
+     "hata": "HTTPSConnectionPool(host='www.burdurgazetesi.com.tr', port=443): Max retries exceeded with url: / (Caused by NameResolut"
+    },
+    {
+     "gazete": "Gölhisar Haber",
+     "url": "https://www.golhisarhaber.com",
+     "hata": "HTTPSConnectionPool(host='www.golhisarhaber.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOF"
+    }
+   ]
+  },
+  "BURSA": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Olay Gazetesi",
+     "url": "https://www.olaygazetesi.com.tr",
+     "hata": "HTTPSConnectionPool(host='www.olaygazetesi.com.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeou"
+    },
+    {
+     "gazete": "Bursa'da Bugün",
+     "url": "https://www.bursadabugun.com",
+     "hata": "haber bulunamadı"
+    },
+    {
+     "gazete": "Kent Gazetesi",
+     "url": "https://www.kentgazetesi.com.tr",
+     "hata": "HTTPSConnectionPool(host='www.kentgazetesi.com.tr', port=443): Max retries exceeded with url: / (Caused by NameResolutio"
+    }
+   ]
+  },
+  "ÇANAKKALE": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Çanakkale Olay",
+     "url": "https://www.canakkaleolay.com",
+     "hata": "haber bulunamadı"
+    },
+    {
+     "gazete": "Boğaz Medya",
+     "url": "https://www.bogazmedya.com",
+     "hata": "HTTPSConnectionPool(host='www.bogazmedya.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionErro"
+    },
+    {
+     "gazete": "Gündem Gazetesi",
+     "url": "https://www.canakkalegundem.com",
+     "hata": "haber bulunamadı"
+    }
+   ]
+  },
+  "ÇANKIRI": {
+   "haberler": [
+    {
+     "baslik": "Çankırı FK maçındaki olaylarda 3 bekçiye soruşturma!",
+     "link": "https://www.cankiripostasi.com/cankiri-fk-macindaki-olaylarda-3-bekciye-sorusturma",
+     "tarih": "2026-11-22",
+     "kaynak": "Çankırı Postası"
+    },
+    {
+     "baslik": "Lider Çankırı FK, Kahramankazan’da Kazandı: 7’de 7 Yaptı!",
+     "link": "https://www.cankiripostasi.com/lider-cankiri-fk-kahramankazanda-kazandi-7de-7-yapti",
+     "tarih": "2026-11-22",
+     "kaynak": "Çankırı Postası"
+    },
+    {
+     "baslik": "Yeşilay’dan Korgun Sevgi Evleri’nde çocuklara özel etkinlik",
+     "link": "https://www.cankiripostasi.com/yesilaydan-korgun-sevgi-evlerinde-cocuklara-ozel-etkinlik",
+     "tarih": "2026-11-22",
+     "kaynak": "Çankırı Postası"
+    },
+    {
+     "baslik": "Çankırılı milli sporcu Ramazan Efe Yılmaz Türkiye şampiyonu oldu!",
+     "link": "https://www.cankiripostasi.com/cankirili-milli-sporcu-ramazan-efe-yilmaz-turkiye-sampiyonu-oldu",
+     "tarih": "2026-11-22",
+     "kaynak": "Çankırı Postası"
+    }
+   ],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Karatekin Gazetesi",
+     "url": "https://www.karatekingazetesi.com",
+     "hata": "HTTPSConnectionPool(host='www.karatekingazetesi.com', port=443): Max retries exceeded with url: / (Caused by NameResolut"
+    },
+    {
+     "gazete": "Çankırı Haber",
+     "url": "https://www.cankirihaber.com",
+     "hata": "HTTPSConnectionPool(host='www.cankirihaber.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionEr"
+    }
+   ]
+  },
+  "ÇORUM": {
+   "haberler": [
+    {
+     "baslik": "Alaca-Zile yolu  bir süre kapandı",
+     "link": "https://www.corumhaber.net/alaca-zile-yolu-bir-sure-kapandi",
+     "tarih": "2026-11-22",
+     "kaynak": "Çorum Haber"
+    },
+    {
+     "baslik": "Tahtasız, yiğeninin nişan yüzüğünü taktı",
+     "link": "https://www.corumhaber.net/tahtasiz-yigeninin-nisan-yuzugunu-takti",
+     "tarih": "2026-11-22",
+     "kaynak": "Çorum Haber"
+    },
+    {
+     "baslik": "Milyonlarca emeklinin kulağı bu açıklamada",
+     "link": "https://www.corumhaber.net/milyonlarca-emeklinin-kulagi-bu-aciklamada",
+     "tarih": "2026-11-22",
+     "kaynak": "Çorum Haber"
+    },
+    {
+     "baslik": "Hitit Üniversitesi’nden çevreci buluş",
+     "link": "https://www.corumhaber.net/hitit-universitesinden-cevreci-bulus",
+     "tarih": "2026-11-22",
+     "kaynak": "Çorum Haber"
+    },
+    {
+     "baslik": "Kocaelisporlu futbolcudan iddialı açıklama:  “Çorum’dan 3 puanla  döneceğiz”",
+     "link": "https://www.corumhaber.net/kocaelisporlu-futbolcudan-iddiali-aciklama-corumdan-3-puanla-donecegiz",
+     "tarih": "2026-11-22",
+     "kaynak": "Çorum Haber"
+    },
+    {
+     "baslik": "M.Sinan 90’da yıkıldı: 0-1",
+     "link": "https://www.corumhaber.net/msinan-90da-yikildi-0-1",
+     "tarih": "2026-11-22",
+     "kaynak": "Çorum Haber"
+    },
+    {
+     "baslik": "Sultanlar, Ordu’da Çamlık’ı rahat geçti: 3-0",
+     "link": "https://www.corumhaber.net/sultanlar-orduda-camliki-rahat-gecti-3-0",
+     "tarih": "2026-11-22",
+     "kaynak": "Çorum Haber"
+    },
+    {
+     "baslik": "Reha Circi’yi kaybettik",
+     "link": "https://www.corumhaber.net/reha-circiyi-kaybettik",
+     "tarih": "2026-11-22",
+     "kaynak": "Çorum Haber"
+    }
+   ],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Hakimiyet Gazetesi",
+     "url": "https://www.hakimiyet.com.tr",
+     "hata": "HTTPSConnectionPool(host='www.hakimiyet.com.tr', port=443): Max retries exceeded with url: / (Caused by NameResolutionEr"
+    },
+    {
+     "gazete": "Yayla Haber",
+     "url": "https://www.yaylahaber.com",
+     "hata": "HTTPSConnectionPool(host='www.yaylahaber.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError"
+    }
+   ]
+  },
+  "DENİZLİ": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Son Nokta",
+     "url": "https://www.sonnokta.com.tr",
+     "hata": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+    },
+    {
+     "gazete": "Denizli Haber",
+     "url": "https://www.denizlihaber.com",
+     "hata": "haber bulunamadı"
+    },
+    {
+     "gazete": "Pamukkale Haber",
+     "url": "https://www.pamukkale.com.tr",
+     "hata": "haber bulunamadı"
+    }
+   ]
+  },
+  "DİYARBAKIR": {
+   "haberler": [],
+   "tarihsiz": [
+    {
+     "baslik": "Süper Lig Puan Durumu",
+     "link": "https://www.diyarbakirsoz.com/puan-durumu/super-lig",
+     "tarih": null,
+     "kaynak": "Diyarbakır Söz"
+    }
+   ],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Güneydoğu Ekspres",
+     "url": "https://www.guneyexpres.com",
+     "hata": "HTTPSConnectionPool(host='www.guneyexpres.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionErr"
+    },
+    {
+     "gazete": "Yeni Yurt",
+     "url": "https://www.yeniyurt.com.tr",
+     "hata": "haber bulunamadı"
+    }
+   ]
+  },
+  "DÜZCE": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Düzce Damla",
+     "url": "https://www.duzcedamla.com",
+     "hata": "403 Client Error: Forbidden for url: https://www.duzcedamla.com/"
+    },
+    {
+     "gazete": "Öncü Haber",
+     "url": "https://www.oncuhaber.com.tr",
+     "hata": "haber bulunamadı"
+    },
+    {
+     "gazete": "Düzce Postası",
+     "url": "https://www.duzcepostasi.com",
+     "hata": "403 Client Error: Forbidden for url: https://www.duzcepostasi.com/"
+    }
+   ]
+  },
+  "EDİRNE": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Edirne Haber",
+     "url": "https://www.edirnehaber.com.tr",
+     "hata": "HTTPSConnectionPool(host='www.edirnehaber.com.tr', port=443): Max retries exceeded with url: / (Caused by NameResolution"
+    },
+    {
+     "gazete": "Hudut Gazetesi",
+     "url": "https://www.hududgazetesi.com",
+     "hata": "HTTPSConnectionPool(host='www.hududgazetesi.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionE"
+    },
+    {
+     "gazete": "Trakya'da Gündem",
+     "url": "https://www.trakyagundem.com",
+     "hata": "haber bulunamadı"
+    }
+   ]
+  },
+  "ELAZIĞ": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Elazığ Hakimiyet",
+     "url": "https://www.elaziğhakimiyet.com",
+     "hata": "HTTPSConnectionPool(host='www.xn--elazihakimiyet-k7b.com', port=443): Max retries exceeded with url: / (Caused by NameRe"
+    },
+    {
+     "gazete": "Günışığı Gazetesi",
+     "url": "https://www.elaziggünısığı.com",
+     "hata": "HTTPSConnectionPool(host='www.xn--elaziggns-w9a10b8gbb.com', port=443): Max retries exceeded with url: / (Caused by Name"
+    },
+    {
+     "gazete": "Elazığ Son Haber",
+     "url": "https://www.elazigsondakika.com",
+     "hata": "haber bulunamadı"
+    }
+   ]
+  },
+  "ERZİNCAN": {
+   "haberler": [
+    {
+     "baslik": "Meteoroloji’den Erzincan İçin Sarı Kodlu Kuvvetli Yağış Uyar...",
+     "link": "https://www.erzincaninsesi.com/haber/meteorolojiden-erzincan-icin-sari-kodlu-kuvvetli-yagis-uyarisi-17739",
+     "tarih": "2026-11-20",
+     "kaynak": "Erzincan'ın Sesi"
+    },
+    {
+     "baslik": "Erzincan İl Sağlık Müdürlüğü'nden Dünya KOAH Günü Açıklaması",
+     "link": "https://www.erzincaninsesi.com/haber/erzincan-il-saglik-mudurlugunden-dunya-koah-gunu-aciklamasi-17736",
+     "tarih": "2026-11-18",
+     "kaynak": "Erzincan'ın Sesi"
+    },
+    {
+     "baslik": "Diyabet Farkındalığı İçin Bilgilendirme Etkinliği Düzenlendi",
+     "link": "https://www.erzincaninsesi.com/haber/diyabet-farkindaligi-icin-bilgilendirme-etkinligi-duzenlendi-17734",
+     "tarih": "2026-11-17",
+     "kaynak": "Erzincan'ın Sesi"
+    }
+   ],
+   "tarihsiz": [
+    {
+     "baslik": "Erzincan Belediyesi Halit Paşa Caddesi Üst Yapı Çalışmaları",
+     "link": "https://www.erzincaninsesi.com/video/erzincan-belediyesi-halit-pasa-caddesi-ust-yapi-calismalari-26",
+     "tarih": null,
+     "kaynak": "Erzincan'ın Sesi"
+    },
+    {
+     "baslik": "Erzincan Belediyesi Esentepe Sosyal Tesisleri",
+     "link": "https://www.erzincaninsesi.com/video/erzincan-belediyesi-esentepe-sosyal-tesisleri-25",
+     "tarih": null,
+     "kaynak": "Erzincan'ın Sesi"
+    }
+   ],
+   "hafta_disi_sayisi": 3,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Erzincan Haber",
+     "url": "https://www.erzincanhaber.com.tr",
+     "hata": "HTTPSConnectionPool(host='www.erzincanhaber.com.tr', port=443): Max retries exceeded with url: / (Caused by NameResoluti"
+    },
+    {
+     "gazete": "Doğu Anadolu",
+     "url": "https://www.doguanadoluhaber.com",
+     "hata": "haber bulunamadı"
+    }
+   ]
+  },
+  "ERZURUM": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Palandöken Gazetesi",
+     "url": "https://www.palandokengazetesi.com",
+     "hata": "403 Client Error: Forbidden for url: https://www.palandokengazetesi.com/"
+    },
+    {
+     "gazete": "Erzurum Gündem",
+     "url": "https://www.erzurumgundem.com",
+     "hata": "haber bulunamadı"
+    },
+    {
+     "gazete": "Pusula Gazetesi",
+     "url": "https://www.erzurumpusula.com",
+     "hata": "HTTPSConnectionPool(host='www.erzurumpusula.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionE"
+    }
+   ]
+  },
+  "ESKİŞEHİR": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Sakarya Gazetesi",
+     "url": "https://www.sakaryagazetesi.com.tr",
+     "hata": "haber bulunamadı"
+    },
+    {
+     "gazete": "Midas Gazetesi",
+     "url": "https://www.midasgazetesi.com",
+     "hata": "HTTPSConnectionPool(host='www.midasgazetesi.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionE"
+    },
+    {
+     "gazete": "Eskişehir Haber",
+     "url": "https://www.eskisehirhaber.com",
+     "hata": "haber bulunamadı"
+    }
+   ]
+  },
+  "GAZİANTEP": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Telgraf Gazetesi",
+     "url": "https://www.gazianteptelgraf.com.tr",
+     "hata": "HTTPSConnectionPool(host='www.gazianteptelgraf.com.tr', port=443): Max retries exceeded with url: / (Caused by NameResol"
+    },
+    {
+     "gazete": "Gaziantep Haberler",
+     "url": "https://www.gaziantephaberler.com",
+     "hata": "haber bulunamadı"
+    },
+    {
+     "gazete": "Olay Medya",
+     "url": "https://www.olaymedia.com.tr",
+     "hata": "HTTPSConnectionPool(host='www.olaymedia.com.tr', port=443): Max retries exceeded with url: / (Caused by NameResolutionEr"
+    }
+   ]
+  },
+  "GİRESUN": {
+   "haberler": [],
+   "tarihsiz": [
+    {
+     "baslik": "ÖNER HEKİM’DEN DEVRİM GİBİ PROJELER",
+     "link": "https://giresungundem.com/oner-hekimden-devrim-gibi-projeler/",
+     "tarih": null,
+     "kaynak": "Giresun Gündem"
+    },
+    {
+     "baslik": "BİRİNCİSİ YAPILAN TAMDERE YAPRAKLI OBASI YAYLA ŞENLİĞİ KATILIMCILARI COŞTURDU",
+     "link": "https://giresungundem.com/birincisi-yapilan-tamdere-yaprakli-obasi-yayla-senligi-katilimcilari-costurdu/",
+     "tarih": null,
+     "kaynak": "Giresun Gündem"
+    },
+    {
+     "baslik": "FINDIK ÜRETİCİLERİNE FİLE DESTEĞİ FIRSATI…",
+     "link": "https://giresungundem.com/findik-ureticilerine-file-destegi-firsati/",
+     "tarih": null,
+     "kaynak": "Giresun Gündem"
+    },
+    {
+     "baslik": "YILMAZ VEDA ETTİ, YERİNE ÇOK SAYIDA KİŞİNİN İSMİ GEÇİYOR",
+     "link": "https://giresungundem.com/yilmaz-veda-etti-yerine-cok-sayida-kisinin-ismi-geciyor/",
+     "tarih": null,
+     "kaynak": "Giresun Gündem"
+    },
+    {
+     "baslik": "GÖZLER KENAN TATLI’DA",
+     "link": "https://giresungundem.com/gozler-kenan-tatlida/",
+     "tarih": null,
+     "kaynak": "Giresun Gündem"
+    },
+    {
+     "baslik": "GİRESUN GASTRONOMİ FESTİVALİ 6 -7 HAZİRAN’DA",
+     "link": "https://giresungundem.com/giresun-gastronomi-festivali-6-7-haziranda/",
+     "tarih": null,
+     "kaynak": "Giresun Gündem"
+    },
+    {
+     "baslik": "FINDIKTA BÜYÜK TEHLİKE: BAHÇELER KURUYOR!",
+     "link": "https://giresungundem.com/findikta-buyuk-tehlike-bahceler-kuruyor/",
+     "tarih": null,
+     "kaynak": "Giresun Gündem"
+    }
+   ],
+   "hafta_disi_sayisi": 9,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Yeşil Giresun",
+     "url": "https://www.yesilgiresun.com.tr",
+     "hata": "403 Client Error: Forbidden for url: https://www.yesilgiresun.com.tr/"
+    }
+   ]
+  },
+  "GÜMÜŞHANE": {
+   "haberler": [
+    {
+     "baslik": "Sağanak Nedeniyle Çöken Yolda Oluşan Çukura 4 Araç Düştü",
+     "link": "https://www.kelkitgazetesi.com/saganak-nedeniyle-coken-yolda-olusan-cukura-4-arac-dustu",
+     "tarih": "2026-11-21",
+     "kaynak": "Kelkit Gazetesi"
+    },
+    {
+     "baslik": "Bingöl'de Yoğun Sis Ulaşımı Olumsuz Etkiledi",
+     "link": "https://www.kelkitgazetesi.com/bingolde-yogun-sis-ulasimi-olumsuz-etkiledi",
+     "tarih": "2026-11-21",
+     "kaynak": "Kelkit Gazetesi"
+    },
+    {
+     "baslik": "Bakan Bolat: Türkiye Ekonomisi 7 Kat Büyüdü",
+     "link": "https://www.kelkitgazetesi.com/bakan-bolat-turkiye-ekonomisi-7-kat-buyudu",
+     "tarih": "2026-11-21",
+     "kaynak": "Kelkit Gazetesi"
+    },
+    {
+     "baslik": "Anadolu Otoyolu'nda 14 Araç Zincirleme Kazaya Karıştı: 15 Yaralı",
+     "link": "https://www.kelkitgazetesi.com/anadolu-otoyolunda-14-arac-zincirleme-kazaya-karisti-15-yarali",
+     "tarih": "2026-11-21",
+     "kaynak": "Kelkit Gazetesi"
+    },
+    {
+     "baslik": "Motosikletin Çarptığı Yaya 144 Gün Sonra Öldü",
+     "link": "https://www.kelkitgazetesi.com/motosikletin-carptigi-yaya-144-gun-sonra-oldu",
+     "tarih": "2026-11-21",
+     "kaynak": "Kelkit Gazetesi"
+    },
+    {
+     "baslik": "Ağıla Giren Kurt 7 Küçükbaşı Öldürdü",
+     "link": "https://www.kelkitgazetesi.com/agila-giren-kurt-7-kucukbasi-oldurdu",
+     "tarih": "2026-11-21",
+     "kaynak": "Kelkit Gazetesi"
+    },
+    {
+     "baslik": "71 Yıl Kesinleşmiş Hapis Cezasıyla Aranan Hükümlü Yakalandı",
+     "link": "https://www.kelkitgazetesi.com/71-yil-kesinlesmis-hapis-cezasiyla-aranan-hukumlu-yakalandi",
+     "tarih": "2026-11-21",
+     "kaynak": "Kelkit Gazetesi"
+    },
+    {
+     "baslik": "İzmit'te Park Kavgası Kamerada",
+     "link": "https://www.kelkitgazetesi.com/izmitte-park-kavgasi-kamerada",
+     "tarih": "2026-11-21",
+     "kaynak": "Kelkit Gazetesi"
+    }
+   ],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Gümüşhane Haber",
+     "url": "https://www.gumushanehaberleri.com",
+     "hata": "HTTPSConnectionPool(host='www.gumushanehaberleri.com', port=443): Max retries exceeded with url: / (Caused by NameResolu"
+    },
+    {
+     "gazete": "Gümüşhane Ekspres",
+     "url": "https://www.gümüşhaneekspres.com",
+     "hata": "HTTPSConnectionPool(host='www.xn--gmhaneekspres-wobb89m.com', port=443): Max retries exceeded with url: / (Caused by Nam"
+    }
+   ]
+  },
+  "HAKKARİ": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Yüksekova Haber",
+     "url": "https://www.yuksekovahaber.com",
+     "hata": "HTTPSConnectionPool(host='www.yuksekovahaber.com', port=443): Read timed out. (read timeout=12)"
+    },
+    {
+     "gazete": "Hakkari Objektif",
+     "url": "https://www.hakkariyorum.com",
+     "hata": "HTTPSConnectionPool(host='www.hakkariyorum.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionEr"
+    },
+    {
+     "gazete": "Çukurca Haber",
+     "url": "https://www.cukurcahaber.com",
+     "hata": "HTTPSConnectionPool(host='www.cukurcahaber.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutEr"
+    }
+   ]
+  },
+  "HATAY": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 8,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Hatay Söz",
+     "url": "https://www.hataysoz.com.tr",
+     "hata": "HTTPSConnectionPool(host='www.hataysoz.com.tr', port=443): Max retries exceeded with url: / (Caused by NameResolutionErr"
+    },
+    {
+     "gazete": "Antakya Gazetesi",
+     "url": "https://www.antakya.com.tr",
+     "hata": "HTTPSConnectionPool(host='www.antakya.com.tr', port=443): Max retries exceeded with url: / (Caused by NameResolutionErro"
+    }
+   ]
+  },
+  "IĞDIR": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Iğdır Haber",
+     "url": "https://www.igdirhaber.com",
+     "hata": "haber bulunamadı"
+    },
+    {
+     "gazete": "Yeşil Iğdır",
+     "url": "https://www.yesilıgdır.com",
+     "hata": "HTTPSConnectionPool(host='www.xn--yesilgdr-xkbc.com', port=443): Max retries exceeded with url: / (Caused by NameResolut"
+    },
+    {
+     "gazete": "Doğuş Gazetesi",
+     "url": "https://www.igdirdogus.com",
+     "hata": "HTTPSConnectionPool(host='www.igdirdogus.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionErro"
+    }
+   ]
+  },
+  "ISPARTA": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Isparta Haber",
+     "url": "https://www.ispartahaber.com.tr",
+     "hata": "haber bulunamadı"
+    },
+    {
+     "gazete": "Çağdaş Isparta",
+     "url": "https://www.cagdasisparta.com",
+     "hata": "HTTPSConnectionPool(host='www.cagdasisparta.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionE"
+    },
+    {
+     "gazete": "Gülses Gazetesi",
+     "url": "https://www.gulses.com.tr",
+     "hata": "HTTPSConnectionPool(host='www.gulses.com.tr', port=443): Max retries exceeded with url: / (Caused by NameResolutionError"
+    }
+   ]
+  },
+  "İSTANBUL": {
+   "haberler": [
+    {
+     "baslik": "Erdoğan Adliye Açılışında Muhteşem Konuştu Ama Uygulamada Tam Tersi Oluyor Şu An",
+     "link": "https://www.istanbultimes.com.tr/erdogan-adliye-acilisinda-muhtesem-konustu-ama-uygulamada-tam-tersi-oluyor-su-an",
+     "tarih": "2026-11-21",
+     "kaynak": "İstanbul Times"
+    },
+    {
+     "baslik": "Yeni Parti İBB  Grup Başkan Vekili Av. Ülkü İnanlı Neye Dikkat Çekti ?",
+     "link": "https://www.istanbultimes.com.tr/yeni-parti-ibb-grup-baskan-vekili-av-ulku-inanli-neye-dikkat-cekti",
+     "tarih": "2026-11-21",
+     "kaynak": "İstanbul Times"
+    },
+    {
+     "baslik": "İBB'NİN 2027 Bütçesi Kabul Edildi",
+     "link": "https://www.istanbultimes.com.tr/ibbnin-2027-butcesi-kabul-edildi",
+     "tarih": "2026-11-21",
+     "kaynak": "İstanbul Times"
+    },
+    {
+     "baslik": "Henüz Seçim Günü Belli Değil Anahtar Parti Esnafın Sesine Kulak Veriyor",
+     "link": "https://www.istanbultimes.com.tr/gundemde-tarihi-belli-olmayan-bir-secim-olmadigi-halde-anahtar-parti-esnafin-sesine-kulak-veriyor",
+     "tarih": "2026-11-21",
+     "kaynak": "İstanbul Times"
+    },
+    {
+     "baslik": "İBB Ak Partide İken Kılını Kıpırdatmayan Vakıflar Genel Müdürlüğü Bir Çok Varlığı İBB' den Aldı",
+     "link": "https://www.istanbultimes.com.tr/ibb-ak-partide-iken-kilini-kipirdatmayan-vakiflar-genel-mudurlugu-bir-cok-varligi-ibb-den-aldi",
+     "tarih": "2026-11-21",
+     "kaynak": "İstanbul Times"
+    },
+    {
+     "baslik": "Esenyurt Belediye Başkanı Prof. Özer Kayyum' u Uyardı :Kalıcı Değilsin Halkın Parasını Çar Çur Etme Dedi (VİDEOLU)",
+     "link": "https://www.istanbultimes.com.tr/esenyurt-belediye-baskani-prof-ozer-kayyum-u-uyardi-kalici-degilsin-halkin-parasini-car-cur-etme-dedi-videolu",
+     "tarih": "2026-11-20",
+     "kaynak": "İstanbul Times"
+    },
+    {
+     "baslik": "ADA Üyeleri 52.Haftadır Tutuksuz Yargılama Yapın Diyor Ama Hükümet Duyarsız",
+     "link": "https://www.istanbultimes.com.tr/52haftadir-tutuksuz-yargilama-yapin-diyor-ama-hukumet-duyarsiz",
+     "tarih": "2026-11-20",
+     "kaynak": "İstanbul Times"
+    },
+    {
+     "baslik": "Anahtar Parti Türk Soylu Soydaşlarının Sorunlarını Dinledi (VİDEOLU)",
+     "link": "https://www.istanbultimes.com.tr/anahtar-parti-turk-soylu-soydaslarinin-sorunlarini-dinledi",
+     "tarih": "2026-11-20",
+     "kaynak": "İstanbul Times"
+    }
+   ],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 3,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Şişli Gündem",
+     "url": "https://www.sislibld.com",
+     "hata": "HTTPSConnectionPool(host='www.sislibld.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("
+    }
+   ]
+  },
+  "İZMİR": {
+   "haberler": [
+    {
+     "baslik": "Altay'da üst üste 4'üncü mağlubiyet sonrası taraftar isyanı!",
+     "link": "https://www.egetelgraf.com/altayda-ust-uste-4uncu-maglubiyet-sonrasi-taraftar-isyani",
+     "tarih": "2026-11-22",
+     "kaynak": "Ege Telgraf"
+    },
+    {
+     "baslik": "Son dönemin gözde takısı ama hiç de masum değil! Tragus piercingin bilinmeyen zararları",
+     "link": "https://www.egetelgraf.com/son-donemin-gozde-takisi-ama-hic-de-masum-degil-tragus-piercingin-bilinmeyen-zararlari",
+     "tarih": "2026-11-22",
+     "kaynak": "Ege Telgraf"
+    },
+    {
+     "baslik": "Sürekli burnunuz tıkanıyorsa sebebi bu olabilir! Rahat nefes almanın yolları",
+     "link": "https://www.egetelgraf.com/surekli-burnunuz-tikaniyorsa-sebebi-bu-olabilir-rahat-nefes-almanin-yollari",
+     "tarih": "2026-11-22",
+     "kaynak": "Ege Telgraf"
+    },
+    {
+     "baslik": "Tam bir hasta çorbası! Bir kase yetecek içinizi ısıtacak: Tavuk çorbası nasıl yapılır?",
+     "link": "https://www.egetelgraf.com/tam-bir-hasta-corbasi-bir-kase-yetecek-icinizi-isitacak-tavuk-corbasi-nasil-yapilir",
+     "tarih": "2026-11-22",
+     "kaynak": "Ege Telgraf"
+    },
+    {
+     "baslik": "Ne sert kalıyor ne de dağılıyor! Yiyen herkes tarifini isteyecek: Biber dolmasını bir de bu tarifle yapın",
+     "link": "https://www.egetelgraf.com/ne-sert-kaliyor-ne-de-dagiliyor-yiyen-herkes-tarifini-isteyecek-biber-dolmasini-bir-de-bu-tarifle-yapin",
+     "tarih": "2026-11-22",
+     "kaynak": "Ege Telgraf"
+    },
+    {
+     "baslik": "Sofralarda sıkça tüketiliyor ama aralarındaki farkı çok az kişi biliyor! Vücuda etkileri ve besin değerleri şaşırtıyor",
+     "link": "https://www.egetelgraf.com/sofralarda-sikca-tuketiliyor-ama-aralarindaki-farki-cok-az-kisi-biliyor-vucuda-etkileri-ve-besin-degerleri-sasirtiyor",
+     "tarih": "2026-11-21",
+     "kaynak": "Ege Telgraf"
+    },
+    {
+     "baslik": "Kediler severken neden bir anda ısırır? Sevilirken yaptıkları bu hareketin arkasında bakın ne var!",
+     "link": "https://www.egetelgraf.com/kediler-severken-neden-bir-anda-isirir-sevilirken-yaptiklari-bu-hareketin-arkasinda-bakin-ne-var",
+     "tarih": "2026-11-21",
+     "kaynak": "Ege Telgraf"
+    },
+    {
+     "baslik": "İzmir’de kışın evde oturmak istemeyenlere 10 gezi rotası: Tarihi sokaklardan kar manzaralarına! İşte keşif önerileri",
+     "link": "https://www.egetelgraf.com/izmirde-kisin-evde-oturmak-istemeyenlere-10-gezi-rotasi-tarihi-sokaklardan-kar-manzaralarina-iste-kesif-onerileri",
+     "tarih": "2026-11-21",
+     "kaynak": "Ege Telgraf"
+    },
+    {
+     "baslik": "İzmir’de sağanakla başlayan haftada hava soğuyor",
+     "link": "https://ilkses.com.tr/izmir/izmir-de-saganakla-baslayan-haftada-hava-soguyor-468514",
+     "tarih": "2026-11-22",
+     "kaynak": "İlkses Gazetesi"
+    },
+    {
+     "baslik": "Göztepe Erzurum deplasmanında kazandı: 3 puan İzmir’e",
+     "link": "https://ilkses.com.tr/spor/goztepe-erzurum-deplasmaninda-kazandi-3-puan-izmir-e-468521",
+     "tarih": "2026-11-22",
+     "kaynak": "İlkses Gazetesi"
+    },
+    {
+     "baslik": "Özlale’den AK Parti’ye geçiş iddialarına cevap: Çok teklif aldım reddettim",
+     "link": "https://ilkses.com.tr/siyaset/ozlale-den-ak-parti-ye-gecis-iddialarina-cevap-cok-teklif-aldim-reddettim-468497",
+     "tarih": "2026-11-22",
+     "kaynak": "İlkses Gazetesi"
+    },
+    {
+     "baslik": "CHP’den gençlik atağı 103 yeni üye katıldı",
+     "link": "https://ilkses.com.tr/siyaset/chp-den-genclik-atagi-103-yeni-uye-katildi-468509",
+     "tarih": "2026-11-22",
+     "kaynak": "İlkses Gazetesi"
+    },
+    {
+     "baslik": "Çocukların dijital dünyaya kaçışının altında yalnızlık yatıyor",
+     "link": "https://ilkses.com.tr/yasam/cocuklarin-dijital-dunyaya-kacisinin-altinda-yalnizlik-yatiyor-468404",
+     "tarih": "2026-11-21",
+     "kaynak": "İlkses Gazetesi"
+    },
+    {
+     "baslik": "‘Sultanahmet Camisi ayak kokuyor’ demişti: Çiğdem Batur hakkında resen soruşturma başlatıldı",
+     "link": "https://ilkses.com.tr/gundem/sultanahmet-camisi-ayak-kokuyor-demisti-cigdem-batur-hakkinda-resen-sorusturma-baslatildi-468443",
+     "tarih": "2026-11-21",
+     "kaynak": "İlkses Gazetesi"
+    },
+    {
+     "baslik": "Hükümetin ‘iyileştirme’ vaatleri emekliye güven vermiyor",
+     "link": "https://ilkses.com.tr/izmir/hukumetin-iyilestirme-vaatleri-emekliye-guven-vermiyor-468282",
+     "tarih": "2026-11-20",
+     "kaynak": "İlkses Gazetesi"
+    },
+    {
+     "baslik": "Kredi kartlarında asgari ödeme oranları değişti",
+     "link": "https://ilkses.com.tr/ekonomi/kredi-kartlarinda-asgari-odeme-oranlari-degisti-468365",
+     "tarih": "2026-11-20",
+     "kaynak": "İlkses Gazetesi"
+    }
+   ],
+   "tarihsiz": [
+    {
+     "baslik": "İHTİYACINIZ OLAN HER ŞEY YENİ ASIR KÜÇÜK İLANLARDA ARTIK İLAN VERMEK ÇOK KOLAY",
+     "link": "https://www.yeniasir.com.tr/ilan",
+     "tarih": null,
+     "kaynak": "Yeni Asır"
+    }
+   ],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": []
+  },
+  "KAHRAMANMARAŞ": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Maraş Gündem",
+     "url": "https://www.marasgundem.com",
+     "hata": "HTTPSConnectionPool(host='www.marasgundem.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionErr"
+    },
+    {
+     "gazete": "Manşet Gazetesi",
+     "url": "https://www.mansethaber.com.tr",
+     "hata": "HTTPSConnectionPool(host='www.mansethaber.com.tr', port=443): Max retries exceeded with url: / (Caused by NewConnectionE"
+    },
+    {
+     "gazete": "Kahramanmaraş Haber",
+     "url": "https://www.kahramanmaraşhaber.com",
+     "hata": "404 Client Error: Not Found for url: https://www.xn--kahramanmarahaber-bkd.com/"
+    }
+   ]
+  },
+  "KARABÜK": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Karabük Net Haber",
+     "url": "https://www.karabuknethaber.com",
+     "hata": "haber bulunamadı"
+    },
+    {
+     "gazete": "Yenice Haber",
+     "url": "https://www.yenicehaber.com",
+     "hata": "HTTPSConnectionPool(host='www.yenicehaber.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionErr"
+    },
+    {
+     "gazete": "Karabük Postası",
+     "url": "https://www.karabukpostasi.com",
+     "hata": "403 Client Error: Forbidden for url: https://www.karabukpostasi.com/"
+    }
+   ]
+  },
+  "KARAMAN": {
+   "haberler": [
+    {
+     "baslik": "Karaman’da “dur” ihtarına uymayan sürücü polis takibiyle yakalandı",
+     "link": "https://www.karamanhaber.com/karamanda-dur-ihtarina-uymayan-surucu-polis-takibiyle-yakalandi",
+     "tarih": "2026-11-22",
+     "kaynak": "Karaman Haber"
+    },
+    {
+     "baslik": "GÜLDERE İLKOKULU’NDA İMECE DESTANI",
+     "link": "https://www.karamanhaber.com/guldere-ilkokulunda-imece-destani",
+     "tarih": "2026-11-22",
+     "kaynak": "Karaman Haber"
+    },
+    {
+     "baslik": "Karaman’da 3 otomobilin karıştığı kaza: 3 yaralı",
+     "link": "https://www.karamanhaber.com/karamanda-3-otomobilin-karistigi-kaza-3-yarali",
+     "tarih": "2026-11-21",
+     "kaynak": "Karaman Haber"
+    },
+    {
+     "baslik": "KAMYONETLE ÇARPIŞAN GENÇ MOTOSİKLETLİ KURTARILAMADI",
+     "link": "https://www.karamanhaber.com/kamyonetle-carpisan-genc-motosikletli-kurtarilamadi",
+     "tarih": "2026-11-21",
+     "kaynak": "Karaman Haber"
+    },
+    {
+     "baslik": "Karaman’da otomobil ters devrildi: 2 yaralı",
+     "link": "https://www.karamanhaber.com/karamanda-otomobil-ters-devrildi-2-yarali",
+     "tarih": "2026-11-20",
+     "kaynak": "Karaman Haber"
+    },
+    {
+     "baslik": "Karaman’da otogar alt geçidinde feci kaza: 1 ağır yaralı",
+     "link": "https://www.karamanhaber.com/karamanda-otogar-alt-gecidinde-feci-kaza-1-agir-yarali",
+     "tarih": "2026-11-20",
+     "kaynak": "Karaman Haber"
+    }
+   ],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Larende Gazetesi",
+     "url": "https://www.larendegazetesi.com",
+     "hata": "HTTPSConnectionPool(host='www.larendegazetesi.com', port=443): Max retries exceeded with url: / (Caused by NameResolutio"
+    },
+    {
+     "gazete": "Karaman Gündem",
+     "url": "https://www.karamangundem.com",
+     "hata": "haber bulunamadı"
+    }
+   ]
+  },
+  "KARS": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Kars Manşet",
+     "url": "https://www.karsmanset.com",
+     "hata": "403 Client Error: Forbidden for url: https://www.karsmanset.com/"
+    },
+    {
+     "gazete": "Hüryurt Gazetesi",
+     "url": "https://www.huryurt.com",
+     "hata": "HTTPSConnectionPool(host='www.huryurt.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\""
+    },
+    {
+     "gazete": "Kars Haber",
+     "url": "https://www.karshaber.com",
+     "hata": "HTTPSConnectionPool(host='www.karshaber.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError"
+    }
+   ]
+  },
+  "KASTAMONU": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Kastamonu Postası",
+     "url": "https://www.kastamonupostasi.com",
+     "hata": "haber bulunamadı"
+    },
+    {
+     "gazete": "Açıksöz Gazetesi",
+     "url": "https://www.aciksozonline.com",
+     "hata": "HTTPSConnectionPool(host='www.aciksozonline.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionE"
+    },
+    {
+     "gazete": "Kastamonu Gündem",
+     "url": "https://www.kastamonugundem.com",
+     "hata": "HTTPSConnectionPool(host='www.kastamonugundem.com', port=443): Max retries exceeded with url: / (Caused by NameResolutio"
+    }
+   ]
+  },
+  "KAYSERİ": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Kayseri Haber",
+     "url": "https://www.kayserihaber.com",
+     "hata": "haber bulunamadı"
+    },
+    {
+     "gazete": "Kayseri Gündem",
+     "url": "https://www.kayserigündem.com",
+     "hata": "HTTPSConnectionPool(host='www.xn--kayserigndem-klb.com', port=443): Max retries exceeded with url: / (Caused by NameReso"
+    },
+    {
+     "gazete": "Anadolu Haber",
+     "url": "https://www.anadoluhaber.com.tr",
+     "hata": "HTTPSConnectionPool(host='www.anadoluhaber.com.tr', port=443): Max retries exceeded with url: / (Caused by NameResolutio"
+    }
+   ]
+  },
+  "KIRIKKALE": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Kırıkkale Haber",
+     "url": "https://www.kirikkalehaber.com",
+     "hata": "HTTPSConnectionPool(host='www.kirikkalehaber.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeout"
+    },
+    {
+     "gazete": "Manşet Gazetesi",
+     "url": "https://www.kırıkkalemanşet.com",
+     "hata": "HTTPSConnectionPool(host='www.xn--krkkalemanet-14bb21e.com', port=443): Max retries exceeded with url: / (Caused by Name"
+    },
+    {
+     "gazete": "Pusula Haber",
+     "url": "https://www.kırıkkalepusula.com",
+     "hata": "HTTPSConnectionPool(host='www.xn--krkkalepusula-39bb.com', port=443): Max retries exceeded with url: / (Caused by NameRe"
+    }
+   ]
+  },
+  "KIRKLARELİ": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Kırklareli Gazete",
+     "url": "https://www.kirklareligazete.com",
+     "hata": "HTTPSConnectionPool(host='www.kirklareligazete.com', port=443): Max retries exceeded with url: / (Caused by NameResoluti"
+    },
+    {
+     "gazete": "Yeşilyurt Gazetesi",
+     "url": "https://www.yesilyurtgazetesi.com",
+     "hata": "HTTPSConnectionPool(host='www.yesilyurtgazetesi.com', port=443): Max retries exceeded with url: / (Caused by NameResolut"
+    },
+    {
+     "gazete": "Babaeski Söz",
+     "url": "https://www.babaeskisoz.com",
+     "hata": "HTTPSConnectionPool(host='www.babaeskisoz.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionErr"
+    }
+   ]
+  },
+  "KIRŞEHİR": {
+   "haberler": [
+    {
+     "baslik": "Erkek Öğretmene Öğretmenler Günü Hediyesi Ne Alınır?",
+     "link": "https://www.kirsehircigdem.com/erkek-ogretmene-ogretmenler-gunu-hediyesi-ne-alinir",
+     "tarih": "2026-11-21",
+     "kaynak": "Kırşehir Çiğdem"
+    },
+    {
+     "baslik": "Kadın Öğretmene Öğretmenler Günü Hediyesi Ne Alınır?",
+     "link": "https://www.kirsehircigdem.com/kadin-ogretmene-ogretmenler-gunu-hediyesi-ne-alinir",
+     "tarih": "2026-11-21",
+     "kaynak": "Kırşehir Çiğdem"
+    },
+    {
+     "baslik": "DİSK Kırşehir’de Meydana Çıkıyor!",
+     "link": "https://www.kirsehircigdem.com/disk-kirsehirde-meydana-cikiyor",
+     "tarih": "2026-11-18",
+     "kaynak": "Kırşehir Çiğdem"
+    }
+   ],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 5,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Aşıkpaşa Gazetesi",
+     "url": "https://www.asikpasagazetesi.com",
+     "hata": "HTTPSConnectionPool(host='www.asikpasagazetesi.com', port=443): Max retries exceeded with url: / (Caused by NameResoluti"
+    },
+    {
+     "gazete": "Kırşehir Memleket",
+     "url": "https://www.kirsehirmemleket.com",
+     "hata": "haber bulunamadı"
+    }
+   ]
+  },
+  "KİLİS": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 8,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Kilis Postası",
+     "url": "https://www.kilispostasi.com",
+     "hata": "haber bulunamadı"
+    },
+    {
+     "gazete": "7 Aralık Gazetesi",
+     "url": "https://www.yediaralikgazetesi.com",
+     "hata": "HTTPSConnectionPool(host='www.yediaralikgazetesi.com', port=443): Max retries exceeded with url: / (Caused by NameResolu"
+    }
+   ]
+  },
+  "KOCAELİ": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Özgür Kocaeli",
+     "url": "https://www.ozgurkocaeli.com.tr",
+     "hata": "403 Client Error: Forbidden for url: https://www.ozgurkocaeli.com.tr/"
+    },
+    {
+     "gazete": "Demokrat Kocaeli",
+     "url": "https://www.demokratkocaeli.com",
+     "hata": "403 Client Error: Forbidden for url: https://www.demokratkocaeli.com/"
+    },
+    {
+     "gazete": "Gebze Gazetesi",
+     "url": "https://www.gebzegazetesi.com",
+     "hata": "haber bulunamadı"
+    }
+   ]
+  },
+  "KONYA": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Merhaba Gazetesi",
+     "url": "https://www.merhabagazetesi.com.tr",
+     "hata": "HTTPSConnectionPool(host='www.merhabagazetesi.com.tr', port=443): Max retries exceeded with url: / (Caused by SSLError(S"
+    },
+    {
+     "gazete": "Yeni Konya",
+     "url": "https://www.yenikonya.com.tr",
+     "hata": "haber bulunamadı"
+    },
+    {
+     "gazete": "Pusula Gazetesi",
+     "url": "https://www.konyapusula.com",
+     "hata": "HTTPSConnectionPool(host='www.konyapusula.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionErr"
+    }
+   ]
+  },
+  "KÜTAHYA": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Kütahya Gündem",
+     "url": "https://www.kutahyagundem.com",
+     "hata": "HTTPSConnectionPool(host='www.kutahyagundem.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionE"
+    },
+    {
+     "gazete": "Tellal Gazetesi",
+     "url": "https://www.tellalgazetesi.com",
+     "hata": "HTTPSConnectionPool(host='www.tellalgazetesi.com', port=443): Max retries exceeded with url: / (Caused by NameResolution"
+    },
+    {
+     "gazete": "Tavşanlı Haber",
+     "url": "https://www.tavsanlihaber.com",
+     "hata": "HTTPSConnectionPool(host='www.tavsanlihaber.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionE"
+    }
+   ]
+  },
+  "MALATYA": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Malatya Haber",
+     "url": "https://www.malatyahaber.com",
+     "hata": "haber bulunamadı"
+    },
+    {
+     "gazete": "Malatya Manşet",
+     "url": "https://www.malatyamanset.com",
+     "hata": "HTTPSConnectionPool(host='www.malatyamanset.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLErr"
+    },
+    {
+     "gazete": "Günışığı Gazetesi",
+     "url": "https://www.malatyagunisigi.com",
+     "hata": "HTTPSConnectionPool(host='www.malatyagunisigi.com', port=443): Max retries exceeded with url: / (Caused by NameResolutio"
+    }
+   ]
+  },
+  "MANİSA": {
+   "haberler": [
+    {
+     "baslik": "Manisa FK-Pendikspor maçının ardından",
+     "link": "https://www.manisadagundem.com/manisa-fk-pendikspor-macinin-ardindan-3",
+     "tarih": "2026-11-22",
+     "kaynak": "Manisa'da Gündem"
+    },
+    {
+     "baslik": "Yeşilköy'de yüzlerce yıllık köy hayrı geleneği binlerce kişiyi buluşturdu",
+     "link": "https://www.manisadagundem.com/yesilkoyde-yuzlerce-yillik-koy-hayri-gelenegi-binlerce-kisiyi-bulusturdu",
+     "tarih": "2026-11-22",
+     "kaynak": "Manisa'da Gündem"
+    },
+    {
+     "baslik": "Trendyol 1. Lig: Manisa FK: 2 - Pendikspor: 0",
+     "link": "https://www.manisadagundem.com/trendyol-1-lig-manisa-fk-2-pendikspor-0-2",
+     "tarih": "2026-11-22",
+     "kaynak": "Manisa'da Gündem"
+    },
+    {
+     "baslik": "Depoda bekleyen Demirci Akıncıları Anıtı yeniden ayağa kaldırıldı",
+     "link": "https://www.manisadagundem.com/depoda-bekleyen-demirci-akincilari-aniti-yeniden-ayaga-kaldirildi",
+     "tarih": "2026-11-22",
+     "kaynak": "Manisa'da Gündem"
+    },
+    {
+     "baslik": "Akhisar'da 60 yıllık sel çilesi sona eriyor",
+     "link": "https://www.manisadagundem.com/akhisarda-60-yillik-sel-cilesi-sona-eriyor",
+     "tarih": "2026-11-22",
+     "kaynak": "Manisa'da Gündem"
+    },
+    {
+     "baslik": "Yunus Emre'nin asırlara ışık tutan öğretileri panelde konuşuldu",
+     "link": "https://www.manisadagundem.com/yunus-emrenin-asirlara-isik-tutan-ogretileri-panelde-konusuldu",
+     "tarih": "2026-11-22",
+     "kaynak": "Manisa'da Gündem"
+    },
+    {
+     "baslik": "Başkan Şimşek Kuşlubahçe'de talepleri dinledi",
+     "link": "https://www.manisadagundem.com/baskan-simsek-kuslubahcede-talepleri-dinledi",
+     "tarih": "2026-11-22",
+     "kaynak": "Manisa'da Gündem"
+    },
+    {
+     "baslik": "Gri bahçe rengarenk oyun alanına dönüştü",
+     "link": "https://www.manisadagundem.com/gri-bahce-rengarenk-oyun-alanina-donustu",
+     "tarih": "2026-11-22",
+     "kaynak": "Manisa'da Gündem"
+    },
+    {
+     "baslik": "Çiğli Balatçık’ın altyapısı yenileniyor",
+     "link": "https://www.egedesonsoz.com/cigli-balatcikin-altyapisi-yenileniyor",
+     "tarih": "2026-11-22",
+     "kaynak": "Ege'de Son Söz"
+    },
+    {
+     "baslik": "Aras Kargo'da dizanteri şoku!",
+     "link": "https://www.egedesonsoz.com/aras-kargoda-dizanteri-soku",
+     "tarih": "2026-11-22",
+     "kaynak": "Ege'de Son Söz"
+    },
+    {
+     "baslik": "Gaziemir SK derbilerde 3'te 3 yaptı",
+     "link": "https://www.egedesonsoz.com/gaziemir-sk-derbilerde-3te-3-yapti",
+     "tarih": "2026-11-22",
+     "kaynak": "Ege'de Son Söz"
+    },
+    {
+     "baslik": "Karabağlar ’da ara tatil dolu dolu geçti",
+     "link": "https://www.egedesonsoz.com/karabaglar-da-ara-tatil-dolu-dolu-gecti",
+     "tarih": "2026-11-22",
+     "kaynak": "Ege'de Son Söz"
+    },
+    {
+     "baslik": "Konak'ta şiddete karşı yeni dönem!",
+     "link": "https://www.egedesonsoz.com/konak-belediyesinde-siddete-karsi-yeni-donem",
+     "tarih": "2026-11-22",
+     "kaynak": "Ege'de Son Söz"
+    },
+    {
+     "baslik": "Gençler KARGEM’le geleceğe hazırlanıyor",
+     "link": "https://www.egedesonsoz.com/gencler-kargemle-gelecege-hazirlaniyor",
+     "tarih": "2026-11-22",
+     "kaynak": "Ege'de Son Söz"
+    },
+    {
+     "baslik": "Ara tatilde minik sporcuların file heyecanı!",
+     "link": "https://www.egedesonsoz.com/ara-tatilde-minik-sporcularin-file-heyecani",
+     "tarih": "2026-11-22",
+     "kaynak": "Ege'de Son Söz"
+    },
+    {
+     "baslik": "İzmir’de doğa ve sinirbilim buluştu: “Nöro-Döngü” başladı",
+     "link": "https://www.egedesonsoz.com/izmirde-doga-ve-sinirbilim-bulustu-noro-dongu-basladi",
+     "tarih": "2026-11-22",
+     "kaynak": "Ege'de Son Söz"
+    }
+   ],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Manisa Haber",
+     "url": "https://www.manisahaber.com",
+     "hata": "haber bulunamadı"
+    }
+   ]
+  },
+  "MARDİN": {
+   "haberler": [
+    {
+     "baslik": "Kızıltepe Ceylanpınar Karayolunda Feci Kazada Ölü ve yaralılar var.",
+     "link": "https://www.mardinlife.com/gundem/kiziltepe-ceylanpinar-karayolunda-feci-kazada-olu-ve-yaralilar-var",
+     "tarih": "2026-11-21",
+     "kaynak": "Mardin Life"
+    },
+    {
+     "baslik": "21 Kasım: Mardin’in Onur Günü",
+     "link": "https://www.mardinlife.com/kose-yazisi/21-kasim-mardin-in-onur-gunu",
+     "tarih": "2026-11-21",
+     "kaynak": "Mardin Life"
+    },
+    {
+     "baslik": "8’in üzerinde deprem senaryosu: Türkiye'nin neredeyse tamamında hissedilecek",
+     "link": "https://www.mardinlife.com/gundem/8-in-uzerinde-deprem-senaryosu-turkiye-nin-neredeyse-tamaminda-hissedilecek",
+     "tarih": "2026-11-20",
+     "kaynak": "Mardin Life"
+    },
+    {
+     "baslik": "Kentte Hayat Kurtaran Eğitim: Sağlık Çalışanlarından Uygulamalı İlkyardım Seferberliği",
+     "link": "https://www.mardinlife.com/egitim/kentte-hayat-kurtaran-egitim-saglik-calisanlarindan-uygulamali-ilkyardim-seferberligi",
+     "tarih": "2026-11-20",
+     "kaynak": "Mardin Life"
+    },
+    {
+     "baslik": "20 Kasım Dünya Çocuk Hakları Günü’nde Mardin’de Farkındalık Seferberliği: Çocukların Sesi Sosyal Hayatta Daha Gür Çıkıyor",
+     "link": "https://www.mardinlife.com/gundem/20-kasim-dunya-cocuk-haklari-gunu-nde-mardin-de-farkindalik-seferberligi-cocuklarin-sesi-sosyal-hayatta-daha-gur-cikiyor",
+     "tarih": "2026-11-20",
+     "kaynak": "Mardin Life"
+    },
+    {
+     "baslik": "Ekonomist Doç. Dr. Mehmet Aydın: Asgari ücretin belirlenmesinde enflasyonun yanı sıra açlık ve yoksulluk sınırı da dikkate alınmalı",
+     "link": "https://www.mardinlife.com/ekonomi/ekonomist-doc-dr-mehmet-aydin-asgari-ucretin-belirlenmesinde-enflasyonun-yani-sira-aclik-ve-yoksulluk-siniri-da-dikkate-alinmali",
+     "tarih": "2026-11-19",
+     "kaynak": "Mardin Life"
+    },
+    {
+     "baslik": "Bakan Uraloğlu: Özbekistan ile farklı yatırım ve finansman imkanlarını değerlendirmeye hazırız",
+     "link": "https://www.mardinlife.com/gundem/bakan-uraloglu-ozbekistan-ile-farkli-yatirim-ve-finansman-imkanlarini-degerlendirmeye-haziriz",
+     "tarih": "2026-11-19",
+     "kaynak": "Mardin Life"
+    },
+    {
+     "baslik": "TBMM Başkanı Kurtulmuş: Terörsüz Türkiye süreci millet vicdanı, devlet aklıyla oluşmuş bir süreçtir",
+     "link": "https://www.mardinlife.com/gundem/tbmm-baskani-kurtulmus-terorsuz-turkiye-sureci-millet-vicdani-devlet-akliyla-olusmus-bir-surectir",
+     "tarih": "2026-11-19",
+     "kaynak": "Mardin Life"
+    }
+   ],
+   "tarihsiz": [
+    {
+     "baslik": "CATEGORÍA Educación y aprendizaje Cursos y contenidos relacionados con habilidades,\n                            estudio y herramientas digitales. Ver contenidos →",
+     "link": "https://kiziltepegazetesi.com/category/%F0%9F%8E%93-educacion-y-aprendizaje/",
+     "tarih": null,
+     "kaynak": "Kızıltepe Gazetesi"
+    },
+    {
+     "baslik": "CATEGORÍA Tendencias y curiosidades Publicaciones sobre Internet, tecnología\n                            y diferentes temas informativos. Ver contenidos →",
+     "link": "https://kiziltepegazetesi.com/category/tendencias-y-curiosidades-%E2%99%BB%EF%B8%8F/",
+     "tarih": null,
+     "kaynak": "Kızıltepe Gazetesi"
+    },
+    {
+     "baslik": "CATEGORÍA Vida práctica y hogar Contenidos sobre organización, hogar,\n                            Internet y temas cotidianos. Ver contenidos →",
+     "link": "https://kiziltepegazetesi.com/category/%F0%9F%8F%A1-vida-practica-y-hogar/",
+     "tarih": null,
+     "kaynak": "Kızıltepe Gazetesi"
+    },
+    {
+     "baslik": "CATEGORÍA Turismo Contenidos sobre destinos, viajes\n                            y lugares de México. Ver contenidos →",
+     "link": "https://kiziltepegazetesi.com/category/cursosdisponibles/",
+     "tarih": null,
+     "kaynak": "Kızıltepe Gazetesi"
+    }
+   ],
+   "hafta_disi_sayisi": 4,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Mardin Haber",
+     "url": "https://www.mardinhaber.net",
+     "hata": "HTTPSConnectionPool(host='www.mardinhaber.net', port=443): Max retries exceeded with url: / (Caused by NameResolutionErr"
+    }
+   ]
+  },
+  "MERSİN": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Tarsus Haber",
+     "url": "https://www.tarsushaber.com",
+     "hata": "HTTPSConnectionPool(host='www.tarsushaber.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFEr"
+    },
+    {
+     "gazete": "Mersin Haber",
+     "url": "https://www.mersinhaber.com.tr",
+     "hata": "HTTPSConnectionPool(host='www.mersinhaber.com.tr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCe"
+    },
+    {
+     "gazete": "Çağdaş Mersin",
+     "url": "https://www.cagdasmersin.com",
+     "hata": "haber bulunamadı"
+    }
+   ]
+  },
+  "MUĞLA": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 8,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Muğla Devrim",
+     "url": "https://www.mugladevrim.com",
+     "hata": "haber bulunamadı"
+    },
+    {
+     "gazete": "Marmaris Manşet",
+     "url": "https://www.marmarismanset.com",
+     "hata": "403 Client Error: Forbidden for url: https://www.marmarismanset.com/"
+    }
+   ]
+  },
+  "MUŞ": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Muş Ovası",
+     "url": "https://www.musovasi.com",
+     "hata": "haber bulunamadı"
+    },
+    {
+     "gazete": "Muş Haber",
+     "url": "https://www.mushaber.com",
+     "hata": "HTTPSConnectionPool(host='www.mushaber.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError("
+    },
+    {
+     "gazete": "Varto Haber",
+     "url": "https://www.vartohaber.com",
+     "hata": "HTTPSConnectionPool(host='www.vartohaber.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionErro"
+    }
+   ]
+  },
+  "NEVŞEHİR": {
+   "haberler": [
+    {
+     "baslik": "Nevşehir’de Pes Dedirten Görüntü! Araç Üzerinde Dans",
+     "link": "https://www.fibhaber.com/nevsehirde-pes-dedirten-goruntu-arac-uzerinde-dans",
+     "tarih": "2026-11-20",
+     "kaynak": "FİB Haber"
+    },
+    {
+     "baslik": "Kapadokya Yaşam Boyu Katkı Ödülü Dr. Doğan Birgül’e Verildi",
+     "link": "https://www.fibhaber.com/kapadokya-yasam-boyu-katki-odulu-dr-dogan-birgule-verildi",
+     "tarih": "2026-11-19",
+     "kaynak": "FİB Haber"
+    },
+    {
+     "baslik": "2026 Kapadokya Değer Ödülleri Sahiplerini Buldu! Nevşehir’de Görkemli Gece",
+     "link": "https://www.fibhaber.com/2026-kapadokya-deger-odulleri-sahiplerini-buldu-nevsehirde-gorkemli-gece",
+     "tarih": "2026-11-19",
+     "kaynak": "FİB Haber"
+    },
+    {
+     "baslik": "Nevşehir’de “Terörsüz Türkiye” Zirvesi! Önemli İsimler Bir Araya Geldi",
+     "link": "https://www.fibhaber.com/nevsehirde-terorsuz-turkiye-zirvesi-onemli-isimler-bir-araya-geldi",
+     "tarih": "2026-11-19",
+     "kaynak": "FİB Haber"
+    },
+    {
+     "baslik": "Nevşehir’de Annelerini Kaybeden Dört Kardeşe İHH’den Destek Eli",
+     "link": "https://www.fibhaber.com/nevsehirde-annelerini-kaybeden-dort-kardese-ihhden-destek-eli",
+     "tarih": "2026-11-18",
+     "kaynak": "FİB Haber"
+    },
+    {
+     "baslik": "NEVÜ’den Kapadokya’nın Yeraltı Şehirlerinin Kültürel Mirasına Yönelik İş Birliği",
+     "link": "https://www.fibhaber.com/nevuden-kapadokyanin-yeralti-sehirlerinin-kulturel-mirasina-yonelik-is-birligi",
+     "tarih": "2026-11-18",
+     "kaynak": "FİB Haber"
+    }
+   ],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Nevşehir Haber",
+     "url": "https://www.nevsehirhaber.com.tr",
+     "hata": "haber bulunamadı"
+    },
+    {
+     "gazete": "Kapadokya Gündem",
+     "url": "https://www.kapadokyagundem.com",
+     "hata": "haber bulunamadı"
+    }
+   ]
+  },
+  "NİĞDE": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Niğde Haber",
+     "url": "https://www.nigdehaber.com",
+     "hata": "HTTPSConnectionPool(host='www.nigdehaber.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutErro"
+    },
+    {
+     "gazete": "Bor'un Sesi",
+     "url": "https://www.borunsesi.com",
+     "hata": "haber bulunamadı"
+    },
+    {
+     "gazete": "Niğde Anadolu",
+     "url": "https://www.nigdeanadolu.com",
+     "hata": "HTTPSConnectionPool(host='www.nigdeanadolu.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionEr"
+    }
+   ]
+  },
+  "ORDU": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Ordu Atılım",
+     "url": "https://www.orduatilim.com",
+     "hata": "HTTPSConnectionPool(host='www.orduatilim.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionErro"
+    },
+    {
+     "gazete": "Ordu Gerçek",
+     "url": "https://www.ordugercek.com",
+     "hata": "HTTPSConnectionPool(host='www.ordugercek.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFErr"
+    },
+    {
+     "gazete": "Ordu Kent",
+     "url": "https://www.ordukent.com",
+     "hata": "401 Client Error: Unauthorized for url: https://findakey.net/?d=Uz0RaxMaREBgQd9Irl6I7g%3D%3D%3AZmVkY2JhOTg3NjU0MzIxMA%3D"
+    }
+   ]
+  },
+  "OSMANİYE": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Osmaniye Haber",
+     "url": "https://www.osmaniyehaber.net",
+     "hata": "HTTPSConnectionPool(host='www.osmaniyehaber.net', port=443): Max retries exceeded with url: / (Caused by NameResolutionE"
+    },
+    {
+     "gazete": "Manşet Gazetesi",
+     "url": "https://www.osmaniyemanset.com",
+     "hata": "HTTPSConnectionPool(host='www.osmaniyemanset.com', port=443): Max retries exceeded with url: / (Caused by NameResolution"
+    },
+    {
+     "gazete": "Cebelibereket",
+     "url": "https://www.cebelibereket.com",
+     "hata": "HTTPSConnectionPool(host='www.cebelibereket.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionE"
+    }
+   ]
+  },
+  "RİZE": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Çayeli Haber",
+     "url": "https://www.cayeligazetesi.com",
+     "hata": "HTTPSConnectionPool(host='www.cayeligazetesi.com', port=443): Max retries exceeded with url: / (Caused by NameResolution"
+    },
+    {
+     "gazete": "Rize Gündem",
+     "url": "https://www.rizegundem.com",
+     "hata": "haber bulunamadı"
+    },
+    {
+     "gazete": "Karadeniz'de Son Nokta",
+     "url": "https://www.karadenizdesonnokta.com",
+     "hata": "HTTPSConnectionPool(host='www.karadenizdesonnokta.com', port=443): Max retries exceeded with url: / (Caused by NameResol"
+    }
+   ]
+  },
+  "SAKARYA": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Yeni Sakarya",
+     "url": "https://www.yenisakarya.com.tr",
+     "hata": "HTTPSConnectionPool(host='www.yenisakarya.com.tr', port=443): Max retries exceeded with url: / (Caused by NameResolution"
+    },
+    {
+     "gazete": "Adapazarı Akşam",
+     "url": "https://www.adapazariaksam.com",
+     "hata": "HTTPSConnectionPool(host='www.adapazariaksam.com', port=443): Max retries exceeded with url: / (Caused by NameResolution"
+    },
+    {
+     "gazete": "Sakarya Yenigün",
+     "url": "https://www.sakaryayenigun.com",
+     "hata": "HTTPSConnectionPool(host='www.sakaryayenigun.com', port=443): Max retries exceeded with url: / (Caused by NameResolution"
+    }
+   ]
+  },
+  "SAMSUN": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Samsun Haber",
+     "url": "https://www.samsunhaber.com",
+     "hata": "haber bulunamadı"
+    },
+    {
+     "gazete": "Vezirköprü Özlem",
+     "url": "https://www.vezirkopruozlem.com",
+     "hata": "HTTPSConnectionPool(host='www.vezirkopruozlem.com', port=443): Max retries exceeded with url: / (Caused by NameResolutio"
+    },
+    {
+     "gazete": "İlkadım Gazetesi",
+     "url": "https://www.ilkadimgazetesi.com",
+     "hata": "HTTPSConnectionPool(host='www.ilkadimgazetesi.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLE"
+    }
+   ]
+  },
+  "SİİRT": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Siirt Haber",
+     "url": "https://www.siirthaber.com",
+     "hata": "HTTPSConnectionPool(host='www.siirthaber.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutErro"
+    },
+    {
+     "gazete": "Siirt Mücadele",
+     "url": "https://www.siirtmucadele.com",
+     "hata": "HTTPSConnectionPool(host='www.siirtmucadele.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionE"
+    },
+    {
+     "gazete": "Siirt'in Sesi",
+     "url": "https://www.siirtinsesi.com",
+     "hata": "HTTPSConnectionPool(host='www.siirtinsesi.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionErr"
+    }
+   ]
+  },
+  "SİNOP": {
+   "haberler": [
+    {
+     "baslik": "Sinop’ta motosiklet ile traktör çarpıştı: 1 ağır yaralı!",
+     "link": "https://www.vitrinhaber.com/sinopta-motosiklet-ile-traktor-carpisti-1-agir-yarali",
+     "tarih": "2026-11-22",
+     "kaynak": "Vitrin Haber"
+    },
+    {
+     "baslik": "Sinop’un en yüksek noktası neresi?",
+     "link": "https://www.vitrinhaber.com/sinopun-en-yuksek-noktasi-neresi",
+     "tarih": "2026-11-22",
+     "kaynak": "Vitrin Haber"
+    },
+    {
+     "baslik": "Diyabet hastalığına yönelik farkındalık standı kuruldu",
+     "link": "https://www.vitrinhaber.com/diyabet-hastaligina-yonelik-farkindalik-standi-kuruldu",
+     "tarih": "2026-11-22",
+     "kaynak": "Vitrin Haber"
+    },
+    {
+     "baslik": "Yavuz Gültekin ve Yiğitcan Saybir Basketbol A Milli kadrosundan çıkarıldı",
+     "link": "https://www.vitrinhaber.com/yavuz-gultekin-ve-yigitcan-saybir-basketbol-a-milli-kadrosundan-cikarildi",
+     "tarih": "2026-11-22",
+     "kaynak": "Vitrin Haber"
+    },
+    {
+     "baslik": "Ordu yeni yaşam merkezi kuruluyor",
+     "link": "https://www.vitrinhaber.com/ordu-yeni-yasam-merkezi-kuruluyor",
+     "tarih": "2026-11-22",
+     "kaynak": "Vitrin Haber"
+    },
+    {
+     "baslik": "Ordu Üniversitesi akademik sıralamada yükselişte",
+     "link": "https://www.vitrinhaber.com/ordu-universitesi-akademik-siralamada-yukseliste",
+     "tarih": "2026-11-22",
+     "kaynak": "Vitrin Haber"
+    },
+    {
+     "baslik": "Sinoplular hafta sonu indirim çadırına akın etti",
+     "link": "https://www.vitrinhaber.com/sinoplular-hafta-sonu-indirim-cadirina-akin-etti",
+     "tarih": "2026-11-22",
+     "kaynak": "Vitrin Haber"
+    },
+    {
+     "baslik": "Motosiklet kullanırken kalp krizi geçirdi",
+     "link": "https://www.vitrinhaber.com/motosiklet-kullanirken-kalp-krizi-gecirdi",
+     "tarih": "2026-11-22",
+     "kaynak": "Vitrin Haber"
+    }
+   ],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Sinop'un Sesi",
+     "url": "https://www.sinopunsesi.com",
+     "hata": "HTTPSConnectionPool(host='www.sinopunsesi.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionErr"
+    },
+    {
+     "gazete": "Boyabat Sesi",
+     "url": "https://www.boyabatsesi.com",
+     "hata": "haber bulunamadı"
+    }
+   ]
+  },
+  "SİVAS": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 8,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Sivas Haber",
+     "url": "https://www.sivashaber.net",
+     "hata": "HTTPSConnectionPool(host='www.sivashaber.net', port=443): Max retries exceeded with url: / (Caused by NameResolutionErro"
+    },
+    {
+     "gazete": "Sivas Postası",
+     "url": "https://www.sivaspostasi.com",
+     "hata": "HTTPSConnectionPool(host='www.sivaspostasi.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCert"
+    }
+   ]
+  },
+  "ŞANLIURFA": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 8,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Urfa Haber",
+     "url": "https://www.urfagundem.com",
+     "hata": "haber bulunamadı"
+    },
+    {
+     "gazete": "Şanlıurfa Olay",
+     "url": "https://www.sanliurfaolay.com",
+     "hata": "403 Client Error: Forbidden for url: https://www.sanliurfaolay.com/"
+    }
+   ]
+  },
+  "ŞIRNAK": {
+   "haberler": [
+    {
+     "baslik": "Silopi’de Voleybol Heyecanı! Rakip Diyarbakır’dan Geliyor",
+     "link": "https://www.sirnakhaber.com/spor/silopide-voleybol-heyecani-rakip-diyarbakirdan-geliyor-69201.html",
+     "tarih": "2026-11-22",
+     "kaynak": "Şırnak Haber"
+    },
+    {
+     "baslik": "Cizre Köylerinde 28 Kilometrelik Asfalt Çalışması Tamamlandı",
+     "link": "https://www.sirnakhaber.com/sirnak/cizre-koylerinde-28-kilometrelik-asfalt-calismasi-tamamlandi-69196.html",
+     "tarih": "2026-11-22",
+     "kaynak": "Şırnak Haber"
+    },
+    {
+     "baslik": "SES Şırnak Şubesinden 22 Kasım Diş Hekimleri Günü mesajı Sağlık 8 saat önce",
+     "link": "https://www.sirnakhaber.com/saglik/ses-sirnak-subesinden-22-kasim-dis-hekimleri-gunu-mesaji-69209.html",
+     "tarih": "2026-11-22",
+     "kaynak": "Şırnak Haber"
+    },
+    {
+     "baslik": "Şırnaklı Mehmet Sait Gökçe Hayatını Kaybetti Şırnak 10 saat önce",
+     "link": "https://www.sirnakhaber.com/sirnak/sirnakli-mehmet-sait-gokce-hayatini-kaybetti-69204.html",
+     "tarih": "2026-11-22",
+     "kaynak": "Şırnak Haber"
+    },
+    {
+     "baslik": "Şırnaklı 17 Yaşındaki Emir Sak Hayatını Kaybetti Şırnak 10 saat önce",
+     "link": "https://www.sirnakhaber.com/sirnak/sirnakli-17-yasindaki-emir-sak-hayatini-kaybetti-69203.html",
+     "tarih": "2026-11-22",
+     "kaynak": "Şırnak Haber"
+    },
+    {
+     "baslik": "Cizre’de Hastane Yolundaki Korkuluk Eksikliği Tehlike Saçıyor Şırnak 1 gün önce",
+     "link": "https://www.sirnakhaber.com/sirnak/cizrede-hastane-yolundaki-korkuluk-eksikligi-tehlike-saciyor-69180.html",
+     "tarih": "2026-11-21",
+     "kaynak": "Şırnak Haber"
+    },
+    {
+     "baslik": "Cizre’nin Unutulan 29 Muhaddisi Gün Yüzüne Çıktı Şırnak 1 gün önce",
+     "link": "https://www.sirnakhaber.com/sirnak/cizrenin-unutulan-29-muhaddisi-gun-yuzune-cikti-69183.html",
+     "tarih": "2026-11-21",
+     "kaynak": "Şırnak Haber"
+    },
+    {
+     "baslik": "Şırnak’ta İkinci Ev Alacaklara Kredi Kolaylığı: BDDK’dan Yeni Düzenleme",
+     "link": "https://www.sirnakhaber.com/asayis/sirnakta-ikinci-ev-alacaklara-kredi-kolayligi-bddkdan-yeni-duzenleme-69182.html",
+     "tarih": "2026-11-21",
+     "kaynak": "Şırnak Haber"
+    }
+   ],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Cudi Postası",
+     "url": "https://www.cudipostasi.com",
+     "hata": "HTTPSConnectionPool(host='www.cudipostasi.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionErr"
+    },
+    {
+     "gazete": "Silopi Haber",
+     "url": "https://www.silopihaber.com",
+     "hata": "haber bulunamadı"
+    }
+   ]
+  },
+  "TEKİRDAĞ": {
+   "haberler": [
+    {
+     "baslik": "İl Çocuk Hakları Komitesi Vali Soytürk’ü Ziyaret Etti",
+     "link": "https://tekirdagyenihaber.com/2026/11/22/il-cocuk-haklari-komitesi-vali-soyturku-ziyaret-etti/",
+     "tarih": "2026-11-22",
+     "kaynak": "Tekirdağ Yeni Haber"
+    },
+    {
+     "baslik": "Vali Soytürk Yeniden Başkan Seçilen Günay’ı Ziyaret Etti",
+     "link": "https://tekirdagyenihaber.com/2026/11/17/vali-soyturk-yeniden-baskan-secilen-gunayi-ziyaret-etti/",
+     "tarih": "2026-11-17",
+     "kaynak": "Tekirdağ Yeni Haber"
+    },
+    {
+     "baslik": "Türkiye Halk Oyunları Federasyonu Trakya Bölge Koordinatörü Nalcıoğlu ve Beraberindeki Heyet…",
+     "link": "https://tekirdagyenihaber.com/2026/11/16/turkiye-halk-oyunlari-federasyonu-trakya-bolge-koordinatoru-nalcioglu-ve-beraberindeki-heyet-vali-soyturku-ziyaret-etti/",
+     "tarih": "2026-11-16",
+     "kaynak": "Tekirdağ Yeni Haber"
+    }
+   ],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 3,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Trakya Gazetesi",
+     "url": "https://www.trakyagazetesi.com.tr",
+     "hata": "haber bulunamadı"
+    },
+    {
+     "gazete": "Çerkezköy Ekspres",
+     "url": "https://www.cerkezkoyekspres.com",
+     "hata": "403 Client Error: Forbidden for url: https://www.cerkezkoyekspres.com/"
+    }
+   ]
+  },
+  "TOKAT": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Yeni Tokat",
+     "url": "https://www.yenitokat.com.tr",
+     "hata": "HTTPSConnectionPool(host='www.yenitokat.com.tr', port=443): Max retries exceeded with url: / (Caused by NameResolutionEr"
+    },
+    {
+     "gazete": "Tokat Gündem",
+     "url": "https://www.tokatgundem.com",
+     "hata": "HTTPSConnectionPool(host='www.tokatgundem.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionErr"
+    },
+    {
+     "gazete": "Turhal Haber",
+     "url": "https://www.turhalhaber.com",
+     "hata": "HTTPSConnectionPool(host='www.turhalhaber.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionErro"
+    }
+   ]
+  },
+  "TRABZON": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 8,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Taka Gazetesi",
+     "url": "https://www.takagazetesi.com.tr",
+     "hata": "HTTPSConnectionPool(host='www.takagazetesi.com.tr', port=443): Max retries exceeded with url: / (Caused by NameResolutio"
+    },
+    {
+     "gazete": "Günebakış",
+     "url": "https://www.gunebakis.com.tr",
+     "hata": "403 Client Error: Forbidden for url: https://www.gunebakis.com.tr/"
+    }
+   ]
+  },
+  "TUNCELİ": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Tunceli Haber",
+     "url": "https://www.tuncelisesi.com",
+     "hata": "HTTPSConnectionPool(host='www.tuncelisesi.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionErr"
+    },
+    {
+     "gazete": "Munzur Postası",
+     "url": "https://www.munzurpostasi.com",
+     "hata": "HTTPSConnectionPool(host='www.munzurpostasi.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionE"
+    },
+    {
+     "gazete": "Ovacık Haber",
+     "url": "https://www.ovacıkhaber.com",
+     "hata": "HTTPSConnectionPool(host='www.xn--ovackhaber-0ub.com', port=443): Max retries exceeded with url: / (Caused by NameResolu"
+    }
+   ]
+  },
+  "UŞAK": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Uşak Haber",
+     "url": "https://www.usakhaber.com.tr",
+     "hata": "HTTPSConnectionPool(host='www.usakhaber.com.tr', port=443): Max retries exceeded with url: / (Caused by NameResolutionEr"
+    },
+    {
+     "gazete": "Ege'de Uşak",
+     "url": "https://www.egeuşak.com",
+     "hata": "HTTPSConnectionPool(host='www.xn--egeuak-zjb.com', port=443): Max retries exceeded with url: / (Caused by NameResolution"
+    },
+    {
+     "gazete": "Zafer Gazetesi",
+     "url": "https://www.zaferuşak.com",
+     "hata": "HTTPSConnectionPool(host='www.xn--zaferuak-swb.com', port=443): Max retries exceeded with url: / (Caused by NameResoluti"
+    }
+   ]
+  },
+  "VAN": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Van Haber",
+     "url": "https://www.vanhaber.com",
+     "hata": "HTTPSConnectionPool(host='www.vanhaber.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError("
+    },
+    {
+     "gazete": "Prestij Gazetesi",
+     "url": "https://www.vanprestij.com",
+     "hata": "HTTPSConnectionPool(host='www.vanprestij.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionErro"
+    },
+    {
+     "gazete": "Şehir Van",
+     "url": "https://www.sehirvan.com",
+     "hata": "HTTPSConnectionPool(host='www.sehirvan.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("
+    }
+   ]
+  },
+  "YALOVA": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Yalova Gazetesi",
+     "url": "https://www.yalovagazetesi.com.tr",
+     "hata": "HTTPSConnectionPool(host='www.yalovagazetesi.com.tr', port=443): Max retries exceeded with url: / (Caused by NameResolut"
+    },
+    {
+     "gazete": "İlkhaber Gazetesi",
+     "url": "https://www.ilkhabergazetesi.com",
+     "hata": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    {
+     "gazete": "Yalova Gündem",
+     "url": "https://www.yalovagundem.com",
+     "hata": "haber bulunamadı"
+    }
+   ]
+  },
+  "YOZGAT": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Yerköy Gazetesi",
+     "url": "https://www.yerkoygazetesi.com",
+     "hata": "HTTPSConnectionPool(host='www.yerkoygazetesi.com', port=443): Max retries exceeded with url: / (Caused by NameResolution"
+    },
+    {
+     "gazete": "Sorgun Postası",
+     "url": "https://www.sorgunpostasi.com",
+     "hata": "403 Client Error: Forbidden for url: https://www.hugedomains.com/domain_profile.cfm?d=sorgunpostasi.com"
+    },
+    {
+     "gazete": "Yozgat Haber",
+     "url": "https://www.yozgathaber.com",
+     "hata": "403 Client Error: Forbidden for url: https://www.hugedomains.com/domain_profile.cfm?d=yozgathaber.com"
+    }
+   ]
+  },
+  "ZONGULDAK": {
+   "haberler": [],
+   "tarihsiz": [],
+   "hafta_disi_sayisi": 0,
+   "erisilemeyen_gazeteler": [
+    {
+     "gazete": "Zonguldak Haber",
+     "url": "https://www.zonguldakhaber.com",
+     "hata": "HTTPSConnectionPool(host='www.zonguldakhaber.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeout"
+    },
+    {
+     "gazete": "Pusula Gazetesi",
+     "url": "https://www.zonguldakpusula.com.tr",
+     "hata": "HTTPSConnectionPool(host='www.zonguldakpusula.com.tr', port=443): Max retries exceeded with url: / (Caused by NameResolu"
+    },
+    {
+     "gazete": "Ereğli FM",
+     "url": "https://www.ereglihaber.com",
+     "hata": "HTTPSConnectionPool(host='www.ereglihaber.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertV"
+    }
+   ]
+  }
+ },
+ "ozet": {
+  "haberli_il": 20,
+  "toplam_il": 81,
+  "tamamen_erisilemeyen_il": [
+   "ADANA",
+   "AĞRI",
+   "AKSARAY",
+   "AYDIN",
+   "BARTIN",
+   "BAYBURT",
+   "BİLECİK",
+   "BİNGÖL",
+   "BİTLİS",
+   "BURSA",
+   "ÇANAKKALE",
+   "DENİZLİ",
+   "DÜZCE",
+   "EDİRNE",
+   "ELAZIĞ",
+   "ERZURUM",
+   "ESKİŞEHİR",
+   "GAZİANTEP",
+   "HAKKARİ",
+   "IĞDIR",
+   "ISPARTA",
+   "KAHRAMANMARAŞ",
+   "KARABÜK",
+   "KARS",
+   "KASTAMONU",
+   "KAYSERİ",
+   "KIRIKKALE",
+   "KIRKLARELİ",
+   "KOCAELİ",
+   "KONYA",
+   "KÜTAHYA",
+   "MALATYA",
+   "MERSİN",
+   "MUŞ",
+   "NİĞDE",
+   "ORDU",
+   "OSMANİYE",
+   "RİZE",
+   "SAKARYA",
+   "SAMSUN",
+   "SİİRT",
+   "TOKAT",
+   "TUNCELİ",
+   "UŞAK",
+   "VAN",
+   "YALOVA",
+   "YOZGAT",
+   "ZONGULDAK"
+  ]
+ }
+}
