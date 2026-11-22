@@ -1,0 +1,26 @@
+name: Haftalik haber toplama
+on:
+  schedule:
+    - cron: "0 12 * * 0"   # Her Pazar 12:00 UTC = 15:00 Türkiye saati
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  topla:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt
+      - run: python haber_topla.py
+      - name: Arsivle ve kaydet
+        run: |
+          mkdir -p arsiv
+          cp haberler.json "arsiv/haberler_$(date +%Y%m%d).json"
+          git config user.name "haber-bot"
+          git config user.email "haber-bot@users.noreply.github.com"
+          git add haberler.json arsiv
+          git commit -m "Haftalik haber verisi" || echo "degisiklik yok"
+          git push
