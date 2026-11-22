@@ -1,0 +1,1379 @@
+[
+ {
+  "ad": "ADANA",
+  "gazeteler": [
+   {
+    "isim": "Çukurova Press",
+    "url": "https://www.cukurovapress.com.tr"
+   },
+   {
+    "isim": "Toros Gazetesi",
+    "url": "https://www.torosgazetesi.com"
+   },
+   {
+    "isim": "Adana Haber",
+    "url": "https://www.adanahaber.com.tr"
+   }
+  ]
+ },
+ {
+  "ad": "ADIYAMAN",
+  "gazeteler": [
+   {
+    "isim": "Adıyaman Haber",
+    "url": "https://www.adiyamanhaber.net"
+   },
+   {
+    "isim": "Gölbaşı Gazetesi",
+    "url": "https://www.golbasigazetesi.com"
+   },
+   {
+    "isim": "Adıyaman Güne Bakış",
+    "url": "https://www.adiyamangb.com"
+   }
+  ]
+ },
+ {
+  "ad": "AFYONKARAHİSAR",
+  "gazeteler": [
+   {
+    "isim": "Zafer Gazetesi",
+    "url": "https://www.zafergazetesi.com.tr"
+   },
+   {
+    "isim": "Afyon Haber",
+    "url": "https://www.afyonhaber.com"
+   },
+   {
+    "isim": "Kocatepe Gazetesi",
+    "url": "https://www.kocatepegazetesi.com.tr"
+   }
+  ]
+ },
+ {
+  "ad": "AĞRI",
+  "gazeteler": [
+   {
+    "isim": "Ağrı Hürses",
+    "url": "https://www.agrihurses.com"
+   },
+   {
+    "isim": "Doğubeyazıt Gazetesi",
+    "url": "https://www.dogubeyazitgazetesi.com"
+   },
+   {
+    "isim": "Ağrı Haber",
+    "url": "https://www.agrihaber.com"
+   }
+  ]
+ },
+ {
+  "ad": "AKSARAY",
+  "gazeteler": [
+   {
+    "isim": "Aksaray Haber",
+    "url": "https://www.aksarayhaber.com"
+   },
+   {
+    "isim": "Egemen Gazetesi",
+    "url": "https://www.egemenhaber.com"
+   },
+   {
+    "isim": "Ortaköy Haber",
+    "url": "https://www.ortakoyhaber.com"
+   }
+  ]
+ },
+ {
+  "ad": "AMASYA",
+  "gazeteler": [
+   {
+    "isim": "Amasya Gazetesi",
+    "url": "https://www.amasyagazetesi.com"
+   },
+   {
+    "isim": "Yeşilırmak Gazetesi",
+    "url": "https://www.yesilirmakgazetesi.com"
+   },
+   {
+    "isim": "Merzifon Haber",
+    "url": "https://www.merzifonhaber.com"
+   }
+  ]
+ },
+ {
+  "ad": "ANKARA",
+  "gazeteler": [
+   {
+    "isim": "Ankara Havadis",
+    "url": "https://www.ankarahavadis.com.tr"
+   },
+   {
+    "isim": "Başkent Postası",
+    "url": "https://www.baskentpostasi.com"
+   },
+   {
+    "isim": "Güncel Ankara",
+    "url": "https://www.guncelankara.com"
+   }
+  ]
+ },
+ {
+  "ad": "ANTALYA",
+  "gazeteler": [
+   {
+    "isim": "Antalya Körfez",
+    "url": "https://www.antalyakorfez.com"
+   },
+   {
+    "isim": "Akdeniz Gerçek",
+    "url": "https://www.akdenizgercek.com"
+   },
+   {
+    "isim": "Antalya Ekspres",
+    "url": "https://www.antalyaekspres.com.tr"
+   }
+  ]
+ },
+ {
+  "ad": "ARDAHAN",
+  "gazeteler": [
+   {
+    "isim": "Ardahan Haber",
+    "url": "https://www.ardahanhaber.com"
+   },
+   {
+    "isim": "Kuzey Anadolu",
+    "url": "https://www.kuzeyanadolu.com"
+   },
+   {
+    "isim": "Göle Haber",
+    "url": "https://www.golehaber.com"
+   }
+  ]
+ },
+ {
+  "ad": "ARTVİN",
+  "gazeteler": [
+   {
+    "isim": "Artvin'in Sesi",
+    "url": "https://www.artvininsesi.com"
+   },
+   {
+    "isim": "Çoruh Postası",
+    "url": "https://www.coruhpostasi.com"
+   },
+   {
+    "isim": "Hopa Haber",
+    "url": "https://www.hopahaber.com"
+   }
+  ]
+ },
+ {
+  "ad": "AYDIN",
+  "gazeteler": [
+   {
+    "isim": "Aydın Ses",
+    "url": "https://www.aydinses.com.tr"
+   },
+   {
+    "isim": "Yeni Kıroba",
+    "url": "https://www.yenikroba.com"
+   },
+   {
+    "isim": "Aydın Denge",
+    "url": "https://www.aydindenge.com.tr"
+   }
+  ]
+ },
+ {
+  "ad": "BALIKESİR",
+  "gazeteler": [
+   {
+    "isim": "Balıkesir'de Son Haber",
+    "url": "https://www.balikesirsondakika.com"
+   },
+   {
+    "isim": "Körfez'in Sesi",
+    "url": "https://www.korfezinsesi.com"
+   },
+   {
+    "isim": "Demokrat Gazetesi",
+    "url": "https://www.demokratgazete.com"
+   }
+  ]
+ },
+ {
+  "ad": "BARTIN",
+  "gazeteler": [
+   {
+    "isim": "Bartın Haber",
+    "url": "https://www.bartinhaber.com"
+   },
+   {
+    "isim": "Pusula Gazetesi",
+    "url": "https://www.bartinpusula.com"
+   },
+   {
+    "isim": "Halkın Sesi",
+    "url": "https://www.halkinsesi.com.tr"
+   }
+  ]
+ },
+ {
+  "ad": "BATMAN",
+  "gazeteler": [
+   {
+    "isim": "Batman Çağdaş",
+    "url": "https://www.batmancagdas.com"
+   },
+   {
+    "isim": "Batman Doğuş",
+    "url": "https://www.batmandogus.com"
+   },
+   {
+    "isim": "Batman Postası",
+    "url": "https://www.batmanpostasi.com"
+   }
+  ]
+ },
+ {
+  "ad": "BAYBURT",
+  "gazeteler": [
+   {
+    "isim": "Bayburt Postası",
+    "url": "https://www.bayburtpostasi.com"
+   },
+   {
+    "isim": "Bayburt Haber",
+    "url": "https://www.bayburthaber.com"
+   },
+   {
+    "isim": "Gündem Bayburt",
+    "url": "https://www.gundembayburt.com"
+   }
+  ]
+ },
+ {
+  "ad": "BİLECİK",
+  "gazeteler": [
+   {
+    "isim": "Bilecik Haber",
+    "url": "https://www.bilecikhaber.com"
+   },
+   {
+    "isim": "Sakarya Gazetesi",
+    "url": "https://www.sakaryagazetesi.com.tr"
+   },
+   {
+    "isim": "Bozüyük Haber",
+    "url": "https://www.bozuyukhaber.com"
+   }
+  ]
+ },
+ {
+  "ad": "BİNGÖL",
+  "gazeteler": [
+   {
+    "isim": "Bingöl Haber",
+    "url": "https://www.bingolhaber.com"
+   },
+   {
+    "isim": "Günışığı Gazetesi",
+    "url": "https://www.gunisigigazete.com"
+   },
+   {
+    "isim": "Bingöl Gündem",
+    "url": "https://www.bingolgundem.com"
+   }
+  ]
+ },
+ {
+  "ad": "BİTLİS",
+  "gazeteler": [
+   {
+    "isim": "Bitlis Haber",
+    "url": "https://www.bitlishaber.com"
+   },
+   {
+    "isim": "Tatvan Sesi",
+    "url": "https://www.tatvansesi.com"
+   },
+   {
+    "isim": "Güroymak Haber",
+    "url": "https://www.guroymakhaber.com"
+   }
+  ]
+ },
+ {
+  "ad": "BOLU",
+  "gazeteler": [
+   {
+    "isim": "Bolu Gündem",
+    "url": "https://www.bolugundem.com"
+   },
+   {
+    "isim": "Bolu Takip",
+    "url": "https://www.bolutakip.com"
+   },
+   {
+    "isim": "Bolu'nun Sesi",
+    "url": "https://www.bolununsesi.com"
+   }
+  ]
+ },
+ {
+  "ad": "BURDUR",
+  "gazeteler": [
+   {
+    "isim": "Burdur Gazetesi",
+    "url": "https://www.burdurgazetesi.com.tr"
+   },
+   {
+    "isim": "Çağdaş Burdur",
+    "url": "https://www.cagdasburdur.com"
+   },
+   {
+    "isim": "Gölhisar Haber",
+    "url": "https://www.golhisarhaber.com"
+   }
+  ]
+ },
+ {
+  "ad": "BURSA",
+  "gazeteler": [
+   {
+    "isim": "Olay Gazetesi",
+    "url": "https://www.olaygazetesi.com.tr"
+   },
+   {
+    "isim": "Bursa'da Bugün",
+    "url": "https://www.bursadabugun.com"
+   },
+   {
+    "isim": "Kent Gazetesi",
+    "url": "https://www.kentgazetesi.com.tr"
+   }
+  ]
+ },
+ {
+  "ad": "ÇANAKKALE",
+  "gazeteler": [
+   {
+    "isim": "Çanakkale Olay",
+    "url": "https://www.canakkaleolay.com"
+   },
+   {
+    "isim": "Boğaz Medya",
+    "url": "https://www.bogazmedya.com"
+   },
+   {
+    "isim": "Gündem Gazetesi",
+    "url": "https://www.canakkalegundem.com"
+   }
+  ]
+ },
+ {
+  "ad": "ÇANKIRI",
+  "gazeteler": [
+   {
+    "isim": "Çankırı Postası",
+    "url": "https://www.cankiripostasi.com"
+   },
+   {
+    "isim": "Karatekin Gazetesi",
+    "url": "https://www.karatekingazetesi.com"
+   },
+   {
+    "isim": "Çankırı Haber",
+    "url": "https://www.cankirihaber.com"
+   }
+  ]
+ },
+ {
+  "ad": "ÇORUM",
+  "gazeteler": [
+   {
+    "isim": "Çorum Haber",
+    "url": "https://www.corumhaber.net"
+   },
+   {
+    "isim": "Hakimiyet Gazetesi",
+    "url": "https://www.hakimiyet.com.tr"
+   },
+   {
+    "isim": "Yayla Haber",
+    "url": "https://www.yaylahaber.com"
+   }
+  ]
+ },
+ {
+  "ad": "DENİZLİ",
+  "gazeteler": [
+   {
+    "isim": "Son Nokta",
+    "url": "https://www.sonnokta.com.tr"
+   },
+   {
+    "isim": "Denizli Haber",
+    "url": "https://www.denizlihaber.com"
+   },
+   {
+    "isim": "Pamukkale Haber",
+    "url": "https://www.pamukkale.com.tr"
+   }
+  ]
+ },
+ {
+  "ad": "DİYARBAKIR",
+  "gazeteler": [
+   {
+    "isim": "Güneydoğu Ekspres",
+    "url": "https://www.guneyexpres.com"
+   },
+   {
+    "isim": "Diyarbakır Söz",
+    "url": "https://www.diyarbakirsoz.com"
+   },
+   {
+    "isim": "Yeni Yurt",
+    "url": "https://www.yeniyurt.com.tr"
+   }
+  ]
+ },
+ {
+  "ad": "DÜZCE",
+  "gazeteler": [
+   {
+    "isim": "Düzce Damla",
+    "url": "https://www.duzcedamla.com"
+   },
+   {
+    "isim": "Öncü Haber",
+    "url": "https://www.oncuhaber.com.tr"
+   },
+   {
+    "isim": "Düzce Postası",
+    "url": "https://www.duzcepostasi.com"
+   }
+  ]
+ },
+ {
+  "ad": "EDİRNE",
+  "gazeteler": [
+   {
+    "isim": "Edirne Haber",
+    "url": "https://www.edirnehaber.com.tr"
+   },
+   {
+    "isim": "Hudut Gazetesi",
+    "url": "https://www.hududgazetesi.com"
+   },
+   {
+    "isim": "Trakya'da Gündem",
+    "url": "https://www.trakyagundem.com"
+   }
+  ]
+ },
+ {
+  "ad": "ELAZIĞ",
+  "gazeteler": [
+   {
+    "isim": "Elazığ Hakimiyet",
+    "url": "https://www.elaziğhakimiyet.com"
+   },
+   {
+    "isim": "Günışığı Gazetesi",
+    "url": "https://www.elaziggünısığı.com"
+   },
+   {
+    "isim": "Elazığ Son Haber",
+    "url": "https://www.elazigsondakika.com"
+   }
+  ]
+ },
+ {
+  "ad": "ERZİNCAN",
+  "gazeteler": [
+   {
+    "isim": "Erzincan Haber",
+    "url": "https://www.erzincanhaber.com.tr"
+   },
+   {
+    "isim": "Doğu Anadolu",
+    "url": "https://www.doguanadoluhaber.com"
+   },
+   {
+    "isim": "Erzincan'ın Sesi",
+    "url": "https://www.erzincaninsesi.com"
+   }
+  ]
+ },
+ {
+  "ad": "ERZURUM",
+  "gazeteler": [
+   {
+    "isim": "Palandöken Gazetesi",
+    "url": "https://www.palandokengazetesi.com"
+   },
+   {
+    "isim": "Erzurum Gündem",
+    "url": "https://www.erzurumgundem.com"
+   },
+   {
+    "isim": "Pusula Gazetesi",
+    "url": "https://www.erzurumpusula.com"
+   }
+  ]
+ },
+ {
+  "ad": "ESKİŞEHİR",
+  "gazeteler": [
+   {
+    "isim": "Sakarya Gazetesi",
+    "url": "https://www.sakaryagazetesi.com.tr"
+   },
+   {
+    "isim": "Midas Gazetesi",
+    "url": "https://www.midasgazetesi.com"
+   },
+   {
+    "isim": "Eskişehir Haber",
+    "url": "https://www.eskisehirhaber.com"
+   }
+  ]
+ },
+ {
+  "ad": "GAZİANTEP",
+  "gazeteler": [
+   {
+    "isim": "Telgraf Gazetesi",
+    "url": "https://www.gazianteptelgraf.com.tr"
+   },
+   {
+    "isim": "Gaziantep Haberler",
+    "url": "https://www.gaziantephaberler.com"
+   },
+   {
+    "isim": "Olay Medya",
+    "url": "https://www.olaymedia.com.tr"
+   }
+  ]
+ },
+ {
+  "ad": "GİRESUN",
+  "gazeteler": [
+   {
+    "isim": "Yeşil Giresun",
+    "url": "https://www.yesilgiresun.com.tr"
+   },
+   {
+    "isim": "Giresun Gündem",
+    "url": "https://www.giresungundem.com"
+   },
+   {
+    "isim": "Karadeniz Postası",
+    "url": "https://www.karadenizpostasi.com"
+   }
+  ]
+ },
+ {
+  "ad": "GÜMÜŞHANE",
+  "gazeteler": [
+   {
+    "isim": "Gümüşhane Haber",
+    "url": "https://www.gumushanehaberleri.com"
+   },
+   {
+    "isim": "Gümüşhane Ekspres",
+    "url": "https://www.gümüşhaneekspres.com"
+   },
+   {
+    "isim": "Kelkit Gazetesi",
+    "url": "https://www.kelkitgazetesi.com"
+   }
+  ]
+ },
+ {
+  "ad": "HAKKARİ",
+  "gazeteler": [
+   {
+    "isim": "Yüksekova Haber",
+    "url": "https://www.yuksekovahaber.com"
+   },
+   {
+    "isim": "Hakkari Objektif",
+    "url": "https://www.hakkariyorum.com"
+   },
+   {
+    "isim": "Çukurca Haber",
+    "url": "https://www.cukurcahaber.com"
+   }
+  ]
+ },
+ {
+  "ad": "HATAY",
+  "gazeteler": [
+   {
+    "isim": "Özyurt Gazetesi",
+    "url": "https://www.ozyurtgazetesi.com"
+   },
+   {
+    "isim": "Hatay Söz",
+    "url": "https://www.hataysoz.com.tr"
+   },
+   {
+    "isim": "Antakya Gazetesi",
+    "url": "https://www.antakya.com.tr"
+   }
+  ]
+ },
+ {
+  "ad": "IĞDIR",
+  "gazeteler": [
+   {
+    "isim": "Iğdır Haber",
+    "url": "https://www.igdirhaber.com"
+   },
+   {
+    "isim": "Yeşil Iğdır",
+    "url": "https://www.yesilıgdır.com"
+   },
+   {
+    "isim": "Doğuş Gazetesi",
+    "url": "https://www.igdirdogus.com"
+   }
+  ]
+ },
+ {
+  "ad": "ISPARTA",
+  "gazeteler": [
+   {
+    "isim": "Isparta Haber",
+    "url": "https://www.ispartahaber.com.tr"
+   },
+   {
+    "isim": "Çağdaş Isparta",
+    "url": "https://www.cagdasisparta.com"
+   },
+   {
+    "isim": "Gülses Gazetesi",
+    "url": "https://www.gulses.com.tr"
+   }
+  ]
+ },
+ {
+  "ad": "İSTANBUL",
+  "gazeteler": [
+   {
+    "isim": "İstanbul Times",
+    "url": "https://www.istanbultimes.com.tr"
+   },
+   {
+    "isim": "Beyoğlu Gazetesi",
+    "url": "https://www.beyoglugazetesi.com"
+   },
+   {
+    "isim": "Şişli Gündem",
+    "url": "https://www.sislibld.com"
+   }
+  ]
+ },
+ {
+  "ad": "İZMİR",
+  "gazeteler": [
+   {
+    "isim": "Yeni Asır",
+    "url": "https://www.yeniasir.com.tr"
+   },
+   {
+    "isim": "Ege Telgraf",
+    "url": "https://www.egetelgraf.com"
+   },
+   {
+    "isim": "İlkses Gazetesi",
+    "url": "https://www.ilkses.com.tr"
+   }
+  ]
+ },
+ {
+  "ad": "KAHRAMANMARAŞ",
+  "gazeteler": [
+   {
+    "isim": "Maraş Gündem",
+    "url": "https://www.marasgundem.com"
+   },
+   {
+    "isim": "Manşet Gazetesi",
+    "url": "https://www.mansethaber.com.tr"
+   },
+   {
+    "isim": "Kahramanmaraş Haber",
+    "url": "https://www.kahramanmaraşhaber.com"
+   }
+  ]
+ },
+ {
+  "ad": "KARABÜK",
+  "gazeteler": [
+   {
+    "isim": "Karabük Net Haber",
+    "url": "https://www.karabuknethaber.com"
+   },
+   {
+    "isim": "Yenice Haber",
+    "url": "https://www.yenicehaber.com"
+   },
+   {
+    "isim": "Karabük Postası",
+    "url": "https://www.karabukpostasi.com"
+   }
+  ]
+ },
+ {
+  "ad": "KARAMAN",
+  "gazeteler": [
+   {
+    "isim": "Karaman Haber",
+    "url": "https://www.karamanhaber.com"
+   },
+   {
+    "isim": "Larende Gazetesi",
+    "url": "https://www.larendegazetesi.com"
+   },
+   {
+    "isim": "Karaman Gündem",
+    "url": "https://www.karamangundem.com"
+   }
+  ]
+ },
+ {
+  "ad": "KARS",
+  "gazeteler": [
+   {
+    "isim": "Kars Manşet",
+    "url": "https://www.karsmanset.com"
+   },
+   {
+    "isim": "Hüryurt Gazetesi",
+    "url": "https://www.huryurt.com"
+   },
+   {
+    "isim": "Kars Haber",
+    "url": "https://www.karshaber.com"
+   }
+  ]
+ },
+ {
+  "ad": "KASTAMONU",
+  "gazeteler": [
+   {
+    "isim": "Kastamonu Postası",
+    "url": "https://www.kastamonupostasi.com"
+   },
+   {
+    "isim": "Açıksöz Gazetesi",
+    "url": "https://www.aciksozonline.com"
+   },
+   {
+    "isim": "Kastamonu Gündem",
+    "url": "https://www.kastamonugundem.com"
+   }
+  ]
+ },
+ {
+  "ad": "KAYSERİ",
+  "gazeteler": [
+   {
+    "isim": "Kayseri Haber",
+    "url": "https://www.kayserihaber.com"
+   },
+   {
+    "isim": "Kayseri Gündem",
+    "url": "https://www.kayserigündem.com"
+   },
+   {
+    "isim": "Anadolu Haber",
+    "url": "https://www.anadoluhaber.com.tr"
+   }
+  ]
+ },
+ {
+  "ad": "KIRIKKALE",
+  "gazeteler": [
+   {
+    "isim": "Kırıkkale Haber",
+    "url": "https://www.kirikkalehaber.com"
+   },
+   {
+    "isim": "Manşet Gazetesi",
+    "url": "https://www.kırıkkalemanşet.com"
+   },
+   {
+    "isim": "Pusula Haber",
+    "url": "https://www.kırıkkalepusula.com"
+   }
+  ]
+ },
+ {
+  "ad": "KIRKLARELİ",
+  "gazeteler": [
+   {
+    "isim": "Kırklareli Gazete",
+    "url": "https://www.kirklareligazete.com"
+   },
+   {
+    "isim": "Yeşilyurt Gazetesi",
+    "url": "https://www.yesilyurtgazetesi.com"
+   },
+   {
+    "isim": "Babaeski Söz",
+    "url": "https://www.babaeskisoz.com"
+   }
+  ]
+ },
+ {
+  "ad": "KIRŞEHİR",
+  "gazeteler": [
+   {
+    "isim": "Kırşehir Çiğdem",
+    "url": "https://www.kirsehircigdem.com"
+   },
+   {
+    "isim": "Aşıkpaşa Gazetesi",
+    "url": "https://www.asikpasagazetesi.com"
+   },
+   {
+    "isim": "Kırşehir Memleket",
+    "url": "https://www.kirsehirmemleket.com"
+   }
+  ]
+ },
+ {
+  "ad": "KİLİS",
+  "gazeteler": [
+   {
+    "isim": "Kilis Postası",
+    "url": "https://www.kilispostasi.com"
+   },
+   {
+    "isim": "Kilis Haber",
+    "url": "https://www.kilishaber.net"
+   },
+   {
+    "isim": "7 Aralık Gazetesi",
+    "url": "https://www.yediaralikgazetesi.com"
+   }
+  ]
+ },
+ {
+  "ad": "KOCAELİ",
+  "gazeteler": [
+   {
+    "isim": "Özgür Kocaeli",
+    "url": "https://www.ozgurkocaeli.com.tr"
+   },
+   {
+    "isim": "Demokrat Kocaeli",
+    "url": "https://www.demokratkocaeli.com"
+   },
+   {
+    "isim": "Gebze Gazetesi",
+    "url": "https://www.gebzegazetesi.com"
+   }
+  ]
+ },
+ {
+  "ad": "KONYA",
+  "gazeteler": [
+   {
+    "isim": "Merhaba Gazetesi",
+    "url": "https://www.merhabagazetesi.com.tr"
+   },
+   {
+    "isim": "Yeni Konya",
+    "url": "https://www.yenikonya.com.tr"
+   },
+   {
+    "isim": "Pusula Gazetesi",
+    "url": "https://www.konyapusula.com"
+   }
+  ]
+ },
+ {
+  "ad": "KÜTAHYA",
+  "gazeteler": [
+   {
+    "isim": "Kütahya Gündem",
+    "url": "https://www.kutahyagundem.com"
+   },
+   {
+    "isim": "Tellal Gazetesi",
+    "url": "https://www.tellalgazetesi.com"
+   },
+   {
+    "isim": "Tavşanlı Haber",
+    "url": "https://www.tavsanlihaber.com"
+   }
+  ]
+ },
+ {
+  "ad": "MALATYA",
+  "gazeteler": [
+   {
+    "isim": "Malatya Haber",
+    "url": "https://www.malatyahaber.com"
+   },
+   {
+    "isim": "Malatya Manşet",
+    "url": "https://www.malatyamanset.com"
+   },
+   {
+    "isim": "Günışığı Gazetesi",
+    "url": "https://www.malatyagunisigi.com"
+   }
+  ]
+ },
+ {
+  "ad": "MANİSA",
+  "gazeteler": [
+   {
+    "isim": "Manisa'da Gündem",
+    "url": "https://www.manisadagundem.com"
+   },
+   {
+    "isim": "Ege'de Son Söz",
+    "url": "https://www.egedesonsoz.com"
+   },
+   {
+    "isim": "Manisa Haber",
+    "url": "https://www.manisahaber.com"
+   }
+  ]
+ },
+ {
+  "ad": "MARDİN",
+  "gazeteler": [
+   {
+    "isim": "Mardin Haber",
+    "url": "https://www.mardinhaber.net"
+   },
+   {
+    "isim": "Mardin Life",
+    "url": "https://www.mardinlife.com"
+   },
+   {
+    "isim": "Kızıltepe Gazetesi",
+    "url": "https://www.kiziltepegazetesi.com"
+   }
+  ]
+ },
+ {
+  "ad": "MERSİN",
+  "gazeteler": [
+   {
+    "isim": "Tarsus Haber",
+    "url": "https://www.tarsushaber.com"
+   },
+   {
+    "isim": "Mersin Haber",
+    "url": "https://www.mersinhaber.com.tr"
+   },
+   {
+    "isim": "Çağdaş Mersin",
+    "url": "https://www.cagdasmersin.com"
+   }
+  ]
+ },
+ {
+  "ad": "MUĞLA",
+  "gazeteler": [
+   {
+    "isim": "Muğla Devrim",
+    "url": "https://www.mugladevrim.com"
+   },
+   {
+    "isim": "Marmaris Manşet",
+    "url": "https://www.marmarismanset.com"
+   },
+   {
+    "isim": "Fethiye Haber",
+    "url": "https://www.fethiyehaber.net"
+   }
+  ]
+ },
+ {
+  "ad": "MUŞ",
+  "gazeteler": [
+   {
+    "isim": "Muş Ovası",
+    "url": "https://www.musovasi.com"
+   },
+   {
+    "isim": "Muş Haber",
+    "url": "https://www.mushaber.com"
+   },
+   {
+    "isim": "Varto Haber",
+    "url": "https://www.vartohaber.com"
+   }
+  ]
+ },
+ {
+  "ad": "NEVŞEHİR",
+  "gazeteler": [
+   {
+    "isim": "FİB Haber",
+    "url": "https://www.fibhaber.com"
+   },
+   {
+    "isim": "Nevşehir Haber",
+    "url": "https://www.nevsehirhaber.com.tr"
+   },
+   {
+    "isim": "Kapadokya Gündem",
+    "url": "https://www.kapadokyagundem.com"
+   }
+  ]
+ },
+ {
+  "ad": "NİĞDE",
+  "gazeteler": [
+   {
+    "isim": "Niğde Haber",
+    "url": "https://www.nigdehaber.com"
+   },
+   {
+    "isim": "Bor'un Sesi",
+    "url": "https://www.borunsesi.com"
+   },
+   {
+    "isim": "Niğde Anadolu",
+    "url": "https://www.nigdeanadolu.com"
+   }
+  ]
+ },
+ {
+  "ad": "ORDU",
+  "gazeteler": [
+   {
+    "isim": "Ordu Atılım",
+    "url": "https://www.orduatilim.com"
+   },
+   {
+    "isim": "Ordu Gerçek",
+    "url": "https://www.ordugercek.com"
+   },
+   {
+    "isim": "Ordu Kent",
+    "url": "https://www.ordukent.com"
+   }
+  ]
+ },
+ {
+  "ad": "OSMANİYE",
+  "gazeteler": [
+   {
+    "isim": "Osmaniye Haber",
+    "url": "https://www.osmaniyehaber.net"
+   },
+   {
+    "isim": "Manşet Gazetesi",
+    "url": "https://www.osmaniyemanset.com"
+   },
+   {
+    "isim": "Cebelibereket",
+    "url": "https://www.cebelibereket.com"
+   }
+  ]
+ },
+ {
+  "ad": "RİZE",
+  "gazeteler": [
+   {
+    "isim": "Çayeli Haber",
+    "url": "https://www.cayeligazetesi.com"
+   },
+   {
+    "isim": "Rize Gündem",
+    "url": "https://www.rizegundem.com"
+   },
+   {
+    "isim": "Karadeniz'de Son Nokta",
+    "url": "https://www.karadenizdesonnokta.com"
+   }
+  ]
+ },
+ {
+  "ad": "SAKARYA",
+  "gazeteler": [
+   {
+    "isim": "Yeni Sakarya",
+    "url": "https://www.yenisakarya.com.tr"
+   },
+   {
+    "isim": "Adapazarı Akşam",
+    "url": "https://www.adapazariaksam.com"
+   },
+   {
+    "isim": "Sakarya Yenigün",
+    "url": "https://www.sakaryayenigun.com"
+   }
+  ]
+ },
+ {
+  "ad": "SAMSUN",
+  "gazeteler": [
+   {
+    "isim": "Samsun Haber",
+    "url": "https://www.samsunhaber.com"
+   },
+   {
+    "isim": "Vezirköprü Özlem",
+    "url": "https://www.vezirkopruozlem.com"
+   },
+   {
+    "isim": "İlkadım Gazetesi",
+    "url": "https://www.ilkadimgazetesi.com"
+   }
+  ]
+ },
+ {
+  "ad": "SİİRT",
+  "gazeteler": [
+   {
+    "isim": "Siirt Haber",
+    "url": "https://www.siirthaber.com"
+   },
+   {
+    "isim": "Siirt Mücadele",
+    "url": "https://www.siirtmucadele.com"
+   },
+   {
+    "isim": "Siirt'in Sesi",
+    "url": "https://www.siirtinsesi.com"
+   }
+  ]
+ },
+ {
+  "ad": "SİNOP",
+  "gazeteler": [
+   {
+    "isim": "Vitrin Haber",
+    "url": "https://www.vitrinhaber.com"
+   },
+   {
+    "isim": "Sinop'un Sesi",
+    "url": "https://www.sinopunsesi.com"
+   },
+   {
+    "isim": "Boyabat Sesi",
+    "url": "https://www.boyabatsesi.com"
+   }
+  ]
+ },
+ {
+  "ad": "SİVAS",
+  "gazeteler": [
+   {
+    "isim": "Yeni Ülke",
+    "url": "https://www.yeniulke.com.tr"
+   },
+   {
+    "isim": "Sivas Haber",
+    "url": "https://www.sivashaber.net"
+   },
+   {
+    "isim": "Sivas Postası",
+    "url": "https://www.sivaspostasi.com"
+   }
+  ]
+ },
+ {
+  "ad": "ŞANLIURFA",
+  "gazeteler": [
+   {
+    "isim": "Urfa Haber",
+    "url": "https://www.urfagundem.com"
+   },
+   {
+    "isim": "Şanlıurfa Olay",
+    "url": "https://www.sanliurfaolay.com"
+   },
+   {
+    "isim": "Edessa Haber",
+    "url": "https://www.edessahaber.com"
+   }
+  ]
+ },
+ {
+  "ad": "ŞIRNAK",
+  "gazeteler": [
+   {
+    "isim": "Şırnak Haber",
+    "url": "https://www.sirnakhaber.com"
+   },
+   {
+    "isim": "Cudi Postası",
+    "url": "https://www.cudipostasi.com"
+   },
+   {
+    "isim": "Silopi Haber",
+    "url": "https://www.silopihaber.com"
+   }
+  ]
+ },
+ {
+  "ad": "TEKİRDAĞ",
+  "gazeteler": [
+   {
+    "isim": "Trakya Gazetesi",
+    "url": "https://www.trakyagazetesi.com.tr"
+   },
+   {
+    "isim": "Çerkezköy Ekspres",
+    "url": "https://www.cerkezkoyekspres.com"
+   },
+   {
+    "isim": "Tekirdağ Yeni Haber",
+    "url": "https://www.tekirdagyenihaber.com"
+   }
+  ]
+ },
+ {
+  "ad": "TOKAT",
+  "gazeteler": [
+   {
+    "isim": "Yeni Tokat",
+    "url": "https://www.yenitokat.com.tr"
+   },
+   {
+    "isim": "Tokat Gündem",
+    "url": "https://www.tokatgundem.com"
+   },
+   {
+    "isim": "Turhal Haber",
+    "url": "https://www.turhalhaber.com"
+   }
+  ]
+ },
+ {
+  "ad": "TRABZON",
+  "gazeteler": [
+   {
+    "isim": "Karadeniz Gazetesi",
+    "url": "https://www.karadenizgazetesi.com.tr"
+   },
+   {
+    "isim": "Taka Gazetesi",
+    "url": "https://www.takagazetesi.com.tr"
+   },
+   {
+    "isim": "Günebakış",
+    "url": "https://www.gunebakis.com.tr"
+   }
+  ]
+ },
+ {
+  "ad": "TUNCELİ",
+  "gazeteler": [
+   {
+    "isim": "Tunceli Haber",
+    "url": "https://www.tuncelisesi.com"
+   },
+   {
+    "isim": "Munzur Postası",
+    "url": "https://www.munzurpostasi.com"
+   },
+   {
+    "isim": "Ovacık Haber",
+    "url": "https://www.ovacıkhaber.com"
+   }
+  ]
+ },
+ {
+  "ad": "UŞAK",
+  "gazeteler": [
+   {
+    "isim": "Uşak Haber",
+    "url": "https://www.usakhaber.com.tr"
+   },
+   {
+    "isim": "Ege'de Uşak",
+    "url": "https://www.egeuşak.com"
+   },
+   {
+    "isim": "Zafer Gazetesi",
+    "url": "https://www.zaferuşak.com"
+   }
+  ]
+ },
+ {
+  "ad": "VAN",
+  "gazeteler": [
+   {
+    "isim": "Van Haber",
+    "url": "https://www.vanhaber.com"
+   },
+   {
+    "isim": "Prestij Gazetesi",
+    "url": "https://www.vanprestij.com"
+   },
+   {
+    "isim": "Şehir Van",
+    "url": "https://www.sehirvan.com"
+   }
+  ]
+ },
+ {
+  "ad": "YALOVA",
+  "gazeteler": [
+   {
+    "isim": "Yalova Gazetesi",
+    "url": "https://www.yalovagazetesi.com.tr"
+   },
+   {
+    "isim": "İlkhaber Gazetesi",
+    "url": "https://www.ilkhabergazetesi.com"
+   },
+   {
+    "isim": "Yalova Gündem",
+    "url": "https://www.yalovagundem.com"
+   }
+  ]
+ },
+ {
+  "ad": "YOZGAT",
+  "gazeteler": [
+   {
+    "isim": "Yerköy Gazetesi",
+    "url": "https://www.yerkoygazetesi.com"
+   },
+   {
+    "isim": "Sorgun Postası",
+    "url": "https://www.sorgunpostasi.com"
+   },
+   {
+    "isim": "Yozgat Haber",
+    "url": "https://www.yozgathaber.com"
+   }
+  ]
+ },
+ {
+  "ad": "ZONGULDAK",
+  "gazeteler": [
+   {
+    "isim": "Zonguldak Haber",
+    "url": "https://www.zonguldakhaber.com"
+   },
+   {
+    "isim": "Pusula Gazetesi",
+    "url": "https://www.zonguldakpusula.com.tr"
+   },
+   {
+    "isim": "Ereğli FM",
+    "url": "https://www.ereglihaber.com"
+   }
+  ]
+ }
+]
