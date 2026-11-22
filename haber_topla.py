@@ -199,3 +199,5 @@ def main():
     Path(a.cikti).write_text(json.dumps(sonuc, ensure_ascii=False, indent=1), encoding="utf-8")
     print("Yazıldı:", a.cikti, sonuc["ozet"])
 if __name__ == "__main__": main()
+          git pull --rebase origin main
+          git push origin main
